@@ -5625,19 +5625,18 @@ body:not(.fsComposeMode) .parallax-container {
   body:not(.fsComposeMode) .parallax-container .parallax-text {
     position: absolute;
     top: 40px;
-    right: 0px;
-    height: 283px;
-    width: 292px;
-    text-align: center;
+    left: 0px;
+    height: 275px;
+    width: 692px;
     background-color: #01356B;
     margin: 0px;
-    padding: 0px 28px;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: center;
-    justify-content: center; }
+    padding: 30px 28px 0px;
+    }
+    body:not(.fsComposeMode) .parallax-container .parallax-text h1{
+      color: #fff;
+      font-weight: bolder;
+      font-size: 28px;
+    }
     @media (max-width: 699px) {
       body:not(.fsComposeMode) .parallax-container .parallax-text {
         position: relative;
@@ -5648,10 +5647,10 @@ body:not(.fsComposeMode) .parallax-container {
       margin: 0px;
       color: #ffffff;
       font-family: "Proxima N W01 Reg";
-      font-size: 22px;
+      font-size: 18px;
       letter-spacing: 1px;
-      line-height: 26px;
-      text-align: center; }
+      line-height: 29px;
+      text-align: left; }
 
 body:not(.fsComposeMode) .mentone-social {
   position: relative;
@@ -6317,7 +6316,6 @@ body:not(.fsComposeMode) .testimonial.right .testimonial-text {
 
 
 .owl-item .item{
-  height: 150px;
   background-color: red;
 }
 .container{
@@ -6367,15 +6365,18 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="linkedin"] 
 body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="youtube"] {
     background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/youtube.png) center center / cover no-repeat;
 }
-
 .prog_box{
-  width: 31.33%;
+  width: 30.33%;
   float: left;
   margin-right: 25px;
   margin-bottom: 30px;
 }
-
-
+body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .calendarTitle.red_bg{
+  background-color: #B90E1A;
+}
+body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .calendarTitle.yellow_bg{
+  background-color: rgb(244, 201, 27);
+}
 
 
 
