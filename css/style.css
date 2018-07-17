@@ -863,7 +863,7 @@ body:not(.fsComposeMode) .callout h2.fsElementTitle {
   padding-left: 40px; }
 
 .fsBreadcrumb ul li {
-  display: inline-block;
+  display: inline-flex;
   font-family: "Proxima N W01 Reg";
   font-size: 12px;
   font-weight: 600;
@@ -877,7 +877,7 @@ body:not(.fsComposeMode) .callout h2.fsElementTitle {
     color: #ADB5BD; }
 
 .fsBreadcrumb .fsNavBreadcrumbSeperator {
-  margin: 0px 5px; }
+  margin: 0px 5px 0px; }
 
 .nav-site-map .fsElementContent nav ul {
   margin: 0 0 0 20px;
@@ -1933,7 +1933,7 @@ body:not(.fsComposeMode) .fsContainer.inner-logo-multimedia {
   padding: 0px;
   margin: 0px 0px 0px 0px;
   margin-bottom: 0px !important;
-  height: 410px;
+  height: 302px;
   border-bottom: 2px solid #01356B; }
   @media (max-width: 1099px) {
     body:not(.fsComposeMode) .fsContainer.inner-logo-multimedia {
@@ -1945,7 +1945,7 @@ body:not(.fsComposeMode) .fsContainer.inner-logo-multimedia {
     position: relative;
     width: 25%;
     float: left;
-    height: 408px;
+    height: 300px;
     background-color: #ffffff;
     text-align: center;
     margin: 0px;
@@ -1961,7 +1961,7 @@ body:not(.fsComposeMode) .fsContainer.inner-logo-multimedia {
         height: 345px; } }
   body:not(.fsComposeMode) .fsContainer.inner-logo-multimedia .header-multimedia-holder {
     position: relative;
-    height: 408px;
+    height: 300px;
     width: 75%;
     float: left;
     padding: 0px;
@@ -2797,7 +2797,7 @@ body {
   @media (min-width: 1000px) {
     .fsHasTwoColumnWideLeftLayout.fsHasLeftBanner .fsStyleTwoThirds,
     .fsHasElephantRightLayout.fsHasLeftBanner .fsStyleTwoThirds {
-      width: calc(100% - 300px); } }
+      width: calc(100% - 10px); } }
 
 @media (min-width: 800px) {
   .fsHasTwoColumnWideLeftLayout.fsHasRightBanner #fsPageContent,
@@ -6065,11 +6065,13 @@ body:not(.fsComposeMode) .testimonial {
   body:not(.fsComposeMode) .testimonial p {
     color: #101010;
     font-family: "Proxima N W01 Reg";
-    font-size: 22px;
+    font-size: 19px;
     letter-spacing: 1px;
-    line-height: 42px;
-    font-weight: 600;
+    line-height: 34px;
     margin: 0px; }
+    .text-right{
+      text-align: right;
+    }
     @media (max-width: 990px) {
       body:not(.fsComposeMode) .testimonial p {
         font-size: 18px;
@@ -6313,11 +6315,6 @@ body:not(.fsComposeMode) .testimonial.right .testimonial-text {
 .logo_text{
   text-transform: uppercase;
 }
-
-
-.owl-item .item{
-  background-color: red;
-}
 .container{
   width: 90%;
   margin: 0 auto;
@@ -6349,8 +6346,8 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a {
 .fsNavigation ul li a {
     display: block;
     color: rgb(10, 45, 98);
-    padding: 10px 0px;
-    background: transparent;
+    /*padding: 10px 0px;*/
+    /*background: transparent;*/
 }
 body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li {
     display: inline-block;
@@ -6366,7 +6363,7 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="youtube"] {
     background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/youtube.png) center center / cover no-repeat;
 }
 .prog_box{
-  width: 30.33%;
+  width: 31.33%;
   float: left;
   margin-right: 25px;
   margin-bottom: 30px;
@@ -6377,18 +6374,164 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
 body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .calendarTitle.yellow_bg{
   background-color: rgb(244, 201, 27);
 }
+#popUp {
+  position: fixed;
+  width: 300px;
+  height: 413px;
+  background: rgb(241, 238, 238);
+  border: 7px solid #fff;
+  bottom: 0;
+  right: 0;
+  margin-right: -425px;
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  transition: all 1s ease;
+  z-index: 99;
+}
+
+#new span {
+  background: #fff;
+  position: absolute;
+  color: #b90f1b;
+  padding: 4px 10px;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-top: -5px;
+}
+
+#popUp .close {
+  color: #464646;
+  right: 4px;
+  top: 2px;
+  position: absolute;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#popUp h2 {
+  font-size: 17px;
+  color: #464646;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 40px;
+  padding: 0 20px;
+}
+
+#popUp a.button {
+  margin: 10px auto 0;
+  text-align: center;
+  right: 0;
+  left: 0;
+  display: block;
+  width: 120px;
+  font-size: 15px;
+  color: #fff;
+  border-bottom: 2px solid #b90f1b;
+  background: #b90f1b;
+  border-radius: 4px;
+  padding: 8px 0;
+}
+
+#plus {
+  position: fixed;
+  color: #fff;
+  bottom: 15%;
+  font-size: 15px;
+  margin-left: 0px;
+  -webkit-transition: all 1.25s ease;
+  -moz-transition: all 1.25s ease;
+  -o-transition: all 1.25s ease;
+  transition: all 1.25s ease;
+  cursor: pointer;
+  text-align: left;
+  letter-spacing: 1px;
+  right: 0;
+  z-index: 9;
+}
+
+#plus span {
+  position: absolute;
+  margin-top: 38px;
+  left: 29px;
+  font-size: 21px;
+  top: 6px;
+}
+
+#plus::after {
+  content: '';
+  display: block;
+  border-top: 55px solid transparent;
+  border-bottom: 55px solid transparent;
+  border-right: 55px solid #b90f1b;
+}
+
+@media all and (max-width: 900px) {
+  #popUp {
+    margin-left: -425px;
+  }
+  #plus {
+    margin-left: 0px;
+  }
+}
 
 
+#pop_up_enq_form {
+  padding: 40px 20px 20px;
+  font-family: "Proxima N W01 Reg";
+}
 
+#pop_up_enq_form .form-control{
+  margin-bottom: 10px;
+}
+#pop_up_enq_form .form-control input:focus,
+#pop_up_enq_form .form-control input:active,
+#pop_up_enq_form .form-control textarea:active,
+#pop_up_enq_form .form-control textarea:focus,
+#pop_up_enq_form .form-control select:active,
+#pop_up_enq_form .form-control select:focus{
+  outline: none;
+}
+#pop_up_enq_form .form-control input[type="text"],
+#pop_up_enq_form .form-control input[type="number"],
+#pop_up_enq_form .form-control input[type="email"],
+#pop_up_enq_form .form-control select,
+#pop_up_enq_form .form-control textarea{
+  width: 100%;
+  display: block;
+  border: none;
+  border-radius: 3px;
+  color: #000;
+  font-size: 14px;
+  background-color: #fff;
+}
+#pop_up_enq_form .form-control select{
+  height: 35px;
+}
 
+#pop_up_enq_form ::-webkit-input-placeholder {
+  color: #000; 
+}
 
+#pop_up_enq_form :-moz-placeholder {
+  color: #000; 
+}
 
+#pop_up_enq_form ::-moz-placeholder {
+  color: #000; 
+}
 
-
-
-
-
-
+#pop_up_enq_form :-ms-input-placeholder {
+  color: #000; 
+}
+#pop_up_cvr.force_stay_pop #popUp{
+  margin-right: -425px!important;
+}
+#pop_up_cvr.force_stay_pop #plus{
+  margin-right: 0px!important;
+}
 
 
 

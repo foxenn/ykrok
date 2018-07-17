@@ -11,6 +11,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 
@@ -29,10 +31,52 @@
 </head>
 
 <body data-logged-in="false" data-pageid="2" class="fsHasHeader fsHasMenu fsHasFooter fsHasOneColumnLayout home fsHasTheme2">
+    <div id="pop_up_cvr">
+        <div id="popUp">
+            <div id="close" class="close"><i class="fa fa-times"></i></div>
+            <div id="new"><span>Child Care at Affordable Prices</span></div>
+            <form action="" id="pop_up_enq_form">
+                <div class="form-control">
+                    <input type="text" placeholder="Name">
+                </div>
+                <div class="form-control">
+                    <input type="email" placeholder="Email ID">
+                </div>
+                <div class="form-control">
+                    <input type="number" placeholder="Mobile Number">
+                </div>
+                <div class="form-control">
+                    <select name="" id="">
+                        <option value="0">Select a Program</option>
+                        <option value="Day Care 3 Months - 6 Years">Day Care 3 Months - 6 Years</option>
+                        <option value="Infant 3 Months - 14 Months">Infant 3 Months - 14 Months</option>
+                        <option value="Toddler 14 Months - 24 Months">Toddler 14 Months - 24 Months</option>
+                        <option value="Two‘s 2 Years - 2.6 Years">Two‘s 2 Years - 2.6 Years</option>
+                        <option value="Pre Nursery 2.6 - 3 Years">Pre Nursery 2.6 - 3 Years</option>
+                        <option value="Nursery 3 - 4 Years">Nursery 3 - 4 Years</option>
+                        <option value="Kindergarten 4 - 6 Years">Kindergarten 4 - 6 Years</option>
+                        <option value="After School 3 - 12 Years">After School 3 - 12 Years</option>
+                    </select>
+                </div>
+                <div class="form-control">
+                    <input type="number" placeholder="Child Age">
+                </div>
+                <div class="form-control">
+                    <textarea name="" id="" cols="10" rows="3" placeholder="Details (Optional)"></textarea>
+                </div>
+                <a href="#" target="_blank" class="button">Submit</a>
+            </form>
+        </div>
+        <div id="plus">
+            <span>
+                <i class="fa fa-plus"></i>
+            </span>
+        </div>
+    </div>
 
     <div id="fsPageWrapper">
 
-        <div id="fsMenu">
+        <!-- <div id="fsMenu">
             <div class=" fsMenu fsStyleAutoclear" id="fsEl_493">
                 <div class="fsElement fsNavigation fsList" id="fsEl_494" data-use-new="true">
 
@@ -61,8 +105,8 @@
                     <div class="fsElementContent">
                         <nav>
                             <ul class="fsNavLevel1">
-                                <li><a href="/alumni-portal/about-us">Alumni</a></li>
-                                <li><a href="https://mconnect.mentonegirls.vic.edu.au">mConnect</a></li>
+                                <li><a href="">Alumni</a></li>
+                                <li><a href="">mConnect</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -71,7 +115,7 @@
                 <div class="fsElement fsContent mobile-search-holder" id="fsEl_1330" data-use-new="true">
 
                     <div class="fsElementContent">
-                        <form action="/search-results" class="fs-mobile-search" method="GET" role="search">
+                        <form action="" class="fs-mobile-search" method="GET" role="search">
                             <label>Search </label>
                             <input aria-label="search text" id="search-input-top" name="q" placeholder="Search..." type="text">
                             <input value=">" type="submit" class="button submit-button"> </form>
@@ -82,7 +126,7 @@
 
             </div>
 
-        </div>
+        </div> -->
 
         <header id="fsHeader" class="fsHeader">
             <div class=" fsBanner fsStyleAutoclear" id="fsEl_7">
@@ -128,6 +172,7 @@
                                     <div class="fsNavPageInfo">
                                         <ul class="fsNavLevel2">
                                             <li><a href="javascript:void(0);">13 Years of Experiences</a></li>
+                                            <li><a href="javascript:void(0);">Our Centers</a></li>
                                             <li><a href="javascript:void(0);">We Promise</a></li>
                                             <li><a href="javascript:void(0);">Our Philosophy </a></li>
                                             <li><a href="javascript:void(0);">Corporate Standards </a></li>
@@ -299,7 +344,7 @@
                                         </div>
                                         <footer>
                                             <div class="fsElementFooterContent">
-                                                <a href="javascript:void(0);" target="_blank" data-page-name="School Tours">link</a>
+                                                <a href="our-centers.html" data-page-name="School Tours">link</a>
                                             </div>
                                         </footer>
 
@@ -842,13 +887,28 @@
                                     <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
 
                                         <div class="fsElementContent">
-                                            <h1>Testimonials Here</h1>
-                                            <h1>Your Kids Are Our Kids</h1>
-                                            <p></p>
-                                            <p><a href="#" data-page-name="Principal's Welcome"><span class="fs_style_27">READ MORE</span></a></p>
-                                            <br>
-                                            <p></p>
-                                            <p></p>
+                                            <div class="owl-carousel owl-carousel-testimonial owl-theme">
+                                                <div class="item">
+                                                    <h1>Few Testimonials</h1>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque excepturi maiores, fugiat nihil numquam officia eos nobis mollitia, consectetur minima molestiae magni enim obcaecati natus modi delectus iure vel doloremque?</p>
+                                                    <p class="text-right">- Parinitha Rao, Wipro Inc.</p>
+                                                </div>
+                                                <div class="item">
+                                                    <h1>Few Testimonials</h1>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque excepturi maiores, fugiat nihil numquam officia eos nobis mollitia, consectetur minima molestiae magni enim obcaecati natus modi delectus iure vel doloremque?</p>
+                                                    <p class="text-right">- Parinitha Rao, Wipro Inc.</p>
+                                                </div>
+                                                <div class="item">
+                                                    <h1>Few Testimonials</h1>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque excepturi maiores, fugiat nihil numquam officia eos nobis mollitia, consectetur minima molestiae magni enim obcaecati natus modi delectus iure vel doloremque?</p>
+                                                    <p class="text-right">- Parinitha Rao, Wipro Inc.</p>
+                                                </div>
+                                                <div class="item">
+                                                    <h1>Few Testimonials</h1>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque excepturi maiores, fugiat nihil numquam officia eos nobis mollitia, consectetur minima molestiae magni enim obcaecati natus modi delectus iure vel doloremque?</p>
+                                                    <p class="text-right">- Parinitha Rao, Wipro Inc.</p>
+                                                </div>
+                                            </div>
                                         </div>
 
                                     </div>
@@ -868,7 +928,7 @@
         <footer id="fsFooter" class="fsFooter">
             <div class=" fsBanner fsStyleAutoclear" id="fsEl_9">
 
-                <div class="fsElement fsLayout fsThreeColumnLayout footer-quicks fsStyleAutoclear" id="fsEl_1269" data-use-new="true" style="background-image: url('/uploaded/themes/default_17/images/default2.jpg');">
+                <div class="fsElement fsLayout fsThreeColumnLayout footer-quicks fsStyleAutoclear" id="fsEl_1269" data-use-new="true" style="background-image: url('images/default2.jpg');">
 
                     <div class=" fsDiv fsStyleColumn fsStyleColumn-1 fsStyleAutoclear" id="fsEl_1270">
 
@@ -876,7 +936,6 @@
 
                             <div class="fsElementContent">
                                 <a href="/fs/pages/365" target="_blank" data-page-name="Contact our admissions team">Enquire</a>
-
                             </div>
 
                         </div>
@@ -888,7 +947,6 @@
 
                             <div class="fsElementContent">
                                 <a href="/fs/pages/358" target="_blank" data-page-name="Local enrolments">apply</a>
-
                             </div>
 
                         </div>
@@ -981,53 +1039,7 @@
     <script src="js/orginal.js"></script>
     <script src="js/owl.carousel.js"></script>
 
-    <script>
-        $(document).ready(function() {
-          var owl = $('.owl-carouselzero');
-          owl.owlCarousel({
-            margin: 15,
-            nav: false,
-            loop: true,
-            autoplay:false,
-            responsive: {
-              0: {
-                items: 1
-              },
-              600: {
-                items: 3
-              },
-              1000: {
-                items: 5
-              }
-            }
-          })
-
-          var owlone = $('.owl-carouselone');
-          owlone.owlCarousel({
-            margin: 15,
-            nav: false,
-            loop: true,
-            autoplay: true,
-            autoplayTimeout: 1500,
-            autoplayHoverPause:true,
-            responsive: {
-              0: {
-                items: 1
-              },
-              600: {
-                items: 3
-              },
-              1000: {
-                items: 3
-              }
-            }
-          })
-        })
-
-        $(document).ready(function() {
-            $('body').fadeIn(3000);
-        });
-    </script>
+    <script src="js/custom.js"></script>
 
 </body>
 
