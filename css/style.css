@@ -6799,3 +6799,7 @@ body:not(.fsComposeMode) .card p{
 .contact-details dd{
   margin-left: 5px;
 }
+
+.we_promise_box span{
+  color: #B90E1A;
+}
