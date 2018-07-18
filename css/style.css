@@ -2797,7 +2797,7 @@ body {
   @media (min-width: 1000px) {
     .fsHasTwoColumnWideLeftLayout.fsHasLeftBanner .fsStyleTwoThirds,
     .fsHasElephantRightLayout.fsHasLeftBanner .fsStyleTwoThirds {
-      width: calc(100% - 10px); } }
+      width: calc(100% - 300px); } }
 
 @media (min-width: 800px) {
   .fsHasTwoColumnWideLeftLayout.fsHasRightBanner #fsPageContent,
@@ -6794,4 +6794,8 @@ body:not(.fsComposeMode) .card p{
     background: #b90f1b;
     border-radius: 4px;
     padding: 8px 0;
+}
+
+.contact-details dd{
+  margin-left: 5px;
 }
