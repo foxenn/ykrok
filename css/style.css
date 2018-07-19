@@ -6556,7 +6556,7 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
   color: #FFF;
   position: relative;
   transition: all 100ms cubic-bezier(0.165, 0.84, 0.44, 1);
-  width: 32%;
+  width: 31%;
 }
 .controller:after {
   content: "";
@@ -6585,7 +6585,7 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
   overflow: hidden;
   background-color: #fafafa;
   height: 35%;
-  width: 280px;
+  width: 235px;
   transition: all 400ms cubic-bezier(0.165, 0.84, 0.44, 1);
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.37);
 }
@@ -6662,7 +6662,7 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
   left: 0;
   right: 0;
   top: 100px;
-  padding: 16px;
+  padding: 12px 5px;
   margin: 0;
   line-height: 1.6;
   position: absolute;
@@ -6697,7 +6697,7 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
 }
 .card--big {
   box-shadow: 0 12px 40px 0 rgba(0, 0, 0, 0.3), 0 12px 12px 0 rgba(0, 0, 0, 0.15);
-  height: 342px;
+  height: 388px;
   min-height: 304px;
 }
 .card--big .card__image {
