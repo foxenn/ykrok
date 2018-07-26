@@ -1797,7 +1797,7 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
       line-height: 15px;
     }
     body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger:after {
-    position: absolute;
+    /*position: absolute;
     content: "";
     position: absolute;
     top: 50%;
@@ -1805,7 +1805,15 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
     right: -11px;
     width: 1px;
     height: 12px;
-    background-color: #ffffff; }
+    background-color: #ffffff;*/
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 7px solid #fff;
+    margin-left: 9px; }
   body:not(.fsComposeMode) #fsHeader .top-triggers .search-trigger {
     position: absolute;
     position: absolute;
@@ -1823,11 +1831,11 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
 body:not(.fsComposeMode) .top-portal-list {
   position: absolute;
   top: 59px;
-  right: 120px;
+  right: 104px;
   background-color: #B90E1A;
   margin: 0px;
   padding: 7px;
-  width: 110px;
+  width: 125px;
   text-align: center;
   z-index: 9999;
   opacity: 0;
