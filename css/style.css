@@ -6811,3 +6811,6 @@ body:not(.fsComposeMode) .card p{
 .we_promise_box span{
   color: #B90E1A;
 }
+body:not(.fsComposeMode) .owl-carousel-testimonial p.text-right{
+  line-height: 27px;
+}
