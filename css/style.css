@@ -6385,7 +6385,7 @@ body:not(.fsComposeMode) .homepage-events .container .prog_box .calendar-item .c
 #popUp {
   position: fixed;
   width: 300px;
-  height: 450px;
+  height: 466px;
   background: rgb(241, 238, 238);
   border: 7px solid #fff;
   bottom: 0;
