@@ -2035,7 +2035,7 @@ body:not(.fsComposeMode) #fsFooter {
     position: absolute;
     left: 50%;
     transform: translate3d(-50%, 0, 0);
-    bottom: 0px;
+    bottom: 40px;
     background: url("../images/YKROK_blue_logo.png") no-repeat center;
     background-size: contain;
     width: 150px;
@@ -2059,8 +2059,9 @@ body:not(.fsComposeMode) #fsFooter {
   body:not(.fsComposeMode) #fsFooter .lower-copyright #fsPoweredByFinalsite {
     position: absolute;
     bottom: 0px;
-    right: 0px;
-    width: 132px; }
+    right: calc(50% - 120px);
+    width: auto;
+    transform: translateX(-50%); }
     @media (max-width: 899px) {
       body:not(.fsComposeMode) #fsFooter .lower-copyright #fsPoweredByFinalsite {
         position: relative;
@@ -6808,9 +6809,31 @@ body:not(.fsComposeMode) .card p{
   margin-left: 5px;
 }
 
+#fsPoweredByFinalsite a{
+  font-family: "Myriad W01 Regular", sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 20px;
+  color: #fff;
+  text-indent: 0px;
+}
+#fsPoweredByFinalsite{
+  opacity: 1;
+}
 .we_promise_box span{
   color: #B90E1A;
 }
 body:not(.fsComposeMode) .owl-carousel-testimonial p.text-right{
   line-height: 27px;
+  font-style: italic;
 }
+
+
+
+
+
+
+
+
+
+

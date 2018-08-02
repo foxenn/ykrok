@@ -5,7 +5,8 @@ $(document).ready(function() {
     margin: 15,
     nav: false,
     loop: true,
-    autoplay:false,
+    autoplayTimeout: 800,
+    autoplay:true,
     responsive: {
       0: {
         items: 1
