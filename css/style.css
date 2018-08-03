@@ -1,19 +1,5 @@
 @charset "UTF-8";
- /**
- *
- * Mentone Girls Grammar - default_17
- * @link http://mentonegirlsviceduau.finalsite.com
- * Site Template : newclientcustom
- * Built By: Alexandru Dinc?
- * Project Manager: Project Manager
- * Designer: Your Designer
- * ==== Git Info ====
- * Branch Name: clients/mentonegirlsviceduau
- * Build version: 3.2.6
- * Git Tag: v3.0-239-gc0ef22a
- * Last build by: Chris Dryland
- *
- **/
+ 
 
 @charset "UTF-8";
 /*! helpers - functions v0.0.1 */
@@ -6834,7 +6820,12 @@ body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink > .fsElementConte
   font-size: 22px;
 }
 
-
+@media only screen and (max-width: 1400px){
+  .prog_box {
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+}
 
 
 
