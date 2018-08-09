@@ -6819,7 +6819,16 @@ body:not(.fsComposeMode) .owl-carousel-testimonial p.text-right{
 body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink > .fsElementContent h2.call_me{
   font-size: 22px;
 }
+.anchor_red{
+  color: #B90E1A;
+}
 
+.comp_name p span{
+  font-size: 12px;
+}
+p.comp_punch{
+  margin-top: 6px;
+}
 @media only screen and (max-width: 1400px){
   .prog_box {
     margin-right: 15px;
