@@ -5900,7 +5900,7 @@ body:not(.fsComposeMode) .homepage-events {
         left: 20px;
         color: #000000;
         font-family: "Proxima N W01 Reg";
-        font-size: 34px;
+        font-size: 18px;
         letter-spacing: 1px;
         line-height: 58px; }
       body:not(.fsComposeMode) .homepage-events .calendar-item .calendar-date span.day-name {
