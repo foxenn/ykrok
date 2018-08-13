@@ -1785,16 +1785,8 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
       letter-spacing: 1px;
       line-height: 15px;
     }
-    body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger:after {
-    /*position: absolute;
-    content: "";
-    position: absolute;
-    top: 50%;
-    transform: translate3d(0, -50%, 0);
-    right: -11px;
-    width: 1px;
-    height: 12px;
-    background-color: #ffffff;*/
+    body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger:after,
+    body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger1:after {
     content: "";
     display: inline-block;
     width: 0;
@@ -1817,30 +1809,42 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
     background-size: cover;
     cursor: pointer; }
 
-body:not(.fsComposeMode) .top-portal-list {
+body:not(.fsComposeMode) .top-portal-list ,
+body:not(.fsComposeMode) .top-portal-list1 {
   position: absolute;
   top: 59px;
-  right: 104px;
   background-color: #B90E1A;
   margin: 0px;
   padding: 7px;
-  width: 125px;
   text-align: center;
   z-index: 9999;
   opacity: 0;
   visibility: hidden;
   transition: all 0.25s ease; }
-  body:not(.fsComposeMode) .top-portal-list nav ul li a {
+  body:not(.fsComposeMode) .top-portal-list{
+    width: 125px;
+    right: 155px;
+  }
+  body:not(.fsComposeMode) .top-portal-list1{
+    right: 0px;
+    width: 155px;
+  }
+  body:not(.fsComposeMode) .top-portal-list nav ul li a,
+  body:not(.fsComposeMode) .top-portal-list1 nav ul li a {
     padding: 0;
     color: #ffffff;
     font-family: "Myriad W01 Regular";
     font-size: 12px;
     letter-spacing: 1px;
     line-height: 20px; }
-    body:not(.fsComposeMode) .top-portal-list nav ul li a:hover, body:not(.fsComposeMode) .top-portal-list nav ul li a:focus {
+    body:not(.fsComposeMode) .top-portal-list nav ul li a:hover, 
+    body:not(.fsComposeMode) .top-portal-list1 nav ul li a:hover, 
+    body:not(.fsComposeMode) .top-portal-list nav ul li a:focus,
+    body:not(.fsComposeMode) .top-portal-list1 nav ul li a:focus {
       color: #01356B; }
 
-body:not(.fsComposeMode) .top-portal-list.open {
+body:not(.fsComposeMode) .top-portal-list.open,
+body:not(.fsComposeMode) .top-portal-list1.open {
   opacity: 1;
   visibility: visible; }
 

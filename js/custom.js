@@ -84,6 +84,10 @@ $(document).ready(function() {
     $("#plus").css("margin-right", "0px");
     $('#pop_up_cvr').addClass('force_stay_pop');
   });
+
+  $('.portal-trigger1').click(function(){
+    return $('.top-portal-list1').hasClass('open') ? $('.top-portal-list1').removeClass('open') : $('.top-portal-list1').addClass('open');
+  })
 })
 
             
