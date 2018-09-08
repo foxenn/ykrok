@@ -1176,11 +1176,12 @@ body:not(.fsComposeMode) .callout h2.fsElementTitle {
     padding: 22px;
     text-transform: uppercase;
     font-family: "Myriad W01 Regular";
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1px;
     line-height: 15px;
     text-align: center;
-    position: relative; }
+    position: relative;
+    font-weight: bolder; }
     .nav-main .fsNavLevel1 > li > a:focus {
       color: #eee;
       background: #8D0613; }
@@ -1261,7 +1262,7 @@ body:not(.fsComposeMode) .nav-main nav ul.fsNavLevel1 > li a:after {
   top: 50%;
   transform: translate3d(0, -50%, 0);
   right: 0;
-  width: 1px;
+  width: 2px;
   height: 12px;
   background-color: #ffffff; }
 
@@ -1751,7 +1752,6 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
     height: 100%; }
   body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger {
     position: absolute;
-    position: absolute;
     top: 50%;
     transform: translate3d(0, -50%, 0);
     margin: 0px;
@@ -1760,15 +1760,17 @@ body:not(.fsComposeMode) #fsHeader .top-triggers {
     color: #ffffff;
     cursor: pointer;
     font-family: "Myriad W01 Regular";
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 1px;
-    line-height: 15px; }
+    line-height: 15px;
+    font-weight: bold; }
     body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger a,
     body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger1 a{
       font-family: "Myriad W01 Regular";
-      font-size: 12px;
+      font-size: 14px;
       letter-spacing: 1px;
       color: #ffffff;
+      font-weight: bold;
     }
     body:not(.fsComposeMode) #fsHeader .top-triggers .portal-trigger1{
       position: absolute;
