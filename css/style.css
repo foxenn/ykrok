@@ -464,7 +464,7 @@ iframe {
   color: #ffffff;
   border-radius: 0;
   text-align: center;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 16px;
   font-family: "Proxima N W01 Reg";
   text-transform: uppercase; }
@@ -5411,9 +5411,9 @@ body:not(.fsComposeMode) .home-multimedia-grid .grid-quote {
   body:not(.fsComposeMode) .home-multimedia-grid .grid-quote p {
     color: #ffffff;
     font-family: "Myriad W01 Regular";
-    font-size: 14px;
+    font-size: 18px;
     letter-spacing: 1px;
-    line-height: 20px;
+    line-height: 26px;
     text-align: center;
     margin: 0px; }
 
@@ -6834,6 +6834,12 @@ body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink > .fsElementConte
 }
 p.comp_punch{
   margin-top: 6px;
+}
+.side_img_cvr{
+  margin-bottom: 10px;
+}
+.side_img_cvr img{
+  max-width: 100%;
 }
 @media only screen and (max-width: 1400px){
   .prog_box {
