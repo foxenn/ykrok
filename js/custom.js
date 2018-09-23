@@ -88,6 +88,8 @@ $(document).ready(function() {
   $('.portal-trigger1').click(function(){
     return $('.top-portal-list1').hasClass('open') ? $('.top-portal-list1').removeClass('open') : $('.top-portal-list1').addClass('open');
   })
+
+
 })
 
             
