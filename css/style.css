@@ -193,7 +193,8 @@ body:not(.fsComposeMode) p {
   font-family: "Myriad W01 Regular";
   font-size: 16px;
   letter-spacing: 1px;
-  line-height: 20px; }
+  line-height: 20px;
+  text-align: justify; }
 body:not(.fsComposeMode) .comp_name p{
   font-size: 32px;
 }
@@ -1239,7 +1240,9 @@ body:not(.fsComposeMode) .callout h2.fsElementTitle {
       /*        padding: ce($gutter / 2);*/
       padding: 22px;
       font-family: "Myriad W01 Regular";
-      font-size: 12px;
+      font-size: 14px;
+      text-transform: uppercase;
+      font-weight: bold;
       letter-spacing: 1px;
       line-height: 15px;
       text-align: center; }
@@ -5875,7 +5878,8 @@ body:not(.fsComposeMode) .homepage-events {
     body:not(.fsComposeMode) .homepage-events .calendar-item:hover, body:not(.fsComposeMode) .homepage-events .calendar-item:focus {
       box-shadow: none;
       -webkit-box-shadow: none;
-      -moz-box-shadow: none; }
+      -moz-box-shadow: none;
+      transform: scale(1.05); }
     body:not(.fsComposeMode) .homepage-events .calendar-item span.top-arrow {
       content: "";
       position: absolute;
@@ -6840,6 +6844,13 @@ p.comp_punch{
 }
 .side_img_cvr img{
   max-width: 100%;
+}
+.singleimgcontent{
+  width: 100%;
+}
+.singleimgcontent .side_img_cvr{
+  width: 32%;
+  display: inline-block;
 }
 @media only screen and (max-width: 1400px){
   .prog_box {
