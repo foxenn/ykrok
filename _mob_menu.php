@@ -4,12 +4,12 @@
       <div class="fsElementContent">
         <nav>
           <ul class="fsNavLevel1">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about_us.html">Why Choose Us</a></li>
-            <li><a href="education_for_parents.html">Food Program</a></li>
-            <li><a href="security_measures.html">Facilty</a></li>
-            <li><a href="tackling_childcare.html">Corporate Tie-Ups</a></li>
-            <li><a href="contact-us.html">Contact Us</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about_us.php">Why Choose Us</a></li>
+            <li><a href="education_for_parents.php">Food Program</a></li>
+            <li><a href="security_measures.php">Facilty</a></li>
+            <li><a href="tackling_childcare.php">Corporate Tie-Ups</a></li>
+            <li><a href="contact-us.php">Contact Us</a></li>
           </ul>
         </nav>
       </div>

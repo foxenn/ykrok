@@ -30,7 +30,7 @@
                         <div class="fsElement fsContent" id="fsEl_1275" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <a href="contact-us.html" data-page-name="Contact Us">contact us</a>
+                                <a href="contact-us.php" data-page-name="Contact Us">contact us</a>
                             </div>
 
                         </div>
@@ -77,7 +77,7 @@
                         <div class="fsElement fsNavigation fsList nav-utility-footer" id="fsEl_3837" data-use-new="true">
 
                         <div class="fsElementContent">
-                            <nav><ul class="fsNavLevel1"><li><a href="our-centers.html">View Centers</a></li></ul></nav>
+                            <nav><ul class="fsNavLevel1"><li><a href="our-centers.php">View Centers</a></li></ul></nav>
                         </div>
 
 
@@ -85,7 +85,7 @@
                         <div class="fsElement fsContent lower-copyright" id="fsEl_1268" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <p>2018 Your Kids Are Our Kids. All Rights Reserved <a href="privacy.html"><span style="color: rgb(255, 255, 255);">Privacy Policy</span></a></p>
+                                <p>2018 Your Kids Are Our Kids. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Privacy Policy</span></a></p>
 
                             </div>
 

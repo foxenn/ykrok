@@ -33,6 +33,7 @@
           </div>
         </header>
         <!-- end: Header for menu plus banner -->
+        <!-- end: Header for menu plus banner -->
         <div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
           <div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
             <div id="fsBannerLeft" class="fsBannerLeft">
@@ -45,12 +46,12 @@
                   <div class="fsElementContent">
                     <nav>
                       <ul class="fsNavLevel1">
-                        <li class="fsNavCurrentPage"><a href="about_us.php">About Us </a></li>
+                        <li><a href="about_us.php">About Us </a></li>
                         <li><a href="different.php">What Makes us Different </a></li>
                         <li><a href="team.php">Team</a></li>
                         <li><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
-                        <li><a href="brain_development.php">Brain Development </a></li>
+                        <li class="fsNavCurrentPage"><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>
                         <li><a href="educational_advisory.php">Educational Advisory Board</a></li>
                         <li><a href="dual_management.php">Dual Management</a></li>
@@ -67,44 +68,25 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">About Us </h2>
+                      <h2 class="fsElementTitle">Premier of the Exclusive Brain Development Curriculum</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p>Your Kids ‘R’ Our Kids is a leading provider of early education and care for the corporate market, operating 35 Day Care centres, with a capacity to serve 3,500 children and over 200 corporate tie ups.</p>
-                      <p>We offer an integrated childcare strategy where there is no “one size fits all” approach to childcare solutions, and we work with companies of all sizes and industries to provide all options for tacking childcare.</p>
-                      <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 12 years of age.</p>
                       <div class="WordSection1">
-                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Our corporate tie up solutions include:</span></strong></p>
-                        <ul>
-                          <li>Subsidies</li>
-                          <li>Reserved spaces in multiple childcare centres</li>
-                          <li>On-site crèche</li>
-                          <li>Partnerships with other companies Pan India </li>
-                          <li>Extended hours</li>
-                          <li>Vacation Camps</li>
-                          <li>Back-up care</li>
-                          <li>Flexible working</li>
-                        </ul>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">The First Five Years Of Your Child’s Life Is A Critical Time When Their Brain Is Developing And Brain Cells Are Forming Connections For Learning And Future Success In School.</span></strong>
+                        </p>
+                        <p>At Your Kids ‘R’ Our Kids, we use strategies from our Brain curriculum to support neural pathways for language, social-emotional, cognitive, and physical development during these critical years.</p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Brain Development the Your Kids ‘R’ Our Kids Way</span></strong>
+                        </p>
+                        <p>Our classrooms are filled with stimulating materials that allow teachers to facilitate children’s exploration through sight, sound, smell, taste, and touch as these sensory experiences send information directly to the brain and form the platform for healthy brain growth.</p>
+                        <p>We understand that each child is unique, so our teachers cater to different interests and learning styles. From infancy, your child will be exposed to many forms of language (including sign-language), and immersed in an environment rich in language and literacy. </p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Maximising Your Child’s Mental Capacity</span></strong>
+                        </p>
+                        <p>We believe in a nurturing learning environment, hands-on play, and novel experiences that ignite your child’s curiosity. With our exclusive Build the Brain curriculum and quality teachers, our goal is to provide stimulating learning experiences that support brain development and maximise your child’s mental capacity.
+                        </p>
                       </div>
-                      <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
-                      <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups</p>
-                      <ul>
-                        <li>Infant and Toddler Programs (ages 3 –24 months)</li>
-                        <li>Play School, Nursery and Kindergarten programs (ages 2 –6 years)</li>
-                        <li>After School care with an enrichment program (ages 3 -12 years)</li>
-                        <li>Emergency Backup care for 1 day or a few days</li>
-                        <li>8AM-7:30PM –Full Day Extended Timings</li>
-                        <li>8AM-5:30PM-Full Day Timings</li>
-                        <li>8AM-3:30PM-Half Day Timings</li>
-                        <li>24x7 Timings with General, Shift 1, 2, and 3</li>
-                        <li>Week end only</li>
-                        <li>Summer Camp</li>
-                        <li>Winter Camp</li>
-                        <li>Holiday Camp</li>
-                        <li>Crunch time</li>
-                        <li>Food program with All Meals</li>
-                      </ul>
-                      <p>All programs are available across all centres and offered by the chosen partner of leading employers in an On-or Near-site Company Childcare Centre. We believe in providing availability, affordability, accessibility and quality to address childcare issues.</p>
                     </div>
                   </div>
                 </div>
@@ -113,24 +95,14 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <div class="side_img_cvr">
-                        <img src="images/1838.jpg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/11921703_860860247323106_3696746663453193518_n.jpg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/11947664_860860337323097_1053765070222258722_n.jpg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/daasasa.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wefwefwf.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/fsdferf.png" alt="">
-                      </div>
+                      <h3>Head Quaters</h3>
+                      <dl class="contact-details">
+                        <dd>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramamgala</dd>
+                        <dd>Contact: +91 974 020 6633</dd>
+                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
+                        <dd>Contact: +91 974 020 6633</dd>
+                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
+                      </dl>
                     </div>
                   </div>
                 </div>
@@ -139,6 +111,6 @@
             </main>
           </div>
         </div>
-        <?php include '_footer.php';?>
+                <?php include '_footer.php';?>
       </div>
       <?php include '_scripts.php';?>

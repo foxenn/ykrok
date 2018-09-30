@@ -1,0 +1,119 @@
+<?php include '_head.php';?>
+    <body data-logged-in="false" data-pageid="316" class="fsHasHeader fsHasLeftBanner fsHasMenu fsHasFooter fsHasTwoColumnWideLeftLayout fsSection279 fsHasTheme2">
+      <?php include '_pop_up.php';?>
+      <div id="fsPageWrapper">
+        <?php include '_mob_menu.php';?>
+        <!-- start: Header for menu plus banner -->
+        <header id="fsHeader" class="fsHeader">
+          <div class=" fsBanner fsStyleAutoclear" id="fsEl_7">
+            <?php include '_menu_desktop_half.php';?>
+            <section class="fsElement fsContainer inner-logo-multimedia" id="fsEl_1964" data-use-new="true">
+              <header>
+                <h2 class="fsElementTitle">For Inner Pages  - Logo and Default Image</h2>
+              </header>
+              <div class="fsElementContent">
+                <div class="fsElement fsContent site-info-container" id="fsEl_1965" data-use-new="true">
+                  <div class="fsElementContent">
+                    <a href="index.php"></a>
+                    <div class="comp_name">
+                      <p>Your Kids 'R' Our Kids</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/fourr.jpg');">
+                  <div class="fsElementContent">
+                  </div>
+                </div>
+              </div>
+            </section>
+            <div class="fsElement fsContent drawer-trigger" id="fsEl_1290" data-use-new="true">
+              <div class="fsElementContent">
+              </div>
+            </div>
+          </div>
+        </header>
+        <!-- end: Header for menu plus banner -->
+        <!-- end: Header for menu plus banner -->
+        <div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
+          <div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
+            <div id="fsBannerLeft" class="fsBannerLeft">
+              <div class=" fsBanner fsStyleAutoclear" id="fsEl_8">
+                <!-- start: sidebarnav -->
+                <section class="fsElement fsNavigation fsList nav-sub" id="fsEl_44" data-use-new="true">
+                  <header>
+                    <h2 class="fsElementTitle">In This Section</h2>
+                  </header>
+                  <div class="fsElementContent">
+                    <nav>
+                      <ul class="fsNavLevel1">
+                        <li><a href="tackling_childcare.php">Tackling Childcare</a></li>
+                        <li class="fsNavCurrentPage"><a href="partnering_possibility.php">Partnering Possibilities</a></li>
+                        <li><a href="onsite.php">On-Site / Near-Site Care </a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                </section>
+                <!-- end: sidebarnav -->
+              </div>
+            </div>
+            <main id="fsPageContent" class="fsPageContent">
+              <div class="fsPageLayout fsLayout fsTwoColumnWideLeftLayout fsStyleAutoclear" id="fsEl_1153" data-use-new="true">
+                <!-- start: middle part -->
+                <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
+                  <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
+                    <header>
+                      <h2 class="fsElementTitle">Partnership Possibilities</h2>
+                    </header>
+                    <div class="fsElementContent">
+                      <div class="WordSection1">
+                        <p>Your Kids ‘R’ Our Kids innovative approaches will help companies across sectors and regions to better meet their employees childcare needs. We will help you choose from a range of childcare options, from on-site crèches to a partnership with YKROK. As a result, your company can better attract and retain qualified staff – helping boost employee productivity and strengthening the bottom line.</p>
+                        <p>Your Kids ‘R’ Our Kids aim is to reach hundreds of businesses whom can learn from our experience as well as our tie ups where we can replicate solutions for you. It is also a call to action, encouraging all companies mandated by the maternity law to invest in childcare and support the infrastructure necessary for Your Kids ‘R’ Our Kids to expand and meet the growing demand for childcare.</p>
+                        <p>Let us explore a partnership to better support parent’s access to affordable, reliable, and good-quality childcare. Success will score a triple win for all: employees and their children, businesses, and the economy.</p>
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Lighten the Mental Load: Strategies to Relieve Working Parents Pan India</span></strong></p>
+                        <p>Today's workforce is experiencing "mental load" — the stress of the continuous prioritisation and management of family tasks and needs. When this stress inevitably follows them to the office, they experience burnout, miss out on leadership roles, and even consider dialing back their careers. Contact Your Kids ‘R’ Our Kids to learn how employers can support tomorrow's leaders, avoid costly turnover, and compete for top talent. Our team will help you focus on the why – the reasons that companies may want to invest in childcare support.</p>
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Companies seeking to support their employee’s childcare needs have a broad range of options.</span></strong></p>
+                        <p>Some of the options offered by Your Kids ‘R’ Our Kids include:</p>
+                        <ul>
+                          <li>On-or near site company childcare</li>
+                          <li>Childcare spaces purchased with a tie up across multiple Your Kids ‘R’ Our Kids centres</li>
+                          <li>Childcare subsidies for employees</li>
+                          <li> Extended hours care; early, late, nights & weekends</li>
+                          <li>Back-up / emergency care</li>
+                          <li> Summer camps & care during school holidays</li>
+                          <li>Flexible working time to allow employees to provide childcare</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- end: middle part -->
+                <!-- start: side contacts -->
+                <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
+                  <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
+                    <div class="fsElementContent">
+                      <div class="side_img_cvr">
+                        <img src="images/rblca.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/rlilncdsc.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/rnklsd.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/rnsdcs.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/roinds.png" alt="">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- end: side contacts -->
+              </div>
+            </main>
+          </div>
+        </div>
+                <?php include '_footer.php';?>
+      </div>
+      <?php include '_scripts.php';?>

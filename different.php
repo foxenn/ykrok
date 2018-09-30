@@ -33,6 +33,7 @@
           </div>
         </header>
         <!-- end: Header for menu plus banner -->
+        <!-- end: Header for menu plus banner -->
         <div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
           <div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
             <div id="fsBannerLeft" class="fsBannerLeft">
@@ -45,8 +46,8 @@
                   <div class="fsElementContent">
                     <nav>
                       <ul class="fsNavLevel1">
-                        <li class="fsNavCurrentPage"><a href="about_us.php">About Us </a></li>
-                        <li><a href="different.php">What Makes us Different </a></li>
+                        <li><a href="about_us.php">About Us </a></li>
+                        <li class="fsNavCurrentPage"><a href="different.php">What Makes us Different </a></li>
                         <li><a href="team.php">Team</a></li>
                         <li><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
@@ -67,45 +68,27 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">About Us </h2>
+                      <h2 class="fsElementTitle">Top Reasons to Choose YKROK</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p>Your Kids ‘R’ Our Kids is a leading provider of early education and care for the corporate market, operating 35 Day Care centres, with a capacity to serve 3,500 children and over 200 corporate tie ups.</p>
-                      <p>We offer an integrated childcare strategy where there is no “one size fits all” approach to childcare solutions, and we work with companies of all sizes and industries to provide all options for tacking childcare.</p>
-                      <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 12 years of age.</p>
-                      <div class="WordSection1">
-                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Our corporate tie up solutions include:</span></strong></p>
-                        <ul>
-                          <li>Subsidies</li>
-                          <li>Reserved spaces in multiple childcare centres</li>
-                          <li>On-site crèche</li>
-                          <li>Partnerships with other companies Pan India </li>
-                          <li>Extended hours</li>
-                          <li>Vacation Camps</li>
-                          <li>Back-up care</li>
-                          <li>Flexible working</li>
-                        </ul>
-                      </div>
-                      <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
-                      <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups</p>
-                      <ul>
-                        <li>Infant and Toddler Programs (ages 3 –24 months)</li>
-                        <li>Play School, Nursery and Kindergarten programs (ages 2 –6 years)</li>
-                        <li>After School care with an enrichment program (ages 3 -12 years)</li>
-                        <li>Emergency Backup care for 1 day or a few days</li>
-                        <li>8AM-7:30PM –Full Day Extended Timings</li>
-                        <li>8AM-5:30PM-Full Day Timings</li>
-                        <li>8AM-3:30PM-Half Day Timings</li>
-                        <li>24x7 Timings with General, Shift 1, 2, and 3</li>
-                        <li>Week end only</li>
-                        <li>Summer Camp</li>
-                        <li>Winter Camp</li>
-                        <li>Holiday Camp</li>
-                        <li>Crunch time</li>
-                        <li>Food program with All Meals</li>
-                      </ul>
-                      <p>All programs are available across all centres and offered by the chosen partner of leading employers in an On-or Near-site Company Childcare Centre. We believe in providing availability, affordability, accessibility and quality to address childcare issues.</p>
+                      <p>Your Kids ‘R’ Our Kids offers a variety of unique features and advantages that set us apart from traditional childcare or daycare and mark us as an industry leader in corporate childcare education.</p>
                     </div>
+                    <div class="fsElementContent">
+                      <div class="WordSection1">
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">What makes us different </span></strong></p>
+                        <p>We believe that happy, loved and connected day care children are destined for success in every facet of their lives.</p>
+                        <p>Our name of the company brand is also our most cherished principle, “Your Kids ‘R’ Our Kids ,” defines every aspect of who we are. Unlike many daycare centres or childcare providers, our approach is a whole child approach, working to strengthen and encourage every child’s emotional, intellectual, social, and physical being through the expert care of our child care providers and a unique partnership with parents and our corporate tie ups.</p>
+                      </div>
+                    </div>
+                    <!-- <div class="fsElementContent">
+                      <div class="WordSection1">
+                          <p>
+                              <strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">History of YKROK </span></strong>
+                          </p>
+                          <p>In 2002, entrepreneurs Suman Kapoor and Bharat Kapoor established Your Kids ‘R’ Our Kids to deliver a high-quality, play-based learning program integrated with a day care centre to expat and local families in Lodhi Road, New Delhi. From 2007, we have launched child care centres all over India. Since then, YKROK has grown into an institution that parents, families and companies trust, reaching more than 5,000 students in more than 35 centres in 12 states.</p>
+                          <p>As more centres open in corporate work sites across the country, they use the most current, nurturing child care and academically endorsed methods to ensure that children have fun and are cared for while learning the skills they need for long-term success in school and in life.</p>
+                      </div>
+                      </div> -->
                   </div>
                 </div>
                 <!-- end: middle part -->
@@ -114,22 +97,16 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/1838.jpg" alt="">
+                        <img src="images/11960042_874072362668561_7828517571392352056_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/11921703_860860247323106_3696746663453193518_n.jpg" alt="">
+                        <img src="images/13516688_1015295231879606_4969491206554307028_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/11947664_860860337323097_1053765070222258722_n.jpg" alt="">
+                        <img src="images/11951965_860852777323853_289592766440107734_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/daasasa.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wefwefwf.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/fsdferf.png" alt="">
+                        <img src="images/11953135_874068999335564_7488853123994116543_n.jpg" alt="">
                       </div>
                     </div>
                   </div>
@@ -139,6 +116,6 @@
             </main>
           </div>
         </div>
-        <?php include '_footer.php';?>
+                <?php include '_footer.php';?>
       </div>
       <?php include '_scripts.php';?>

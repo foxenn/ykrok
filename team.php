@@ -33,6 +33,7 @@
           </div>
         </header>
         <!-- end: Header for menu plus banner -->
+        <!-- end: Header for menu plus banner -->
         <div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
           <div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
             <div id="fsBannerLeft" class="fsBannerLeft">
@@ -45,9 +46,9 @@
                   <div class="fsElementContent">
                     <nav>
                       <ul class="fsNavLevel1">
-                        <li class="fsNavCurrentPage"><a href="about_us.php">About Us </a></li>
+                        <li><a href="about_us.php">About Us </a></li>
                         <li><a href="different.php">What Makes us Different </a></li>
-                        <li><a href="team.php">Team</a></li>
+                        <li class="fsNavCurrentPage"><a href="team.php">Team</a></li>
                         <li><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
@@ -67,44 +68,16 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">About Us </h2>
+                      <h2 class="fsElementTitle">Team</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p>Your Kids ‘R’ Our Kids is a leading provider of early education and care for the corporate market, operating 35 Day Care centres, with a capacity to serve 3,500 children and over 200 corporate tie ups.</p>
-                      <p>We offer an integrated childcare strategy where there is no “one size fits all” approach to childcare solutions, and we work with companies of all sizes and industries to provide all options for tacking childcare.</p>
-                      <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 12 years of age.</p>
-                      <div class="WordSection1">
-                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Our corporate tie up solutions include:</span></strong></p>
-                        <ul>
-                          <li>Subsidies</li>
-                          <li>Reserved spaces in multiple childcare centres</li>
-                          <li>On-site crèche</li>
-                          <li>Partnerships with other companies Pan India </li>
-                          <li>Extended hours</li>
-                          <li>Vacation Camps</li>
-                          <li>Back-up care</li>
-                          <li>Flexible working</li>
-                        </ul>
-                      </div>
-                      <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
-                      <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups</p>
-                      <ul>
-                        <li>Infant and Toddler Programs (ages 3 –24 months)</li>
-                        <li>Play School, Nursery and Kindergarten programs (ages 2 –6 years)</li>
-                        <li>After School care with an enrichment program (ages 3 -12 years)</li>
-                        <li>Emergency Backup care for 1 day or a few days</li>
-                        <li>8AM-7:30PM –Full Day Extended Timings</li>
-                        <li>8AM-5:30PM-Full Day Timings</li>
-                        <li>8AM-3:30PM-Half Day Timings</li>
-                        <li>24x7 Timings with General, Shift 1, 2, and 3</li>
-                        <li>Week end only</li>
-                        <li>Summer Camp</li>
-                        <li>Winter Camp</li>
-                        <li>Holiday Camp</li>
-                        <li>Crunch time</li>
-                        <li>Food program with All Meals</li>
-                      </ul>
-                      <p>All programs are available across all centres and offered by the chosen partner of leading employers in an On-or Near-site Company Childcare Centre. We believe in providing availability, affordability, accessibility and quality to address childcare issues.</p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Bharat Kapoor, Director and Founder</span></strong></p>
+                      <p>Bharat founded Your Kids ‘R’ Our Kids in 2002. He has grown YKROK to 35 centres Pan India with operations spread across 12 cities. Bharat grew up in the United States in Dallas, TX from the age of 12. His education from high school to university is in the US. Bharat attended Southern Methodist University for his undergraduate for associates degree, and The University of Texas B.S program in 1991. Graduated from the Harvard Business School, Boston, USA, General Management Program MBA in 1996. He is the father of two teenage children. </p>
+                      <p>Bharat has extensive work site child care centres experience, mostly focused on corporate needs assessments and development of new child care centers. Bharat has worked with numerous clients in the development and implementation of strategies to meet their employees' dependent care needs and has planned, developed and operated child care centres for over 200 corporate clients like IBM, Accenture, Bharat Petroleum, Wipro, HPE, Mylan, Flipkart, TVS Sundaram Clayton. These child care centers are located onsite or near the companies' work locations. In addition to center development, Bharat has initiated many programs for clients in the field of backup care, including mildly ill care, temporary or emergency care, and after school. </p>
+                      <p>He is currently serves on the leadership team where Early childhood leaders and practitioners from 80 nations discuss the delivery of quality services to young children in diverse settings at the World Forum on Early Care and Education.  He has presented keynotes and seminars to policy makers, executives, and non-profit professionals worldwide.  Bharat can be contacted to create, and implement a variety of educational child care programs in the private sector.</p>
+                      <p>Bharat leads the company's global growth strategy and oversees operations Pan India.. </p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Suman Kapoor, Chief Executive Officer</span></strong></p>
+                      <p>Suman, chairman, co-founded YKROK in 2002 with her husband, Bharat. During the past sixteen years, she has planned, designed, constructed and implemented Child Care facilities at forty different locations, and have graduated over a 4,000 kids to formal schools. She is a graduate from New York University in Early childhood Education. </p>
                     </div>
                   </div>
                 </div>
@@ -114,22 +87,13 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/1838.jpg" alt="">
+                        <img src="images/1901636_594388397303627_180328894_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/11921703_860860247323106_3696746663453193518_n.jpg" alt="">
+                        <img src="images/1978825_594108100664990_1571779624_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/11947664_860860337323097_1053765070222258722_n.jpg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/daasasa.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wefwefwf.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/fsdferf.png" alt="">
+                        <img src="images/IMG-20180904-WA0029.jpg" alt="">
                       </div>
                     </div>
                   </div>
@@ -139,6 +103,6 @@
             </main>
           </div>
         </div>
-        <?php include '_footer.php';?>
+                <?php include '_footer.php';?>
       </div>
       <?php include '_scripts.php';?>
