@@ -1,5 +1,6 @@
 <?php include '_head.php';?>
     <body data-logged-in="false" data-pageid="316" class="fsHasHeader fsHasLeftBanner fsHasMenu fsHasFooter fsHasTwoColumnWideLeftLayout fsSection279 fsHasTheme2">
+      <?php include '_pop_up.php';?>
       <div id="fsPageWrapper">
         <?php include '_mob_menu.php';?>
         <!-- start: Header for menu plus banner -->
