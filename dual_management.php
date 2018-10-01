@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/IMG_20180719_180601.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/onee.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -89,14 +89,9 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <h3>Head Quaters</h3>
-                      <dl class="contact-details">
-                        <dd>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramamgala</dd>
-                        <dd>Contact: +91 974 020 6633</dd>
-                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
-                        <dd>Contact: +91 974 020 6633</dd>
-                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
-                      </dl>
+                      <div class="side_img_cvr">
+                        <img src="images/ewq.png" alt="">
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -125,12 +125,12 @@
                       <div class="side_img_cvr">
                         <img src="images/daasasa.png" alt="">
                       </div>
-                      <div class="side_img_cvr">
+                      <!-- <div class="side_img_cvr">
                         <img src="images/wefwefwf.png" alt="">
                       </div>
                       <div class="side_img_cvr">
                         <img src="images/fsdferf.png" alt="">
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>

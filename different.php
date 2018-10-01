@@ -102,12 +102,12 @@
                       <div class="side_img_cvr">
                         <img src="images/13516688_1015295231879606_4969491206554307028_n.jpg" alt="">
                       </div>
-                      <div class="side_img_cvr">
+                      <!-- <div class="side_img_cvr">
                         <img src="images/11951965_860852777323853_289592766440107734_n.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
                         <img src="images/11953135_874068999335564_7488853123994116543_n.jpg" alt="">
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>

@@ -1,5 +1,4 @@
-<!-- Start POP - UP  -->
-<div id="pop_up_cvr">
+<!-- <div id="pop_up_cvr">
     <div id="popUp">
         <div id="close" class="close"><i class="fa fa-times"></i></div>
         <div id="new"><span>Let us Help You!</span></div>
@@ -42,5 +41,4 @@
             <i class="fa fa-plus"></i>
         </span>
     </div>
-</div>
-<!-- End POP - UP  -->
+</div> -->

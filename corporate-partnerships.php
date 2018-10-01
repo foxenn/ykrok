@@ -114,22 +114,16 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/asdas.png" alt="">
+                        <img src="images/14159269-traditional-indian-family-with-one-child-sitting-on-white-background.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/daa.png" alt="">
+                        <img src="images/family_and_baby.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/dqqqq.png" alt="">
+                        <img src="images/Image2.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/nvfdjsibvs.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wqeqw.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wqewqq.png" alt="">
+                        <img src="images/IndianFamily.jpg" alt="">
                       </div>
                     </div>
                   </div>
@@ -139,6 +133,6 @@
             </main>
           </div>
         </div>
-                <?php include '_footer.php';?>
+        <?php include '_footer.php';?>
       </div>
-      <?php include '_scripts.php';?>
+<?php include '_scripts.php';?>

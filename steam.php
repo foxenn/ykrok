@@ -98,9 +98,6 @@
                       <div class="side_img_cvr">
                         <img src="images/wewdas.png" alt="">
                       </div>
-                      <div class="side_img_cvr">
-                        <img src="images/qw.png" alt="">
-                      </div>
                     </div>
                   </div>
                 </div>

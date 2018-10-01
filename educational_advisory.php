@@ -104,14 +104,12 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <h3>Head Quaters</h3>
-                      <dl class="contact-details">
-                        <dd>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramamgala</dd>
-                        <dd>Contact: +91 974 020 6633</dd>
-                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
-                        <dd>Contact: +91 974 020 6633</dd>
-                        <dd>E-mail ID: bharatkapoor@ykrok.in</dd>
-                      </dl>
+                      <div class="side_img_cvr">
+                        <img src="images/ewq.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/wewdas.png" alt="">
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -91,16 +91,13 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/rblca.png" alt="">
+                        <img src="images/tnklsdc.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/rlilncdsc.png" alt="">
+                        <img src="images/tvdfvdmv.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/rnklsd.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/rnsdcs.png" alt="">
+                        <img src="images/tmsd.png" alt="">
                       </div>
                     </div>
                   </div>

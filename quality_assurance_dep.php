@@ -96,7 +96,7 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/qqq.png" alt="">
+                        <img src="images/iStock-871704344-1024x683.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
                         <img src="images/qqqq.png" alt="">
