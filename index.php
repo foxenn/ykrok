@@ -280,7 +280,7 @@
                             <div class="calendar-date">
                               <span class="day">Infant Daycare & Early Education </span>
                             </div>
-                            <div class="calendar-image" style="background-image: url(images/p2.jpg)"></div>
+                            <div class="calendar-image" style="background-image: url(images/696311858-612x612.jpg)"></div>
                             <div class="calendarTitle red_bg">
                               3 - 14 Months
                             </div>
@@ -320,7 +320,7 @@
                             <div class="calendar-date">
                               <span class="day">Preschool Program & Day Care </span>
                             </div>
-                            <div class="calendar-image" style="background-image: url(images/p7.jpg)"></div>
+                            <div class="calendar-image" style="background-image: url(images/577967956-612x612.jpg)"></div>
                             <div class="calendarTitle red_bg">2.6 - 3 Years
                             </div>
                           </a>
@@ -333,7 +333,7 @@
                             <div class="calendar-date">
                               <span class="day">Nursery Program & Day Care  </span>
                             </div>
-                            <div class="calendar-image" style="background-image: url(images/p8.jpg)"></div>
+                            <div class="calendar-image" style="background-image: url(images/nursery-schools-kids.jpg)"></div>
                             <div class="calendarTitle yellow_bg">
                               3 - 4 Years
                             </div>
@@ -347,7 +347,7 @@
                             <div class="calendar-date">
                               <span class="day">Kindergarten & Day Care  </span>
                             </div>
-                            <div class="calendar-image" style="background-image: url(images/p9.jpg)"></div>
+                            <div class="calendar-image" style="background-image: url(images/1030391526-612x612.jpg)"></div>
                             <div class="calendarTitle">
                               4 - 6 Years
                             </div>
@@ -361,7 +361,7 @@
                             <div class="calendar-date">
                               <span class="day">After School </span>
                             </div>
-                            <div class="calendar-image" style="background-image: url(images/p14.jpg)"></div>
+                            <div class="calendar-image" style="background-image: url(images/172481897-612x612.jpg)"></div>
                             <div class="calendarTitle red_bg">3 - 12 Years
                             </div>
                           </a>
