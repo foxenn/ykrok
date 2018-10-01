@@ -46,9 +46,9 @@
                             <div class="fsElementContent">
                                 <nav>
                                     <ul class="fsNavLevel1">
-                                        <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
-                                        <li><a href="https://www.facebook.com" target="_blank">Facebook</a></li>
-                                        <li><a href="https://www.linkedin.com" target="_blank">Linkedin</a></li>
+                                        <li><a href="https://twitter.com/ykrok_official" target="_blank">Twitter</a></li>
+                                        <li><a href="https://www.facebook.com/yourkidsrourkids/" target="_blank">Facebook</a></li>
+                                        <li><a href="https://www.linkedin.com/company/33285103" target="_blank">Linkedin</a></li>
                                         <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
                                     </ul>
                                 </nav>
