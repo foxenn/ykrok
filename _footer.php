@@ -46,10 +46,10 @@
                             <div class="fsElementContent">
                                 <nav>
                                     <ul class="fsNavLevel1">
-                                        <li><a href="https://twitter.com/ykrok_official" target="_blank">Twitter</a></li>
-                                        <li><a href="https://www.facebook.com/yourkidsrourkids/" target="_blank">Facebook</a></li>
-                                        <li><a href="https://www.linkedin.com/company/33285103" target="_blank">Linkedin</a></li>
-                                        <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
+                                        <li><a href="https://twitter.com/ykrok_official" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="https://www.facebook.com/yourkidsrourkids/" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/33285103" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="https://www.instagram.com/ykrok_official/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </nav>
                             </div>

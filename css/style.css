@@ -2081,7 +2081,6 @@ body:not(.fsComposeMode) #fsFooter .footer-socials {
     margin-left: 15px; }
     body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a {
       display: block;
-      font-size: 0px;
       width: 30px;
       height: 30px;
       margin: 0px;
@@ -2089,26 +2088,12 @@ body:not(.fsComposeMode) #fsFooter .footer-socials {
       transition: all 0.2s ease;
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease; }
-      body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a:hover, body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a:focus {
+      body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a:hover, 
+      body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a:focus {
         -ms-transform: scale(1.1);
         transform: scale(1.1);
         -moz-transform: scale(1.1); }
 
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="twitter"] {
-  background: url("../images/twitter.svg") no-repeat center;
-  background-size: cover; }
-
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="facebook"] {
-  background: url("../images/facebook.png") no-repeat center;
-  background-size: cover; }
-
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="linkedin"] {
-  background: url("../images/linkedin.png") no-repeat center;
-  background-size: cover; }
-
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="youtube"] {
-  background: url("../images/youtube.png") no-repeat center;
-  background-size: cover; }
 
 body:not(.fsComposeMode) #fsFooter .contact-details {
   position: relative;
@@ -6338,18 +6323,19 @@ body:not(.fsComposeMode) .testimonial.right .testimonial-text {
     margin-top: 20px;
 }
 
-
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="twitter"] {
-    background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/twitter.svg) center center / cover no-repeat;
-}
 body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li a {
     display: block;
-    font-size: 0px;
     width: 30px;
     height: 30px;
     margin: 0px;
+    font-size: 25px;
     padding: 0px;
     transition: all 0.2s ease;
+    background-color: #fff;
+    line-height: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #0057a4;
 }
 .fsNavigation ul li a {
     display: block;
@@ -6361,7 +6347,7 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li {
     display: inline-block;
     margin-left: 15px;
 }
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="facebook"] {
+/*body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="facebook"] {
     background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/facebook.png) center center / cover no-repeat;
 }
 body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="linkedin"] {
@@ -6369,7 +6355,7 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="linkedin"] 
 }
 body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="youtube"] {
     background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/youtube.png) center center / cover no-repeat;
-}
+}*/
 .prog_box{
   width: 31.33%;
   float: left;

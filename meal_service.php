@@ -91,9 +91,9 @@
                         <div class="side_img_cvr">
                           <img src="images/eqq.png" alt="">
                         </div>
-                        <div class="side_img_cvr">
+                        <!-- <div class="side_img_cvr">
                           <img src="images/ewqq.png" alt="">
-                        </div>
+                        </div> -->
                         <div class="side_img_cvr">
                           <img src="images/qq.png" alt="">
                         </div>
