@@ -1666,7 +1666,8 @@ body:not(.fsComposeMode) .mobile-search-holder {
       font-size: 12px;
       letter-spacing: 2px;
       line-height: 20px;
-      color: #fff; }
+      color: #fff;
+      font-weight: bold; }
       .nav-utility-footer .fsNavLevel1 li a:hover, .nav-utility-footer .fsNavLevel1 li a:focus {
         color: #fff;
         text-decoration: underline; }
@@ -2124,7 +2125,8 @@ body:not(.fsComposeMode) #fsFooter .contact-details {
       font-family: "Myriad W01 Regular";
       font-size: 12px;
       letter-spacing: 2px;
-      line-height: 20px; }
+      line-height: 20px;
+      font-weight: bold; }
       body:not(.fsComposeMode) #fsFooter .contact-details ul li a {
         color: #ffffff;
         font-family: "Myriad W01 Regular";
@@ -2154,7 +2156,8 @@ body:not(.fsComposeMode) #fsFooter .lower-copyright {
     font-family: "Myriad W01 Regular";
     font-size: 12px;
     letter-spacing: 2px;
-    line-height: 15px; }
+    line-height: 15px;
+    font-weight: bold; }
 
 body:not(.fsComposeMode) #fsFooter .footer-quicks {
   position: relative;

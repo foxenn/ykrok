@@ -74,6 +74,7 @@
                         <p><b>Security Cameras –</b> Every childcare classroom has security cameras for front desk monitoring. The owner and staff easily observe classroom activities throughout the day. You can watch your child through a secure, password-protected internet site. How awesome to know you have no worries while your child is getting cared for and learning at Your Kids 'R' Our Kids!</p>
                       </div>
                     </div>
+                    
                   </div>
                 </div>
                 <!-- end: middle part -->
@@ -87,9 +88,9 @@
                       <div class="side_img_cvr">
                         <img src="images/oiuu.png" alt="">
                       </div>
-                      <!-- <div class="side_img_cvr">
-                        <img src="images/jho.png" alt="">
-                        </div> -->
+                      <div class="side_img_cvr">
+                        <img src="images/iStock-871704344-1024x683.jpg" alt="">
+                        </div>
                     </div>
                   </div>
                 </div>

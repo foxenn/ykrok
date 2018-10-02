@@ -139,6 +139,9 @@
                       <div class="side_img_cvr">
                         <img src="images/dsadawa.png" alt="">
                       </div>
+                      <div class="side_img_cvr">
+                        <img src="images/11960042_874072362668561_7828517571392352056_n.jpg" alt="">
+                      </div>
                     </div>
                   </div>
                 </div>

@@ -113,9 +113,7 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <div class="side_img_cvr">
-                        <img src="images/1838.jpg" alt="">
-                      </div>
+                      
                       <div class="side_img_cvr">
                         <img src="images/11921703_860860247323106_3696746663453193518_n.jpg" alt="">
                       </div>
@@ -125,12 +123,12 @@
                       <div class="side_img_cvr">
                         <img src="images/daasasa.png" alt="">
                       </div>
-                      <!-- <div class="side_img_cvr">
+                      <div class="side_img_cvr">
                         <img src="images/wefwefwf.png" alt="">
                       </div>
                       <div class="side_img_cvr">
                         <img src="images/fsdferf.png" alt="">
-                      </div> -->
+                      </div>
                     </div>
                   </div>
                 </div>

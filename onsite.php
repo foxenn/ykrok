@@ -180,10 +180,10 @@
                         </div>
                         <div class="side_img_cvr">
                         <img src="images/dsasdd.png" alt="">
-                        </div>
-                        <div class="side_img_cvr">
-                        <img src="images/saasa.png" alt="">
-                        </div> -->
+                        </div>-->
+                      <div class="side_img_cvr">
+                        <img src="images/volvo-bangalore.jpg" alt="">
+                      </div> 
                       <div class="side_img_cvr">
                         <img src="images/rblca.png" alt="">
                       </div>

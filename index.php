@@ -80,7 +80,7 @@
                         </header>
                         <div class="fsElementContent">
                           <h2>FIND A LOCATION <br>NEAR YOU</h2>
-                          <h2 class="call_me">Call: 819 729 6254</h2>
+                          <h2 class="call_me">Call: 819 729 6254 / <br> 804 083 7999</h2>
                           <p>We'd love to meet you!</p>
                         </div>
                         <footer>
@@ -362,6 +362,7 @@
                               <span class="day">After School </span>
                             </div>
                             <div class="calendar-image" style="background-image: url(images/172481897-612x612.jpg)"></div>
+                            <!-- <div class="calendar-image" style="background-image: url(images/p14.jpg)"></div> -->
                             <div class="calendarTitle red_bg">3 - 12 Years
                             </div>
                           </a>

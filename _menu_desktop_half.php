@@ -3,7 +3,7 @@
       <a href="index.php">Your Kids Are Our Kids Education Pvt. Ltd</a>
     </div>
   </div>
-  <section class="fsElement fsContent top-triggers" id="fsEl_1321" data-use-new="true">
+  <!-- <section class="fsElement fsContent top-triggers" id="fsEl_1321" data-use-new="true">
     <header>
       <h2 class="fsElementTitle">Button Triggers</h2>
     </header>
@@ -32,7 +32,7 @@
         </ul>
       </nav>
     </div>
-  </div>
+  </div> -->
   <div class="fsElement fsNavigation fsList nav-main" id="fsEl_70" data-use-new="true">
     <div class="fsElementContent">
       <nav>
@@ -55,6 +55,19 @@
             </div>
           </li>
           <li class="fsNavParentPage">
+            <a href="infant.php">Programs</a>
+            <div class="fsNavPageInfo">
+              <ul class="fsNavLevel2">
+                <li><a href="infant.php">infant</a></li>
+                <li><a href="toddler.php">Toddler</a></li>
+                <li><a href="preschool.php">preschool</a></li>
+                <li><a href="nursery.php">Nursery</a></li>
+                <li><a href="kindergarden.php">kindergarten</a></li>
+                <li><a href="after_school.php">After School Care</a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="fsNavParentPage">
             <a href="education_for_parents.php">Food Program</a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
@@ -67,7 +80,7 @@
             </div>
           </li>
           <li class="fsNavParentPage">
-            <a href="security_measures.php">Facility  Standards </a>
+            <a href="security_measures.php">Facilities </a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="security_measures.php">Security Measures</a></li>
