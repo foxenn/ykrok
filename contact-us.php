@@ -103,30 +103,6 @@
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Invoices: <a href="mailto:admission@ykrok.in">admission@ykrok.in</a></span></strong></p>
                     </div>
                   </div>
-                  <div class="fsComposerFormEmbed">
-                    <form action="">
-                      <header>
-                        <h2 class="fsElementTitle">Enrolment Enquiries</h2>
-                      </header>
-                      <div class="elementContainer field_1466 " id="elementContainer_1466">
-                        <label for="el_1466" class="required"><b>Name*</b> </label>
-                        <div class="elementBody">
-                          <input type="text" name="el_1466" data-elbindid="1466" data-prefill="NO" data-prefilldatafield="NO" id="el_1466" value="" size="20" maxlength="255" >
-                        </div>
-                      </div>
-                      <div class="elementContainer field_1466 " id="elementContainer_1466">
-                        <label for="el_1466" class="required"><b>Email</b> </label>
-                        <div class="elementBody">
-                          <input type="text" name="el_1466" data-elbindid="1466" data-prefill="NO" data-prefilldatafield="NO" id="el_1466" value="" size="20" maxlength="255" >
-                        </div>
-                      </div>
-                      <div class="elementContainer field_1468 " id="elementContainer_1468">
-                        <label for="el_1468" class="required"><b>Message*</b> </label>
-                        <div class="elementBody"><textarea name="el_1468" id="el_1468" data-prefill="NO" data-prefilldatafield="NO" rows="4" cols="32" class="fsValidate[required]"></textarea></div>
-                      </div>
-                      <input type="button" name="submitBtn" data-submitbuttontext="Submit" value="Submit" class="submitBtn" id="submitBtn_45" style="display: block;">
-                    </form>
-                  </div>
                 </div>
                 <!-- end: middle part -->
                 <!-- start: side contacts -->

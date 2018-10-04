@@ -556,6 +556,50 @@
                       </div>
                     </div>
                   </section>
+                  <br>
+                  <section class="fsElement fsContainer homepage-events" id="fsEl_1331" data-use-new="true" style="padding-bottom: 25px;">
+                    <header>
+                      <h2 class="fsElementTitle">SOME OF THE FACILITIES INCLUDE</h2>
+                    </header>
+                    <div class="faci_icons_cvr">
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/museum.png" alt="">
+                        </div>
+                        <p>Piazza</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/paint-palette.png" alt="">
+                        </div>
+                        <p>Atelier</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/equalizer.png" alt="">
+                        </div>
+                        <p>Music & Dance Studio</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/dinosaur.png" alt="">
+                        </div>
+                        <p>Children’s museum</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/chef.png" alt="">
+                        </div>
+                        <p>Little chef’s lab</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/meditation.png" alt="">
+                        </div>
+                        <p>Games & yoga learning</p>
+                      </div>
+                    </div>
+                  </section>
                 </div>
               </div>
             </main>

@@ -121,39 +121,6 @@
                                 <div class="controller">
                                   <div class="card card--big">
                                     <div class="card__image">
-                                      <img src="images/mylan.jpg">
-                                    </div>
-                                    <h2 class="card__title">Mylan</h2>
-                                    <span class="card__subtitle">By Mattia Astorino</span>
-                                    <p class="card__text">Bilekhalli, Bannerghatta Main Road, Bengaluru 560076 </p>
-                                    <!-- <a href="mylan.php" class="view_btn_cen button">View</a> -->
-                                  </div>
-                                </div>
-                                <div class="controller">
-                                  <div class="card card--big">
-                                    <div class="card__image">
-                                      <img src="images/hebbal.jpg">
-                                    </div>
-                                    <h2 class="card__title">Hebbal</h2>
-                                    <span class="card__subtitle">By Mattia Astorino</span>
-                                    <p class="card__text"># 2, Shri Dhathri Nivas, Opp.Manyata Tech Park, Nagwara Circle, Kasaba Palya, Hebbal Outer Ring Road, Bangalore - 560045 </p>
-                                    <!-- <a href="hebbal.php" class="view_btn_cen button">View</a> -->
-                                  </div>
-                                </div>
-                                <div class="controller">
-                                  <div class="card card--big">
-                                    <div class="card__image">
-                                      <img src="images/hsr.jpg">
-                                    </div>
-                                    <h2 class="card__title">HSR</h2>
-                                    <span class="card__subtitle">By Mattia Astorino</span>
-                                    <p class="card__text"># 32, HSR Layout, Sector-4, Opp to BDA Complex, Bangalore - 560034 </p>
-                                    <!-- <a href="hsr.php" class="view_btn_cen button">View</a> -->
-                                  </div>
-                                </div>
-                                <div class="controller">
-                                  <div class="card card--big">
-                                    <div class="card__image">
                                       <img src="images/ptp.jpg">
                                     </div>
                                     <h2 class="card__title">PTP/ ORR</h2>
@@ -176,23 +143,64 @@
                                 <div class="controller">
                                   <div class="card card--big">
                                     <div class="card__image">
+                                      <img src="images/mahadevpura.jpg">
+                                    </div>
+                                    <h2 class="card__title">Mahadevapura</h2>
+                                    <span class="card__subtitle">By Mattia Astorino</span>
+                                    <p class="card__text">180/4, T. Govindappa Complex,
+                                      B. Narayanapura, White field Road, 
+                                      Doorvaninagar post, Bangalore, 560016. 
+                                      Landmark DSK Benneli 
+                                    </p>
+                                    <!-- <a href="mahadevpura.php" class="view_btn_cen button">View</a> -->
+                                  </div>
+                                </div>
+                                <div class="controller">
+                                  <div class="card card--big">
+                                    <div class="card__image">
+                                      <img src="images/hebbal.jpg">
+                                    </div>
+                                    <h2 class="card__title">Hebbal</h2>
+                                    <span class="card__subtitle">By Mattia Astorino</span>
+                                    <p class="card__text"># 2, Shri Dhathri Nivas, Opp.Manyata Tech Park, Nagwara Circle, Kasaba Palya, Hebbal Outer Ring Road, Bangalore - 560045 </p>
+                                    <!-- <a href="hebbal.php" class="view_btn_cen button">View</a> -->
+                                  </div>
+                                </div>
+                                <div class="controller">
+                                  <div class="card card--big">
+                                    <div class="card__image">
+                                      <img src="images/hsr.jpg">
+                                    </div>
+                                    <h2 class="card__title">HSR</h2>
+                                    <span class="card__subtitle">By Mattia Astorino</span>
+                                    <p class="card__text">House No. : 32, HSR layour, Sector 4, Landmark BDA Complex, Bangalore, Karnataka, Pin-560034</p>
+                                    <!-- <a href="hsr.php" class="view_btn_cen button">View</a> -->
+                                  </div>
+                                </div>
+                                <div class="controller">
+                                  <div class="card card--big">
+                                    <div class="card__image">
+                                      <img src="images/mylan.jpg">
+                                    </div>
+                                    <h2 class="card__title">Mylan</h2>
+                                    <span class="card__subtitle">By Mattia Astorino</span>
+                                    <p class="card__text">Bilekhalli, Bannerghatta Main Road, Bengaluru 560076 </p>
+                                    <!-- <a href="mylan.php" class="view_btn_cen button">View</a> -->
+                                  </div>
+                                </div>
+                                
+                                
+                                
+                                
+                                <div class="controller">
+                                  <div class="card card--big">
+                                    <div class="card__image">
                                       <img src="images/wpro_ecity.jpg">
                                     </div>
                                     <h2 class="card__title">Wipro- Ecity</h2>
                                     <span class="card__subtitle">By Mattia Astorino</span>
                                     <p class="card__text">Wipro Limited, Ecity 4, Gate 10, Tower 18, Bangalore - 560100</p>
                                     <!-- <a href="wipro_ecity.php" class="view_btn_cen button">View</a> -->
-                                  </div>
-                                </div>
-                                <div class="controller">
-                                  <div class="card card--big">
-                                    <div class="card__image">
-                                      <img src="images/subex.jpg">
-                                    </div>
-                                    <h2 class="card__title">RMZ (Subex)</h2>
-                                    <span class="card__subtitle">By Mattia Astorino</span>
-                                    <p class="card__text">Subex, RMZ Ecoworld, Outer Ring Road, Devarabisanahalli, Bangalore - 560103</p>
-                                    <!-- <a href="subex.php" class="view_btn_cen button">View</a> -->
                                   </div>
                                 </div>
                                 <div class="controller">
@@ -220,18 +228,17 @@
                                 <div class="controller">
                                   <div class="card card--big">
                                     <div class="card__image">
-                                      <img src="images/mahadevpura.jpg">
+                                      <img src="images/subex.jpg">
                                     </div>
-                                    <h2 class="card__title">Mahadevapura</h2>
+                                    <h2 class="card__title">RMZ (Subex)</h2>
                                     <span class="card__subtitle">By Mattia Astorino</span>
-                                    <p class="card__text">180/4, T. Govindappa Complex,
-                                      B. Narayanapura, White field Road, 
-                                      Doorvaninagar post, Bangalore, 560016. 
-                                      Landmark DSK Benneli 
-                                    </p>
-                                    <!-- <a href="mahadevpura.php" class="view_btn_cen button">View</a> -->
+                                    <p class="card__text">Subex, RMZ Ecoworld, Outer Ring Road, Devarabisanahalli, Bangalore - 560103</p>
+                                    <!-- <a href="subex.php" class="view_btn_cen button">View</a> -->
                                   </div>
                                 </div>
+                                
+                                
+                                
                               </div>
                             </div>
                           </div>

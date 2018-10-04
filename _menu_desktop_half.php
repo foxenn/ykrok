@@ -43,7 +43,7 @@
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="about_us.php">About Us</a></li>
-                <li><a href="different.php">What Makes us Different</a></li>
+                <li><a href="different.php">Parent Involvement</a></li>
                 <li><a href="team.php">Meet the Team</a></li>
                 <li><a href="our_curriculum.php">International Accreditation</a></li>
                 <li><a href="steam.php">STEAM & Literacy</a></li>
@@ -58,17 +58,17 @@
             <a href="infant.php">Programs</a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
-                <li><a href="infant.php">Babbling infants (3 – 14 months)</a></li>
-                <li><a href="toddler.php">Munchkins (14 months – 2 years)</a></li>
-                <li><a href="preschool.php">Sunshines (2 – 3 years)</a></li>
-                <li><a href="nursery.php">Blossoms (3 – 4 years)</a></li>
-                <li><a href="kindergarden.php">Prep Class (4 – 6 years) </a></li>
-                <li><a href="after_school.php">After School Our Pride (3 – 12 years) </a></li>
+                <li><a href="infant.php">Babbling infants</a></li>
+                <li><a href="toddler.php">Munchkins</a></li>
+                <li><a href="preschool.php">Sunshines</a></li>
+                <li><a href="nursery.php">Blossoms</a></li>
+                <li><a href="kindergarden.php">Prep Class</a></li>
+                <li><a href="after_school.php">After School Our Pride </a></li>
               </ul>
             </div>
           </li>
           <li class="fsNavParentPage">
-            <a href="education_for_parents.php">Food Program</a>
+            <a href="education_for_parents.php">Nutrition and Foods </a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="education_for_parents.php">Education for Parents</a></li>

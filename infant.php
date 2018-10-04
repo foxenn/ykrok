@@ -100,45 +100,45 @@
                         <li>We do not establish a formulated schedule, instead our care providers follow the children’s schedules </li>
                         <li>We have a “No Shoe Policy" in our Infant rooms to keep the environment as clean as possible Children regularly experience the outdoors on car rides or on a blanket on the lawn.</li>
                       </ul> -->
-                    <p>starting at 3 months your baby's first year of life is an amazing time, filled with discovery and enormous growth. it's no secret that what your child learns early in his/her life will be critical to success in school, relationships and life. </p>
-                    <p>it can be difficult to leave your infant in someone else's care and be confident that your child get the same care and stimulation you would give him/her. ykrok infant program will put your mind at ease. </p>
-                    <p>we'll take care of your child’s daily needs, the same way you do. we'll also stimulate your baby's cognitive, emotional and physical development. our specially trained infant nurses build a bond of trust with your baby and with you, and provide a warm, loving environment where your child will build confidence in him/her and develop positive and trusting relationships. it's the kind of infant care environment where your child will learn best and flourish. </p>
-                    <p>in our infant programs our registered nurses and staff follows each child's individual schedule so that basic activities and care schedules happen naturally and differently each day.  one nurse is assigned for every four infants. supporting the nurses are the trained caregivers, nutritionist, cook and housekeeper who report to the centre head.  activities are based on the child’s interests and abilities and are broken down into “needs something time” and “needs nothing time.” </p>
+                    <p>Starting at 3 months your baby's first year of life is an amazing time, filled with discovery and enormous growth. it's no secret that what your child learns early in his/her life will be critical to success in school, relationships and life. </p>
+                    <p>It can be difficult to leave your infant in someone else's care and be confident that your child get the same care and stimulation you would give him/her. ykrok infant program will put your mind at ease. </p>
+                    <p>We'll take care of your child’s daily needs, the same way you do. we'll also stimulate your baby's cognitive, emotional and physical development. our specially trained infant nurses build a bond of trust with your baby and with you, and provide a warm, loving environment where your child will build confidence in him/her and develop positive and trusting relationships. it's the kind of infant care environment where your child will learn best and flourish. </p>
+                    <p>In our infant programs our registered nurses and staff follows each child's individual schedule so that basic activities and care schedules happen naturally and differently each day.  one nurse is assigned for every four infants. supporting the nurses are the trained caregivers, nutritionist, cook and housekeeper who report to the centre head.  activities are based on the child’s interests and abilities and are broken down into “needs something time” and “needs nothing time.” </p>
                     <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Essential components of our infant day care program include: </span></strong></p>
                     <ul>
-                      <li>every infant has an individualized learning program according to his/her needs </li>
-                      <li>registered nurses and caregivers manage the infants </li>
-                      <li>during "needs something" time staff provide one on one quality attention for the child by meeting basic needs such as feeding, diapering, attachment, napping and communication </li>
-                      <li>during "needs nothing" time staff will join the child with 4 other infants to explore and experience the environment full of toys and activities.</li>
-                      <li>we do not establish a formulated schedule; instead our care providers follow the children’s’ schedules </li>
-                      <li>we have a “no shoe policy" in our infant rooms to keep the environment as clean as possible </li>
-                      <li>children regularly experience the indoor play areas, and outdoors on car rides or on a blanket on the lawn </li>
+                      <li>Every infant has an individualized learning program according to his/her needs </li>
+                      <li>Registered nurses and caregivers manage the infants </li>
+                      <li>During "needs something" time staff provide one on one quality attention for the child by meeting basic needs such as feeding, diapering, attachment, napping and communication </li>
+                      <li>During "needs nothing" time staff will join the child with 4 other infants to explore and experience the environment full of toys and activities.</li>
+                      <li>We do not establish a formulated schedule; instead our care providers follow the children’s’ schedules </li>
+                      <li>We have a “no shoe policy" in our infant rooms to keep the environment as clean as possible </li>
+                      <li>Children regularly experience the indoor play areas, and outdoors on car rides or on a blanket on the lawn </li>
                     </ul>
-                    <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">key benefits available at the infant day care: </span></strong></p>
+                    <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Key benefits available at the infant day care: </span></strong></p>
                     <ul>
-                      <li>age appropriate non toxic toys from high end brands </li>
-                      <li>separate nap area with individualized cribs for each infant </li>
-                      <li>air conditioned rooms</li>
-                      <li>cctv camera / live video link</li>
-                      <li>all women staff</li>
-                      <li>meals</li>
-                      <li>doctor on call </li>
-                      <li>background screened staff </li>
-                      <li>first aid and cpr trained staff </li>
-                      <li>child abuse and neglect education </li>
-                      <li>growth activities for healthy development </li>
-                      <li>infant milestones monitored </li>
-                      <li>international methods of supervision of infants </li>
-                      <li>health promotion and protection policies </li>
-                      <li>safe sleep practices and sids risk reduction </li>
-                      <li>hygiene diaper changing procedures </li>
-                      <li>thorough cleaning, sanitizing, and disinfecting </li>
-                      <li>staff trained on preventing shaken baby syndrome </li>
-                      <li>inclusion/exclusion/dismissal of sick infants </li>
-                      <li>safety covers and shock protection devices for electrical outlets </li>
-                      <li>first aid and emergency supplies available </li>
-                      <li>written plan and trained nurses for handling urgent medical care </li>
-                      <li>sign-in/sign-out system authorized persons to pick up child </li>
+                      <li>Age appropriate non toxic toys from high end brands </li>
+                      <li>Separate nap area with individualized cribs for each infant </li>
+                      <li>Air conditioned rooms</li>
+                      <li>Cctv camera / live video link</li>
+                      <li>All women staff</li>
+                      <li>Meals</li>
+                      <li>Doctor on call </li>
+                      <li>Background screened staff </li>
+                      <li>First aid and cpr trained staff </li>
+                      <li>Child abuse and neglect education </li>
+                      <li>Growth activities for healthy development </li>
+                      <li>Infant milestones monitored </li>
+                      <li>International methods of supervision of infants </li>
+                      <li>Health promotion and protection policies </li>
+                      <li>Safe sleep practices and sids risk reduction </li>
+                      <li>Hygiene diaper changing procedures </li>
+                      <li>Thorough cleaning, sanitizing, and disinfecting </li>
+                      <li>Staff trained on preventing shaken baby syndrome </li>
+                      <li>Inclusion/exclusion/dismissal of sick infants </li>
+                      <li>Safety covers and shock protection devices for electrical outlets </li>
+                      <li>First aid and emergency supplies available </li>
+                      <li>Written plan and trained nurses for handling urgent medical care </li>
+                      <li>Sign-in/sign-out system authorized persons to pick up child </li>
                     </ul>
                   </div>
                 </div>

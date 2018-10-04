@@ -71,7 +71,7 @@
                     </header>
                     <div class="fsElementContent">
                       <!-- <p>Your Kids ‘R’ Our Kids offers a variety of unique features and advantages that set us apart from traditional childcare or daycare and mark us as an industry leader in corporate childcare education.</p> -->
-                      <p>parental involvement, active home-school collaboration and networking have become platforms for supporting children in their early years development and promoting family interests in raising happy, healthy children at ykrok.</p>
+                      <p>Parental involvement, active home-school collaboration and networking have become platforms for supporting children in their early years development and promoting family interests in raising happy, healthy children at ykrok.</p>
                     </div>
                     <div class="fsElementContent">
                       <div class="WordSection1">
@@ -81,7 +81,7 @@
 
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;"> Parent in Class
 </span></strong></p>
-<p>through activities from simple story telling, to puppetry sessions, cooking demonstrations, show-and-tells or even just lending some muscle in a playhouse project; these are but some ways that parents in class contribute a different perspective, voice and experience for the children.
+<p>Through activities from simple story telling, to puppetry sessions, cooking demonstrations, show-and-tells or even just lending some muscle in a playhouse project; these are but some ways that parents in class contribute a different perspective, voice and experience for the children.
 </p>
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Parents support group
  </span></strong></p>

@@ -94,10 +94,10 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/ewq.png" alt="">
+                        <img src="images/ympdc.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/wewdas.png" alt="">
+                        <img src="images/yvfdsv.png" alt="">
                       </div>
                     </div>
                   </div>

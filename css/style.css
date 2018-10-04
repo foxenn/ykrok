@@ -1150,7 +1150,7 @@ body:not(.fsComposeMode) .callout h2.fsElementTitle {
       /*      justify-content: space-between;*/
       -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-      padding-left: 110px; }
+      padding-left: 190px; }
       .no-flexbox .nav-main .fsNavLevel1 {
         text-align: justify;
         font-size: 0.1px; }
@@ -6804,6 +6804,7 @@ body:not(.fsComposeMode) .card p{
   line-height: 20px;
   color: #fff;
   text-indent: 0px;
+      font-weight: bold;
 }
 #fsPoweredByFinalsite{
   opacity: 1;
@@ -6858,6 +6859,25 @@ p.comp_punch{
 .awards_home li{
   color: #fff;
   text-align: left;
+}
+ul li::first-letter{
+  text-transform: uppercase;
+}
+.faci_icon{
+  width: 16%;
+  float: left;
+}
+.icon_faci_cvr{
+  width: 31%;
+  margin: auto;
+}
+body:not(.fsComposeMode) .faci_icon p{
+    font-family: "Proxima N W01 Reg";
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+    position: relative;
 }
 @media only screen and (max-width: 1400px){
   .prog_box {

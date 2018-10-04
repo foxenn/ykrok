@@ -75,6 +75,15 @@
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">LEARNING THROUGH PLAY, THE IPC WAY  </span></strong>
                         </p>
+                        <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
+                        <div class="fsMediaGalleryObject" data-objectid="306">
+                            <a href="images/parentedition.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/parentedition.jpg');">
+                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                </div>
+                            </a>
+                        </div>
+                      </div>
                         <p>To support learning through play, the Learning Program includes the following:</p>
                         <ul>
                           <li>Fun, hands-on activities that allow children to learn through experience</li>
@@ -106,15 +115,7 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
-                        <div class="fsMediaGalleryObject" data-objectid="306">
-                            <a href="images/parentedition.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/parentedition.jpg');">
-                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                </div>
-                            </a>
-                        </div>
-                      </div>
+                      
                       <div class="side_img_cvr">
                         <img src="images/11898912_857782734297524_6104483538740487448_n.jpg" alt="">
                       </div>

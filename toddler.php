@@ -113,13 +113,14 @@
                             </div>
                           </div>
                           <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/paint-roller.png" alt="">
+                            </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Art </span></strong></p>
                               <p>Art experiences offer children concrete experiences in exploring elements of art and experimenting with a variety of art techniques and media.</p>
                             </div>
-                            <div class="icon_cvr">
-                              <img src="images/paint-roller.png" alt="">
-                            </div>
+                            
                           </div>
                           <div class="cont_sple_row">
                             <div class="icon_cvr">
@@ -127,17 +128,18 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">English language immersion</span></strong></p>
-                              <p>SEnglish story stretchers experiences integrate language learning focusing on listening and speaking skills, with extensions into gross motor activities, little chef, outdoor learning experiences and emotional cultural quotient  experiences.</p>
+                              <p>English story stretchers experiences integrate language learning focusing on listening and speaking skills, with extensions into gross motor activities, little chef, outdoor learning experiences and emotional cultural quotient  experiences.</p>
                             </div>
                           </div>
                           <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/abc.png" alt="">
+                            </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Letterland</span></strong></p>
                               <p>Learning of letter sounds and letters of the alphabet through visual, auditory and kinaesthetic experiences centred around letter and characters.</p>
                             </div>
-                            <div class="icon_cvr">
-                              <img src="images/abc.png" alt="">
-                            </div>
+                            
                           </div>
                           <div class="cont_sple_row">
                             <div class="icon_cvr">
@@ -149,13 +151,14 @@
                             </div>
                           </div>
                           <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/growth.png" alt="">
+                            </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Creative play</span></strong></p>
                               <p>Creative construction, socio-dramatic, cognitive and manipulative play that engage children in creative, social and physical play while providing a platform for communication, collaboration, creative thinking and problem solving.</p>
                             </div>
-                            <div class="icon_cvr">
-                              <img src="images/growth.png" alt="">
-                            </div>
+                            
                           </div>
                           <div class="cont_sple_row">
                             <div class="icon_cvr">
