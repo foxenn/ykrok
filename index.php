@@ -57,17 +57,18 @@
                         <div class="fsElementContent">
                           <p></p>
                           <h3>
-                            <p><span>The best start in life, for less With 30-100% subsidized Daycare fees</span></p>
+                            <p><span>Our awards</span></p>
                           </h3>
-                          <h1>
-                            <p><span></span></p>
-                            <p></p>
-                            <p></p>
-                            <p></p>
-                            <p></p>
-                          </h1>
-                          <p></p>
-                          <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p>
+                          <div class="awards_home">
+                            <ul>
+                              <li>Most famous corporate day care award for 2018 </li>
+                              <li>Best partner award from several corporate tie ups </li>
+                              <li>IIM Bangalore award for Innovation </li>
+                              <li>Nasscom award for best childcare services </li>
+                              <li>Our corporate client satisfaction scores topped 99% </li>
+                            </ul>
+                          </div>
+                          <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
                           <br>
                           <p></p>
                         </div>
@@ -79,7 +80,7 @@
                           </div>
                         </header>
                         <div class="fsElementContent">
-                          <h2>FIND A LOCATION <br>NEAR YOU</h2>
+                          <h2>FIND A CENTRE <br>NEAR YOU</h2>
                           <h2 class="call_me">Call: 819 729 6254 / <br> 804 083 7999</h2>
                           <p>We'd love to meet you!</p>
                         </div>
@@ -185,32 +186,24 @@
                   <section class="fsElement fsContainer homepage-news" id="fsEl_1312" data-use-new="true">
                     <div class="container">
                       <header>
-                        <h2 class="fsElementTitle">Over 200 Corporate Pan India Tie-ups</h2>
+                        <h2 class="fsElementTitle">YKROK is the solution for over 200 corporates across the entire country</h2>
                       </header>
                       <div class="owl-carousel owl-carouselzero owl-theme">
                         <div class="item">
-                          <img src="images/accenture.png" alt="">
+                          <img src="images/alstom.png" alt="">
                         </div>
+                        
                         <div class="item">
-                          <img src="images/adobe.png" alt="">
-                        </div>
-                        <div class="item">
-                          <img src="images/bosch.png" alt="">
-                        </div>
-                        <div class="item">
-                          <img src="images/flipkart.png" alt="">
-                        </div>
-                        <div class="item">
-                          <img src="images/gel.png" alt="">
-                        </div>
-                        <div class="item">
-                          <img src="images/medlife.png" alt="">
+                          <img src="images/hp.png" alt="">
                         </div>
                         <div class="item">
                           <img src="images/mylan.png" alt="">
                         </div>
                         <div class="item">
-                          <img src="images/s.png" alt="">
+                          <img src="images/accenture.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/volvo.png" alt="">
                         </div>
                         <div class="item">
                           <img src="images/wipro.png" alt="">
@@ -219,7 +212,19 @@
                           <img src="images/tcs.png" alt="">
                         </div>
                         <div class="item">
-                          <img src="images/mindtree.png" alt="">
+                          <img src="images/bosch.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/vedanta.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/temenos.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/gel.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/mediass.png" alt="">
                         </div>
                       </div>
                     </div>
@@ -530,8 +535,8 @@
                       </div>
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
-                          <h1>Award-winning Staff</h1>
-                          <p>We put our best-in-class teachers and staff in a best-in-class workplace. We're so proud to share the 37 winners of the Red Carpet Workplace Award. When you put great staff in an engaging center, your children will experience an amazing place to learn and grow.</p>
+                          <h1>Recognition</h1>
+                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. The IPC is the world leader in childcare education and is recognized for having standards that exceed the minimum requirements of most states and countries.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 

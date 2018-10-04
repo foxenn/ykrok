@@ -47,14 +47,12 @@
                     <nav>
                       <ul class="fsNavLevel1">
                         <li><a href="about_us.php">About Us </a></li>
-                        <li><a href="different.php">What Makes us Different </a></li>
-                        <li class="fsNavCurrentPage"><a href="team.php">Team</a></li>
+                        <li><a href="different.php">Parent Involvement </a></li>
+                        <li class="fsNavCurrentPage"><a href="team.php">Meet the Team</a></li>
                         <li><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>
-                        <li><a href="educational_advisory.php">Educational Advisory Board</a></li>
-                        <li><a href="dual_management.php">Dual Management</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -68,7 +66,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Team</h2>
+                      <h2 class="fsElementTitle">Meet the Team</h2>
                     </header>
                     <div class="fsElementContent">
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Bharat Kapoor, Director and Founder</span></strong></p>
@@ -78,6 +76,31 @@
                       <p>Bharat leads the company's global growth strategy and oversees operations Pan India.. </p>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Suman Kapoor, Chief Executive Officer</span></strong></p>
                       <p>Suman, chairman, co-founded YKROK in 2002 with her husband, Bharat. During the past sixteen years, she has planned, designed, constructed and implemented Child Care facilities at forty different locations, and have graduated over a 4,000 kids to formal schools. She is a graduate from New York University in Early childhood Education. </p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Leadership team
+</span></strong></p>
+<p>Collectively, the leadership team is accountable for the development, supervision and management of the YKROK programme for children, teachers and parents. 
+</p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Day Care Staff
+</span></strong></p>
+<p>YKROK is driven by a team of highly qualified and well-experienced early childhood educators that embodies YKROK’s mission and core values. The highly effective Day Care team in each of our centres is supported by teachers, assistant teachers, care givers, nutritionist, nurses, cook, and operations manager. The majority are English-speaking staff. All teachers are qualified, experienced educators with bachelor degrees and certificates in preschool education;. At each of our centres, you will be able to see how the day care team applies innovation, care, warmth and creativity to help every child develop into a creative and confident learner.
+</p>
+<p>If you would to join our dynamic team, email us at <a href="mailto:hr@ykrok.in">hr@ykrok.in</a>  
+</p>
+                    </div>
+                    <header>
+                      <h2 class="fsElementTitle">DUAL MANAGEMENT</h2>
+                    </header>
+                    <div class="fsElementContent">
+                      <div class="WordSection1">
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Every YKROK Centre is Operated by a full time Centre Head with the assistance of an Operations Manager and Head Office Team. Together They Work To Make Sure Every Family Enjoys A Positive Experience.</span></strong>
+                        </p>
+                        <p>Operations Manager provide continual support to prepare children for success in the centres and in life. They ensure that trained teachers and staff lovingly guide the children to help them learn through play. They also train and manage YKROK teachers on health and safety standards, curriculum requirements, developmental guidelines and enrichment programs.</p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Company Privately Owned And Operated With 16+ Years Experience</span></strong>
+                        </p>
+                        <p>All centres are licensed. Consumer choice awards winner. Centre Heads and Operation Managers are on-site to ensure availability to staff and parents.</p>
+                      </div>
                     </div>
                   </div>
                 </div>

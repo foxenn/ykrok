@@ -47,14 +47,12 @@
                     <nav>
                       <ul class="fsNavLevel1">
                         <li><a href="about_us.php">About Us </a></li>
-                        <li><a href="different.php">What Makes us Different </a></li>
-                        <li><a href="team.php">Team</a></li>
+                        <li><a href="different.php">Parent Involvement </a></li>
+                        <li><a href="team.php">Meet the Team</a></li>
                         <li class="fsNavCurrentPage"><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>
-                        <li><a href="educational_advisory.php">Educational Advisory Board</a></li>
-                        <li><a href="dual_management.php">Dual Management</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -77,16 +75,6 @@
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">LEARNING THROUGH PLAY, THE IPC WAY  </span></strong>
                         </p>
-                        <p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;text-align: center;"><span style="font-size: 18px;">FORMAL SCHOOL-READY, CAREER-READY, LIFE-READY  </span></strong>
-                        </p>
-                        <p><b>School-ready: </b>By going above and beyond any state and local education requirements, Your Kids ‘R’ Our Kids teachers help children become academically proficient and will be ready for formal school.</p>
-                        <p><b>Career-ready: </b>Learning through experience promotes the development of communication, collaboration, creativity and critical-thinking skills. Companies look for these skills in the workforce, so developing those skills early on helps prepare children for success later in life.</p>
-                        <p><b>Life-ready: </b>Encouraging children to discover and explore their interests empowers them to become happy, confident, self-aware, empathetic and self-directed with a lifelong love of learning. Whether your child has an interest in astronomy, writing, cooking or another subject, he or she should develop the drive to independently seek out information to fulfil that curiosity.</p>
-                        <p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;text-align: center;"><span style="font-size: 18px;">LEARNING THROUGH PLAY</span></strong>
-                        </p>
-                        <p>Think about all the times you pretended to be a doctor, a chef, a parent or a pro athlete when you were a child. A play-based curriculum allows children the freedom to have fun while discovering and exploring the world and their interests. </p>
                         <p>To support learning through play, the Learning Program includes the following:</p>
                         <ul>
                           <li>Fun, hands-on activities that allow children to learn through experience</li>
@@ -118,6 +106,15 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
+                      <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
+                        <div class="fsMediaGalleryObject" data-objectid="306">
+                            <a href="images/parentedition.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/parentedition.jpg');">
+                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                </div>
+                            </a>
+                        </div>
+                      </div>
                       <div class="side_img_cvr">
                         <img src="images/11898912_857782734297524_6104483538740487448_n.jpg" alt="">
                       </div>

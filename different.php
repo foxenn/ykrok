@@ -47,14 +47,12 @@
                     <nav>
                       <ul class="fsNavLevel1">
                         <li><a href="about_us.php">About Us </a></li>
-                        <li class="fsNavCurrentPage"><a href="different.php">What Makes us Different </a></li>
-                        <li><a href="team.php">Team</a></li>
+                        <li class="fsNavCurrentPage"><a href="different.php">Parent Involvement </a></li>
+                        <li><a href="team.php">Meet the Team</a></li>
                         <li><a href="our_curriculum.php">Our Curriculum</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>
-                        <li><a href="educational_advisory.php">Educational Advisory Board</a></li>
-                        <li><a href="dual_management.php">Dual Management</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -68,18 +66,30 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Top Reasons to Choose YKROK</h2>
+                      <h2 class="fsElementTitle">Parent Involvement and Partnership
+</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p>Your Kids ‘R’ Our Kids offers a variety of unique features and advantages that set us apart from traditional childcare or daycare and mark us as an industry leader in corporate childcare education.</p>
+                      <!-- <p>Your Kids ‘R’ Our Kids offers a variety of unique features and advantages that set us apart from traditional childcare or daycare and mark us as an industry leader in corporate childcare education.</p> -->
+                      <p>parental involvement, active home-school collaboration and networking have become platforms for supporting children in their early years development and promoting family interests in raising happy, healthy children at ykrok.</p>
                     </div>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">What makes us different </span></strong></p>
+                        <!-- <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Parent Involvement </span></strong></p>
                         <p>We believe that happy, loved and connected day care children are destined for success in every facet of their lives.</p>
-                        <p>Our name of the company brand is also our most cherished principle, “Your Kids ‘R’ Our Kids ,” defines every aspect of who we are. Unlike many daycare centres or childcare providers, our approach is a whole child approach, working to strengthen and encourage every child’s emotional, intellectual, social, and physical being through the expert care of our child care providers and a unique partnership with parents and our corporate tie ups.</p>
+                        <p>Our name of the company brand is also our most cherished principle, “Your Kids ‘R’ Our Kids ,” defines every aspect of who we are. Unlike many daycare centres or childcare providers, our approach is a whole child approach, working to strengthen and encourage every child’s emotional, intellectual, social, and physical being through the expert care of our child care providers and a unique partnership with parents and our corporate tie ups.</p> -->
+
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;"> Parent in Class
+</span></strong></p>
+<p>through activities from simple story telling, to puppetry sessions, cooking demonstrations, show-and-tells or even just lending some muscle in a playhouse project; these are but some ways that parents in class contribute a different perspective, voice and experience for the children.
+</p>
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Parents support group
+ </span></strong></p>
+                        <p>We believe when a child joins ykrok, his/her whole family becomes a part of our community. every year, we provide opportunities for parents to participate in our centre events, projects, and parent whatsapp groups. to facilitate and co-ordinate these, a special group known as the parent support group (<a href="mailto:psg@ykrok">psg@ykrok</a>) was formed. 
+</p>
                       </div>
                     </div>
+                  </div>
                     <!-- <div class="fsElementContent">
                       <div class="WordSection1">
                           <p>
@@ -88,8 +98,7 @@
                           <p>In 2002, entrepreneurs Suman Kapoor and Bharat Kapoor established Your Kids ‘R’ Our Kids to deliver a high-quality, play-based learning program integrated with a day care centre to expat and local families in Lodhi Road, New Delhi. From 2007, we have launched child care centres all over India. Since then, YKROK has grown into an institution that parents, families and companies trust, reaching more than 5,000 students in more than 35 centres in 12 states.</p>
                           <p>As more centres open in corporate work sites across the country, they use the most current, nurturing child care and academically endorsed methods to ensure that children have fun and are cared for while learning the skills they need for long-term success in school and in life.</p>
                       </div>
-                      </div> -->
-                  </div>
+                      </div>-->
                 </div>
                 <!-- end: middle part -->
                 <!-- start: side contacts -->

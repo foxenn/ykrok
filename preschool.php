@@ -71,7 +71,7 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p>Perseverance is the ability to overcome obstacles to achieve a goal, which is essential to children’s success in school and in life. In the play-based preschool classroom, children develop this crucial trait by engaging in learning activities and sticking with them along with using STEAM and Brain developing curriculum.</p>
+                        <!-- <p>Perseverance is the ability to overcome obstacles to achieve a goal, which is essential to children’s success in school and in life. In the play-based preschool classroom, children develop this crucial trait by engaging in learning activities and sticking with them along with using STEAM and Brain developing curriculum.</p>
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">School-Readiness</span></strong>
                         </p>
@@ -112,7 +112,71 @@
                           <li>Recalling events from an activity </li>
                           <li>Artwork becoming more refined and beginning to resemble symbols </li>
                           <li>Participating in the Annual Day, Celebrations /Birthday Parties, Sports Day, Miss and Master Competition, Grandparents Day, Festivals, Occasions, Special Guest Visits, Appreciation Cards, Field Trips and much more. </li>
-                        </ul>
+                        </ul> -->
+
+
+                        <p>In the Preschool years, emphasis shifts from emergent strategies of the early years to purposeful acquisition and understanding of content, skills and concepts.
+</p>
+<p>Children’s developing language competencies are more visibly used as tools for communication and for learning content and concepts. With increasing maturity of their physical competencies, preschool children are able to take on greater challenges in physical pursuits, and engage in more sophisticated pre-writing and writing experiences.
+</p>
+<p>Expectations for self and social development are prioritized resulting in even greater autonomy and independence, enhanced self-help skills, emotional self-regulation, self-concept and confidence. Our Preschool programme promotes children’s interests and their natural quest for knowledge; leading to experiences in problem solving, inquiry, investigation, discovery and active hands-on explorations.
+</p>
+<p>In the Preschool years, learning is naturally more structured and integrated across multiple disciplines to meet expectations for holistic goals, development of life skills, dispositions and attitudes, as well as academic achievements.
+</p>
+<p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Milestones focused on in the Preschool experience: </span></strong></p>
+                          <ul>
+                            <li>Preparatory Program for child’s readiness to join main schools on merit basis </li>
+                            <li>Huge emphasis on socialization, and forming relationships with teachers and peers </li>
+                            <li>Patterning </li>
+                            <li>Sorting by shape, size and color </li>
+                            <li>Understanding cause and effect and beginning to problem solve </li>
+                            <li>Basic counting </li>
+                            <li>Making predictions based on simple information </li>
+                            <li>Recognizing own name and other letters in print </li>
+                            <li>Showing a genuine interest in reading books with teachers </li>
+                            <li>Recalling events from an activity </li>
+                            <li>Artwork becoming more refined and beginning to resemble symbols </li>
+                            <li>Participating in Celebrations /Birthday Parties, Sports Day, Miss and Master Competition, Grandparents Day, Festivals, Occasions, Special Guest Visits, Appreciation Cards and much more. </li>
+                          </ul>
+                          <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">LEARNING & NUTURING STAFF</span></strong></p>
+                          <ul>
+                            <li>There is a structured program you can see in action throughout the twelve hour day like morning activities, rest and nap time, meals, outdoor play, and afternoon activities.</li>
+                            <li>Teachers are caring and responsive.</li>
+                            <li>Eight children to a teacher is the average group size</li>
+                            <li>Not using hitting, shouting, rather positive methods used to guide behaviour.</li>
+                            <li>A lot of play and daily routines used as opportunities for nurturing and learning.</li>
+                            <li>Many toys and materials in the toddler areas offer interesting and challenging activities.</li>
+                            <li>English speaking Teachers.</li>
+                            <li>Staff available for local language request.</li>
+                          </ul>
+
+                          <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">HEALTH & SAFETY</span></strong></p>
+
+                          <ul>
+                            <li>The classroom is safe, clean, and well-maintained </li>
+                            <li>The classroom contains half walls giving full visibility to parents and staff from all areas </li>
+                            <li>Entrances secured with electronic biometric access to gain entrance into the building housing the classroom </li>
+                            <li>Well documented safety plan in place in case of emergency to get the kids out in a specific area </li>
+                            <li>Secure pick-up/drop-off procedures in place with tight security </li>
+                            <li>Meals and nap times are personalized for your child's needs </li>
+                            <li>Personal beds for each child </li>
+                            <li>Toys sanitized daily </li>
+                            <li>Teachers wash hands after diapering, before feeding the child and frequently in between </li>
+                            <li>Sick toddler children who are contagious kept at home policy enforced </li>
+                            <li>Breakfast, lunch, mid day snack, dinner and in between milk provided daily </li>
+                            <li>Going home time milk required in a bottle for the car journey permitted </li>
+                            <li>Each child maintains a separate water bottle with toddler name imprinted on bottle to prevent accidental sharing and infection </li>
+                          </ul>
+
+                          <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">COMMUNICATION</span></strong></p>
+
+                          <ul>
+                            <li>Parents allowed to visit your child’s classroom anytime you want </li>
+                            <li>Daily communication about your child’s day online as well at the family communications board </li>
+                            <li>Weekly and daily online communication about what your child is learning </li>
+                            <li>Assessments-parent teacher meetings done monthly </li>
+                          </ul>
                       </div>
                     </div>
                   </div>

@@ -44,13 +44,13 @@
               <ul class="fsNavLevel2">
                 <li><a href="about_us.php">About Us</a></li>
                 <li><a href="different.php">What Makes us Different</a></li>
-                <li><a href="team.php">Team</a></li>
+                <li><a href="team.php">Meet the Team</a></li>
                 <li><a href="our_curriculum.php">International Accreditation</a></li>
                 <li><a href="steam.php">STEAM & Literacy</a></li>
                 <li><a href="brain_development.php">Brain Development </a></li>
                 <li><a href="quality.php">Quality Assurance</a></li>
-                <li><a href="educational_advisory.php">Educational Advisory Board</a></li>
-                <li><a href="dual_management.php">Dual Management</a></li>
+                <!-- <li><a href="educational_advisory.php">Educational Advisory Board</a></li> -->
+                <!-- <li><a href="dual_management.php">Dual Management</a></li> -->
               </ul>
             </div>
           </li>
@@ -58,12 +58,12 @@
             <a href="infant.php">Programs</a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
-                <li><a href="infant.php">infant</a></li>
-                <li><a href="toddler.php">Toddler</a></li>
-                <li><a href="preschool.php">preschool</a></li>
-                <li><a href="nursery.php">Nursery</a></li>
-                <li><a href="kindergarden.php">kindergarten</a></li>
-                <li><a href="after_school.php">After School Care</a></li>
+                <li><a href="infant.php">Babbling infants (3 – 14 months)</a></li>
+                <li><a href="toddler.php">Munchkins (14 months – 2 years)</a></li>
+                <li><a href="preschool.php">Sunshines (2 – 3 years)</a></li>
+                <li><a href="nursery.php">Blossoms (3 – 4 years)</a></li>
+                <li><a href="kindergarden.php">Prep Class (4 – 6 years) </a></li>
+                <li><a href="after_school.php">After School Our Pride (3 – 12 years) </a></li>
               </ul>
             </div>
           </li>

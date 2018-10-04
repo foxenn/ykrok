@@ -71,7 +71,7 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p>As young learners begin to walk and talk regularly, their curiosity drives them to explore. The toddler and get set classrooms foster children’s developing independence by helping them hone valuable skills, such as the abilities to collaborate and communicate along with our customised Brain developing curriculum.</p>
+                        <!-- <p>As young learners begin to walk and talk regularly, their curiosity drives them to explore. The toddler and get set classrooms foster children’s developing independence by helping them hone valuable skills, such as the abilities to collaborate and communicate along with our customised Brain developing curriculum.</p>
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">School-Readiness</span></strong>
                         </p>
@@ -98,7 +98,109 @@
                           <li>Toilet Training </li>
                           <li>Eating Independently </li>
                           <li>Participating in the Celebrations /Birthday Parties, Grandparents Day, Festivals, Occasions, Special Guest Visits, Appreciation Cards, and much more.</li>
+                        </ul> -->
+                        <p>The toddler curriculum is largely unstructured and occurs in the contexts of emergent and multi-sensory experiences, encouraging children’s curiosity, discovery, imagination and creative expression. Curriculum is designed with the developmental milestones and characteristics of toddlers of this age group in mind.</p>
+                        <p>The open-ended nature of the toddler’s experiences ensure a holistic development that lays the foundation for later years learning.</p>
+                        <p>Children are now upright; walking, eating table food and taking only one nap a day. they begin to follow more of a schedule where their friends participate in some of the same activities at the same time. </p>
+                        <div class="spl_icons">
+                          <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/exercise.png" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Stretchers</span></strong></p>
+                              <p>Story-based experiences that integrate language and math complemented by extensions into gross motor activities, little chef, play learning experiences and emotional cultural quotient.</p>
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Art </span></strong></p>
+                              <p>Art experiences offer children concrete experiences in exploring elements of art and experimenting with a variety of art techniques and media.</p>
+                            </div>
+                            <div class="icon_cvr">
+                              <img src="images/paint-roller.png" alt="">
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/chat.png" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">English language immersion</span></strong></p>
+                              <p>SEnglish story stretchers experiences integrate language learning focusing on listening and speaking skills, with extensions into gross motor activities, little chef, outdoor learning experiences and emotional cultural quotient  experiences.</p>
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Letterland</span></strong></p>
+                              <p>Learning of letter sounds and letters of the alphabet through visual, auditory and kinaesthetic experiences centred around letter and characters.</p>
+                            </div>
+                            <div class="icon_cvr">
+                              <img src="images/abc.png" alt="">
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/development.png" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Growth and development </span></strong></p>
+                              <p>As a part of the group, toddlers undergo, toilet training, eating independently, participating n the annual day, celebrations /birthday parties, grandparents day, festivals, occasions, special guest visits, appreciation cards, and much more. </p>
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Creative play</span></strong></p>
+                              <p>Creative construction, socio-dramatic, cognitive and manipulative play that engage children in creative, social and physical play while providing a platform for communication, collaboration, creative thinking and problem solving.</p>
+                            </div>
+                            <div class="icon_cvr">
+                              <img src="images/growth.png" alt="">
+                            </div>
+                          </div>
+                          <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/violin.png" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Music </span></strong></p>
+                              <p>offers children concrete experiences in exploring and experiencing music through rhythm, listening, playing with instruments, creating music, singing and performing.</p>
+                            </div>
+                          </div>
+                        </div>
+                        <p>There is one head teacher for every four toddlers and additional staff for providing basic needs care, they also teach children to use self-help skills. routines and limits are essential at this age to help children predict the events that will occur during the day and determine their boundaries. </p>
+
+                        <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">key benefits available at the toddler day care:  </span></strong></p>
+                        <ul>
+                          <li>separation of toddlers from older children</li>
+                          <li>toddlers always accompanied to the washrooms with the attendant </li>
+                          <li>lots of interactions with toddlers. communication in native language</li>
+                          <li>spacious rooms offering 50 sq / child with activities to support learning </li>
+                          <li>encouraging self-feeding by toddlers</li>
+                          <li>toddler program is not about baby sitting </li>
+                          <li>age appropriate written daily / weekly and monthly activities plan, </li>
+                          <li>new child settling in phase, </li>
+                          <li>toilet trainings, </li>
+                          <li>toddler group has a head and assistant tteachers will develop positive relations with parents and toddlers </li>
+                          <li>parent visits anytime with an open door policy</li>
+                          <li>good selection of age appropriate activities to support learning </li>
+                          <li>health, safety and nutrition awareness to toddlers</li>
+                          <li>excellent parent to parent communications.</li>
+                          <li>in house nurse responsible for implementing a medical emergency plan</li>
+                          <li>fully stocked first aid box</li>
+                          <li>nutritional planning for individual toddler </li>
+                          <li>child health records examined frequently</li>
+                          <li>nap time can be individualized</li>
+                          <li>diapering and hand washing done throughout the day </li>
+                          <li>inclusion/ exclusion of toddler from the centre for illness</li>
+                          <li>caring for ill toddlers </li>
+                          <li>control of communicable diseases and sids.</li>
+                          <li>care for toddlers with food allergies</li>
+                          <li>designated walkways, drop-off and pick-up points</li>
+                          <li>guardrails & handrails</li>
+                          <li>interior temperature of room</li>
+                          <li>attendance of toddlers with head lice</li>
                         </ul>
+
                       </div>
                     </div>
                   </div>

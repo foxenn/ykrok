@@ -77,7 +77,7 @@
                             <li>A nutritious snack offered to all children in midmorning at 10:30AM and in mid afternoon at 4PM</li>
                             <li>Children offered food at intervals at least 2 hours apart and not more than 3 hours apart unless the child is asleep. Some very young infants are fed at shorter intervals than every 2 hours to meet their nutritional needs.</li>
                             <li>Children in care are offered 5 or more servings of a fruit, vegetable, and milk each day. At least one of these servings are high in Vitamin C. A fruit, vegetable, and high in Vitamin A are offered daily.</li>
-                            <li>The YKROK centre need to serve only full-strength (100%) fruit juice from a cup. The centre offers juice at specific meals and snacks instead of continuously throughout the day. </li>
+                            <li>The YKROK centre offers fruits at specific meals and snacks instead of continuously throughout the day.</li>
                             <li>Clean, sanitary drinking water is readily available throughout the day.</li>
                             <li>If dietary modifications are indicated based on a child's medical or special dietary needs, the teacher/assistant teacher/nurse will modify or supplement the child's diet on a case-by-case basis, in consultation with the parents and the YKROK’s Nutrition Specialist.</li>
                             <li>Reasons for modification of the child's diet may be related to allergies, food idiosyncrasies, and other identified feeding issues which a parent must inform the Centre Head. </li>
