@@ -521,8 +521,6 @@
                           </div>
                       </div>
                       </div> -->
-                    <div class="fsElementContent">
-                    </div>
                   </section>
                   <section class="fsElement fsContainer testimonial right" id="fsEl_1296" data-use-new="true">
                     <header>

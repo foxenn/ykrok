@@ -169,7 +169,7 @@
                                 <div class="controller">
                                   <div class="card card--big">
                                     <div class="card__image">
-                                      <img src="images/hsr.jpg">
+                                      <img src="images/WhatsApp Image 2018-10-04 at 10.18.54 AM.jpeg">
                                     </div>
                                     <h2 class="card__title">HSR</h2>
                                     <span class="card__subtitle">By Mattia Astorino</span>
