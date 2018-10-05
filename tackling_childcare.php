@@ -83,34 +83,13 @@
                         </ul>
                       </div>
                       <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
-                          <div class="fsMediaGalleryObject" data-objectid="306">
-                              <a href="images/tnklsdc.png" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/tnklsdc.png');">
-                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="fsMediaGalleryObject" data-objectid="306">
-                              <a href="images/tvdfvdmv.png" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/tvdfvdmv.png');">
-                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="fsMediaGalleryObject" data-objectid="306">
-                              <a href="images/tmsd.png" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/tmsd.png');">
-                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                  </div>
-                              </a>
-                          </div>
-                          <div class="fsMediaGalleryObject" data-objectid="306">
-                              <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');">
-                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                  </div>
-                              </a>
-                          </div>
+                        <div class="fsMediaGalleryObject" data-objectid="306" style="width: 400px;">
+                            <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');height: 332px;">
+                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                </div>
+                            </a>
+                        </div>
                       </div>
                     </div>
                   </div>

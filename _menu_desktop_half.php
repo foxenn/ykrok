@@ -68,7 +68,7 @@
             </div>
           </li>
           <li class="fsNavParentPage">
-            <a href="education_for_parents.php">Nutrition and Foods </a>
+            <a href="education_for_parents.php">Nutrition and Food </a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="education_for_parents.php">Education for Parents</a></li>
