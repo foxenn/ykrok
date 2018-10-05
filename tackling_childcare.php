@@ -104,7 +104,13 @@
                                   </div>
                               </a>
                           </div>
-                          
+                          <div class="fsMediaGalleryObject" data-objectid="306">
+                              <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');">
+                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                  </div>
+                              </a>
+                          </div>
                       </div>
                     </div>
                   </div>

@@ -65,6 +65,15 @@
                       <h2 class="fsElementTitle">Onsite And Near Site Exclusive Company Childcare Center </h2>
                     </header>
                     <div class="fsElementContent">
+                      <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
+                        <div class="fsMediaGalleryObject" data-objectid="306">
+                            <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');">
+                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                </div>
+                            </a>
+                        </div>
+                      </div>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">How Does It Work?</span></strong></p>
                       <ul>
                         <li>An exclusive facility set up onsite or space is not available near premises of the corporate </li>

@@ -67,6 +67,15 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
+                        <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
+                          <div class="fsMediaGalleryObject" data-objectid="306">
+                              <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                                  <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');">
+                                      <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                                  </div>
+                              </a>
+                          </div>
+                        </div>
                         <p>Our country – India, business community, and economy can achieve its potential and meet the challenges of the 21st century without the full and equal participation of women and men, girls and boys – a fact that is reflected in the Sustainable Development Goals. Reliable, affordable, and good-quality childcare is essential for making progress. Yet today, in many parts of India, working parents face several challenges in accessing decent childcare. The lack of access not only affects early childhood development but also hurts businesses and our economy that depend on acquiring and retaining a skilled workforce.</p>
                         <p>Inadequate childcare also contributes to failing female labour force participation rates, as Indian women spend three times as many hours in unpaid care work as men. Childcare, however, is not a women’s issue alone. All working parents, women and men, usually need child care options to retain or get new jobs.</p>
                         <p>Along with the Indian government, companies, which provides jobs, is well positioned to be an essential partner for addressing the Indian childcare challenge. Still, employers do not always understand the business case for investments in day care and often look at it from a compliance or corporate social responsibility perspective.  Even when companies are convinced of the business case for sponsored childcare centres, they may have difficulties defining what works best for their companies and employees, and how to get there.</p>
