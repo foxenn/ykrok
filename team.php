@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/IMG_8624.jpg');    background-position-y: -222px;">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/team_image.jpg');    background-position-y: -222px;">
                   <div class="fsElementContent">
                   </div>
                 </div>
