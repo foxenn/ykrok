@@ -122,7 +122,7 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      <div class="side_img_cvr">
+                      <!-- <div class="side_img_cvr">
                         <img src="images/14159269-traditional-indian-family-with-one-child-sitting-on-white-background.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
@@ -133,7 +133,7 @@
                       </div>
                       <div class="side_img_cvr">
                         <img src="images/IndianFamily.jpg" alt="">
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>

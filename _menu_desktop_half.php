@@ -94,7 +94,7 @@
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="tackling_childcare.php">Tackling Childcare</a></li>
-                <li><a href="corporate-partnerships.php">Partnering Possibilities</a></li>
+                <li><a href="partnering_possibility.php">Partnering Possibilities</a></li>
                 <li><a href="onsite.php">On-Site / Near-Site Care </a></li>
               </ul>
             </div>

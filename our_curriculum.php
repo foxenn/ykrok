@@ -117,28 +117,22 @@
                     <div class="fsElementContent">
                       
                       <div class="side_img_cvr">
-                        <img src="images/11898912_857782734297524_6104483538740487448_n.jpg" alt="">
+                        <img src="images/ycadm.jpeg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/13124707_986359274773202_6589028455659847242_n.jpg" alt="">
+                        <img src="images/ycdsalc.jpeg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/13344778_1005843192824810_5006991235363468937_n.jpg" alt="">
+                        <img src="images/yncanc.jpeg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/13501915_1018275851581544_5515815858888281670_n.jpg" alt="">
+                        <img src="images/ypcaoc.jpeg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/dsaasa.png" alt="">
+                        <img src="images/ypcsd.jpeg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/ewqq.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/dsadawa.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/11960042_874072362668561_7828517571392352056_n.jpg" alt="">
+                        <img src="images/ypkodca.jpeg" alt="">
                       </div>
                     </div>
                   </div>

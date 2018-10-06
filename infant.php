@@ -100,13 +100,10 @@
                         <li>We do not establish a formulated schedule, instead our care providers follow the children’s schedules </li>
                         <li>We have a “No Shoe Policy" in our Infant rooms to keep the environment as clean as possible Children regularly experience the outdoors on car rides or on a blanket on the lawn.</li>
                       </ul> -->
-                    <p>Starting at 3 months your baby's first year of life is an amazing time, filled with discovery and enormous growth. it's no secret that what your child learns early in his/her life will be critical to success in school, relationships and life. </p>
-                    <p>It can be difficult to leave your infant in someone else's care and be confident that your child get the same care and stimulation you would give him/her. ykrok infant program will put your mind at ease. </p>
-                    <p>We'll take care of your child’s daily needs, the same way you do. we'll also stimulate your baby's cognitive, emotional and physical development. our specially trained infant nurses build a bond of trust with your baby and with you, and provide a warm, loving environment where your child will build confidence in him/her and develop positive and trusting relationships. it's the kind of infant care environment where your child will learn best and flourish. </p>
-                    <p>In our infant programs our registered nurses and staff follows each child's individual schedule so that basic activities and care schedules happen naturally and differently each day.  one nurse is assigned for every four infants. supporting the nurses are the trained caregivers, nutritionist, cook and housekeeper who report to the centre head.  activities are based on the child’s interests and abilities and are broken down into “needs something time” and “needs nothing time.” </p>
-                    <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Essential components of our infant day care program include: </span></strong></p>
+                    <p>Starting at 3 months,your baby's first year of life is an amazing time, filled with discovery and enormous growth. It's no secret that what your child learns early in his/her life will be critical to have success in school, relationships and life.</p>
+                    <p>It can be difficult to leave your infant in someone else's care and be confident that your child gets the same care and stimulation you would give him/her.YKROK infant program will put your mind  infant has an individualized learning program according to his/her needs.</p>
+                    
                     <ul>
-                      <li>Every infant has an individualized learning program according to his/her needs </li>
                       <li>Registered nurses and caregivers manage the infants </li>
                       <li>During "needs something" time staff provide one on one quality attention for the child by meeting basic needs such as feeding, diapering, attachment, napping and communication </li>
                       <li>During "needs nothing" time staff will join the child with 4 other infants to explore and experience the environment full of toys and activities.</li>

@@ -99,7 +99,7 @@
                           <li>Eating Independently </li>
                           <li>Participating in the Celebrations /Birthday Parties, Grandparents Day, Festivals, Occasions, Special Guest Visits, Appreciation Cards, and much more.</li>
                         </ul> -->
-                        <p>The toddler curriculum is largely unstructured and occurs in the contexts of emergent and multi-sensory experiences, encouraging children’s curiosity, discovery, imagination and creative expression. Curriculum is designed with the developmental milestones and characteristics of toddlers of this age group in mind.</p>
+                        <p>The toddler curriculum is largely unstructured and occurs in the contexts of emergent and multi-sensory experiences, encouraging children’s curiosity, discovery, imagination and creative expressions. Curriculum is designed with developmental milestones and characteristics of toddlers of this age group in mind.</p>
                         <p>The open-ended nature of the toddler’s experiences ensure a holistic development that lays the foundation for later years learning.</p>
                         <p>Children are now upright; walking, eating table food and taking only one nap a day. they begin to follow more of a schedule where their friends participate in some of the same activities at the same time. </p>
                         <div class="spl_icons">
@@ -109,7 +109,8 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Stretchers</span></strong></p>
-                              <p>Story-based experiences that integrate language and math complemented by extensions into gross motor activities, little chef, play learning experiences and emotional cultural quotient.</p>
+                              <p>Story-based experiences that integrate language and math complemented by extensions into gross motor activities, little chef, play learning experiences and emotional cultural quotient.
+</p>
                             </div>
                           </div>
                           <div class="cont_sple_row">
@@ -118,7 +119,8 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Art </span></strong></p>
-                              <p>Art experiences offer children concrete experiences in exploring elements of art and experimenting with a variety of art techniques and media.</p>
+                              <p>Art experiences offer children concrete experiences in exploring elements of art and experimenting with a variety of art techniques and media.
+</p>
                             </div>
                             
                           </div>
@@ -128,7 +130,8 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">English language immersion</span></strong></p>
-                              <p>English story stretchers experiences integrate language learning focusing on listening and speaking skills, with extensions into gross motor activities, little chef, outdoor learning experiences and emotional cultural quotient  experiences.</p>
+                              <p>English story stretchers experiences integrate language learning focusing on listening and speaking skills, with extensions into gross motor activities, little chef, outdoor learning experiences and emotional cultural quotient  experiences.
+</p>
                             </div>
                           </div>
                           <div class="cont_sple_row">
@@ -147,7 +150,8 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Growth and development </span></strong></p>
-                              <p>As a part of the group, toddlers undergo, toilet training, eating independently, participating n the annual day, celebrations /birthday parties, grandparents day, festivals, occasions, special guest visits, appreciation cards, and much more. </p>
+                              <p>As a part of the group, toddlers undergo, toilet training, eating independently, participating n the annual day, celebrations /birthday parties, grandparents day, festivals, occasions, special guest visits, appreciation cards, and much more.
+</p>
                             </div>
                           </div>
                           <div class="cont_sple_row">
@@ -166,7 +170,7 @@
                             </div>
                             <div class="icon_text">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Music </span></strong></p>
-                              <p>offers children concrete experiences in exploring and experiencing music through rhythm, listening, playing with instruments, creating music, singing and performing.</p>
+                              <p>Offers children concrete experiences in exploring and experiencing music through rhythm, listening, playing with instruments, creating music, singing and performing.</p>
                             </div>
                           </div>
                         </div>
@@ -203,7 +207,6 @@
                           <li>interior temperature of room</li>
                           <li>attendance of toddlers with head lice</li>
                         </ul>
-
                       </div>
                     </div>
                   </div>
