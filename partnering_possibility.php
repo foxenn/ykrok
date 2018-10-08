@@ -92,20 +92,20 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/rblca.png" alt="">
+                        <img src="images/ubcajshcb.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/rlilncdsc.png" alt="">
+                        <img src="images/ubjkcas.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/rnklsd.png" alt="">
+                        <img src="images/ucnlasac.jpg" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/rnsdcs.png" alt="">
+                        <img src="images/ucvsand.jpg" alt="">
                       </div>
-                      <div class="side_img_cvr">
-                        <img src="images/roinds.png" alt="">
-                      </div>
+                      <!-- <div class="side_img_cvr">
+                        <img src="images/unlcasa.jpg" alt="">
+                      </div> -->
                     </div>
                   </div>
                 </div>
