@@ -62,7 +62,7 @@
                       <h2 class="fsElementTitle">Contact Us</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Please submit your RFP to:</span></strong></p>
+                      <!-- <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Please submit your RFP to:</span></strong></p>
                       <p>Bharat Kapoor <br>
                         Director <br>
                         Your Kids ‘R’ Our Kids (India) Education Private Limited  <br>
@@ -70,11 +70,11 @@
                         Koramangala Industrial Area, Jyothi Niwas College Road <br>
                         Bangalore 560095, Karnataka, India
                       </p>
-                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></p>
+                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></p> -->
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Registered Office</span></strong></p>
                       <p>Your Kids ‘R’ Our Kids (India) Education Private Limited  Pragati Mansion, Number 12, 2nd Floor 1st A Cross, 5th A Block Koramangala Bangalore, KA 560095</p>
                     </div>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.642051138299!2d77.61994781489597!3d12.930712519272566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3c2d44110675%3A0x8feadace4aafbe28!2sYour+Kids+%E2%80%98R%E2%80%99+Our+Kids+(India)+Education+Pvt.+Ltd!5e0!3m2!1sen!2sin!4v1531857311246" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1944.300970627267!2d77.6213682!3d12.9332863!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15cb04e24b25%3A0xfb239ec4aa82035c!2sYour+Kids+&#39;R&#39;+Our+Kids!5e0!3m2!1sen!2sin!4v1539195813477" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     <!-- <header>
                       <h2 class="fsElementTitle">Your Dedicated YKROK Team!</h2>
                     </header> -->
@@ -96,6 +96,7 @@
                         <li>Please send your RFP to either  </li>
                         <li><a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></li>
                       </ul>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Enrolments: <a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a> <a href="tel:08040837999">08040837999 /</a>  <a href="tel:8197296254"> 8197296254 </a></span></strong></p>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Customer Service: <a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in </a></span></strong></p>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Nutritionist: <a href="mailto:nutritionist@ykrok.in">nutritionist@ykrok.in</a></span></strong></p>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Curriculum: <a href="mailto:curriculumcoordinator@ykrok.in">curriculumcoordinator@ykrok.in</a></span></strong></p>

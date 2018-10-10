@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/fourr.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/vfrgerg.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -79,7 +79,6 @@
                         <li>An exclusive facility set up onsite or space is not available near premises of the corporate </li>
                         <li>Fit out and setup costs borne by corporate and shared with YKROK</li>
                         <li>YKROK manages the end to end setup and operations </li>
-                        <li>Swift execution of plan as space & infrastructure support already exist </li>
                         <li>Holidays and timings of the Centre are mapped to the Corporate’s need </li>
                         <li>Corporate gives YKROK a guaranteed number of kids </li>
                       </ul>

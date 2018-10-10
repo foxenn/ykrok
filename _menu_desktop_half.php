@@ -47,7 +47,7 @@
                 <li><a href="team.php">Meet the Team</a></li>
                 <li><a href="our_curriculum.php">International Accreditation</a></li>
                 <li><a href="steam.php">STEAM & Literacy</a></li>
-                <li><a href="brain_development.php">Brain Development </a></li>
+                <li><a href="brain_development.php">Learning Library</a></li>
                 <li><a href="quality.php">Quality Assurance</a></li>
                 <!-- <li><a href="educational_advisory.php">Educational Advisory Board</a></li> -->
                 <!-- <li><a href="dual_management.php">Dual Management</a></li> -->

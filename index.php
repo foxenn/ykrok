@@ -57,7 +57,7 @@
                         <div class="fsElementContent">
                           <p></p>
                           <h3>
-                            <p><span>Our awards</span></p>
+                            <p><span style="font-size: 20px;">Our Rewards</span></p>
                           </h3>
                           <div class="awards_home">
                             <ul>
@@ -65,7 +65,8 @@
                               <li>Best partner award from several corporate tie ups </li>
                               <li>IIM Bangalore award for Innovation </li>
                               <li>Nasscom award for best childcare services </li>
-                              <li>Our corporate client satisfaction scores topped 99% </li>
+                              <li>Corporate client satisfaction scores topped 99% </li>
+                              <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</li>
                             </ul>
                           </div>
                           <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
@@ -186,7 +187,7 @@
                   <section class="fsElement fsContainer homepage-news" id="fsEl_1312" data-use-new="true">
                     <div class="container">
                       <header>
-                        <h2 class="fsElementTitle">YKROK is the solution for over 200 corporates across the entire country</h2>
+                        <h2 class="fsElementTitle">YKROK IS THE SOLUTION FOR OVER 200 CORPORATES ACROSS INDIA</h2>
                       </header>
                       <div class="owl-carousel owl-carouselzero owl-theme">
                         <div class="item">
@@ -221,10 +222,13 @@
                           <img src="images/temenos.png" alt="">
                         </div>
                         <div class="item">
-                          <img src="images/gel.png" alt="">
+                          <img src="images/mediass.png" alt="">
                         </div>
                         <div class="item">
-                          <img src="images/mediass.png" alt="">
+                          <img src="images/yodlee.png" alt="">
+                        </div>
+                        <div class="item">
+                          <img src="images/micro.png" alt="">
                         </div>
                       </div>
                     </div>
@@ -533,8 +537,8 @@
                       </div>
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
-                          <h1>Recognition</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. The IPC is the world leader in childcare education and is recognized for having standards that exceed the minimum requirements of most states and countries.</p>
+                          <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
+                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures of  our Operations. Our centre operations have been recognized for having standards that exceed the minimum requirements of most states and countries.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -557,7 +561,8 @@
                   <br>
                   <section class="fsElement fsContainer homepage-events" id="fsEl_1331" data-use-new="true" style="padding-bottom: 25px;">
                     <header>
-                      <h2 class="fsElementTitle">SOME OF THE FACILITIES INCLUDE</h2>
+                      <h2 class="fsElementTitle">YKROK Education is more than just ABC's and 123's. 
+Learn More About Our Approach</h2>
                     </header>
                     <div class="faci_icons_cvr">
                       <div class="faci_icon">
@@ -594,9 +599,64 @@
                         <div class="icon_faci_cvr">
                           <img src="images/meditation.png" alt="">
                         </div>
-                        <p>Games & yoga learning</p>
+                        <p>Games & yoga</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/painting.png" alt="">
+                        </div>
+                        <p>Art Adventure</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/calculator.png" alt="">
+                        </div>
+                        <p>Math-Manipulatives</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/flag.png" alt="">
+                        </div>
+                        <p>Discovery Center</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/grow-up.png" alt="">
+                        </div>
+                        <p>Grow and Play</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/monitor.png" alt="">
+                        </div>
+                        <p>Computer Center</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/reading.png" alt="">
+                        </div>
+                        <p>Book Nook</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/theater.png" alt="">
+                        </div>
+                        <p>Dramatic Play</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/tic-tac-toe.png" alt="">
+                        </div>
+                        <p>Circle Time</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/watering-can.png" alt="">
+                        </div>
+                        <p>Front Yard</p>
                       </div>
                     </div>
+                      
                   </section>
                 </div>
               </div>
