@@ -49,7 +49,7 @@
                         <li><a href="about_us.php">About Us </a></li>
                         <li><a href="different.php">Parent Involvement </a></li>
                         <li><a href="team.php">Meet the Team</a></li>
-                        <li class="fsNavCurrentPage"><a href="our_curriculum.php">Our Curriculum</a></li>
+                        <li class="fsNavCurrentPage"><a href="our_curriculum.php">International Accreditation</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>
@@ -115,24 +115,8 @@
                 <div class=" fsDiv fsStyleOneThird fsStyleAutoclear" id="fsEl_1530">
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
-                      
-                      <div class="side_img_cvr">
-                        <img src="images/ycadm.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/ycdsalc.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/yncanc.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/ypcaoc.jpeg" alt="">
-                      </div>
                       <div class="side_img_cvr">
                         <img src="images/ypcsd.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/ypkodca.jpeg" alt="">
                       </div>
                     </div>
                   </div>

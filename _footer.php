@@ -30,7 +30,7 @@
                         <div class="fsElement fsContent" id="fsEl_1275" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <a href="contact-us.php" data-page-name="Contact Us">Admission FAQ</a>
+                                <a href="parent_pack.pdf" target="_blank" data-page-name="Contact Us">Admission FAQ's</a>
                             </div>
 
                         </div>
@@ -86,7 +86,7 @@
                         <div class="fsElement fsContent lower-copyright" id="fsEl_1268" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <p>2018 Your Kids Are Our Kids. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Privacy Policy</span></a></p>
+                                <p>2018 Your Kids Are Our Kids. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Security & Brands</span></a></p>
 
                             </div>
 

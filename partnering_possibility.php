@@ -82,6 +82,35 @@
                           <li> Summer camps & care during school holidays</li>
                           <li>Flexible working time to allow employees to provide childcare</li>
                         </ul>
+                        <p>YKROK is offering various childcare options to currently 200 factories, mines, plantations, townships and Multinational / Domestic Corporations with multiple and single worksites.</p>
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision Under development?</span></strong></p> 
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision in the Early planning stage?</span></strong></p> 
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision yet to consider?</span></strong></p> 
+                        <p>For your organisation, YKROK can help you review, explore, develop and/or plan for your crèche facility provision in the following ways: </p>
+                        <ul>
+                          <li>Guidance on the characteristics of high quality care (health and safety practices, child-to-staff ratio, facility design and staff training)
+</li>
+<li>Government guidelines on setting up a crèche
+</li>
+<li>Guidance on how to finance a crèche
+</li>
+<li>Guidance on how YKROK has operated crèches with a near-site partnership in shared centres and an on-site crèche 
+</li>
+<li>A process for providing payment or subsidies to the crèche
+</li>
+<li>Photographs of existing crèches across YKROK sites 
+</li>
+<li>Best practices for assessing workforce demand for a crèche
+</li>
+<li>Best practices for projecting workforce future crèche demand
+</li>
+<li>Information on liability
+</li>
+<li>Information on how compliance to the Mandate will be measured and monitored
+</li>
+<li>Information on the implication of non-compliance to the Mandate
+</li>
+                        </ul>
                       </div>
                     </div>
                   </div>

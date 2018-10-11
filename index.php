@@ -57,16 +57,17 @@
                         <div class="fsElementContent">
                           <p></p>
                           <h3>
-                            <p><span style="font-size: 20px;">OUR AWARDS</span></p>
+                            <p><span style="font-size: 18px;">OUR AWARDS</span></p>
                           </h3>
                           <div class="awards_home">
                             <ul>
-                              <li>Most famous corporate day care award for 2018 </li>
+                              <li>Most famous corporate day care brand for 2018 </li>
                               <li>Best partner award from several corporate tie ups </li>
                               <li>IIM Bangalore award for Innovation </li>
                               <li>Nasscom award for best childcare services </li>
                               <li>Corporate client satisfaction scores topped 99% </li>
                               <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</li>
+                              <li>Red carpet workplace trophies for 37 best childcare staff</li>
                             </ul>
                           </div>
                           <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
@@ -538,7 +539,7 @@
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
                           <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures of  our Operations. Our centre operations have been recognized for having standards that exceed the minimum requirements of most states and countries.</p>
+                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Our centre operations have been recognized for having standards that exceed the minimum requirements of most states and countries.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -575,7 +576,7 @@ Learn More About Our Approach</h2>
                         <div class="icon_faci_cvr">
                           <img src="images/paint-palette.png" alt="">
                         </div>
-                        <p>Atelier</p>
+                        <p>Art Adventure</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
@@ -601,17 +602,24 @@ Learn More About Our Approach</h2>
                         </div>
                         <p>Games & yoga</p>
                       </div>
-                      <div class="faci_icon">
+                      <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/painting.png" alt="">
                         </div>
                         <p>Art Adventure</p>
+                      </div> -->
+                      
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/brushing-teeth.png" alt="">
+                        </div>
+                        <p>Tooth Brusing</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
-                          <img src="images/calculator.png" alt="">
+                          <img src="images/cutlery.png" alt="">
                         </div>
-                        <p>Math-Manipulatives</p>
+                        <p>Eating Meals</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
@@ -619,12 +627,12 @@ Learn More About Our Approach</h2>
                         </div>
                         <p>Discovery Center</p>
                       </div>
-                      <div class="faci_icon">
+                      <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/grow-up.png" alt="">
                         </div>
                         <p>Grow and Play</p>
-                      </div>
+                      </div> -->
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/monitor.png" alt="">
@@ -637,23 +645,36 @@ Learn More About Our Approach</h2>
                         </div>
                         <p>Book Nook</p>
                       </div>
-                      <div class="faci_icon">
+                      <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/theater.png" alt="">
                         </div>
                         <p>Dramatic Play</p>
-                      </div>
-                      <div class="faci_icon">
+                      </div> -->
+                      <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/tic-tac-toe.png" alt="">
                         </div>
                         <p>Circle Time</p>
+                      </div> -->
+                      
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/toilet.png" alt="">
+                        </div>
+                        <p>Toilet Training</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/watering-can.png" alt="">
                         </div>
                         <p>Front Yard</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/calculator.png" alt="">
+                        </div>
+                        <p>Math-Manipulatives</p>
                       </div>
                     </div>
                       

@@ -49,7 +49,7 @@
                         <li><a href="about_us.php">About Us </a></li>
                         <li class="fsNavCurrentPage"><a href="different.php">Parent Involvement </a></li>
                         <li><a href="team.php">Meet the Team</a></li>
-                        <li><a href="our_curriculum.php">Our Curriculum</a></li>
+                        <li><a href="our_curriculum.php">International Accreditation</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Brain Development </a></li>
                         <li><a href="quality.php">Quality Assurance</a></li>

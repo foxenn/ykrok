@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/threcee.jpg');    background: #fff;">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/ncldcdc.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -66,7 +66,7 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p>In addition to our Education and Quality Assurance Departments, Kids ‘R’ Kids Corporate Headquarters provides many other areas of support, which benefit each local centre and the families they serve.
+                        <p>In addition to our Education and Quality Assurance Departments, Your Kids ‘R’ Kids Corporate Headquarters provides many other areas of support, which benefit each local centre and the families they serve.
                         </p>
                         <p>From equipping new facilities with the tools they need to succeed, to housing supplemental supplies for year-round availability, our Administrative Staff are valued as knowledgeable child care service professionals and are available to add the extra support each school deserves.</p>
                       </div>
@@ -82,7 +82,7 @@
                         <img src="images/staff.png" alt="">
                         </div> -->
                       <div class="side_img_cvr">
-                        <img src="images/sx.png" alt="">
+                        <img src="images/cvsdvsdc.png" alt="">
                       </div>
                       <!-- <div class="side_img_cvr">
                         <img src="images/xaa.png" alt="">

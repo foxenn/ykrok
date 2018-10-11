@@ -6860,13 +6860,14 @@ p.comp_punch{
 .awards_home li{
   color: #fff;
   text-align: left;
+  font-size: 14px;
 }
 ul li::first-letter{
   text-transform: uppercase;
 }
 .faci_icon{
   width: 14%;
-  float: left;
+  display: inline-block;
 }
 .icon_faci_cvr{
   width: 31%;
