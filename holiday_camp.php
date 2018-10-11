@@ -67,15 +67,31 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Holiday Camps<br>Make Summer 2011 the Best Summer Ever for Your Child!</h2>
+                      <h2 class="fsElementTitle">Summer Camp Holiday Camps</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p>Looking for a perfect blend of learning and fun to keep your child engaged this summer? You’ll find it at the YKROK ings Summer Camp.</p>
                         <p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Designed by kids for kids</span></strong>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">Bangalore’s #1 Summer Camp</span></strong>
                         </p>
-                        <p>With input from previous summer camp children on how’d they’d like to spend their summer, we’ve crafted a summer day-camp program that delivers just what they’re looking for: irresistible learning opportunities, hands-on involvement and unique excitement. There are 12 day camps to choose from, all one week long to 8 weeks long, either full day or half day or just the morning, and best of all in one convenient location, all kid approved.</p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">Your Kids ‘R’ Our Kids is Rockin’ the World this Summer!</span></strong>
+                        </p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">April 1 – May 30 Session 1 (8 weeks)</span></strong>
+                        </p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Designed especially for all children ages 2 - 10!</span></strong>
+                        </p>
+                        <p>Drawing, Painting, Crafts, Sculpting, Making Pottery, Stained Glass, Jewellery, Storytelling, Personality Development, English Conversation, Guitar, Synthesizer, Gymnastics, Judo, Musical Theatre, Football, Skating and many more!</p>
+                        <p>Just call or visit for information about these exciting programs</p>
+                        <p>Enrollment is limited – Register EARLY to avoid disappointment!</p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Come Experience the World with Us in 2019!</span></strong>
+                        </p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Registering for Summer Camp from February 15!</span></strong>
+                        </p>
                       </div>
                     </div>
                   </div>

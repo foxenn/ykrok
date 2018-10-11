@@ -197,7 +197,7 @@ body:not(.fsComposeMode) p {
   line-height: 20px;
   text-align: justify; }
 body:not(.fsComposeMode) .comp_name p{
-  font-size: 32px;
+  font-size: 24px;
 }
 hr {
   margin: 0 auto 20px; }
@@ -6939,7 +6939,13 @@ body:not(.fsComposeMode) .faci_icon p{
   }
 }
 
-
+.spl_icons.profiles_pic .icon_cvr{
+  width: 21%;
+}
+.spl_icons.profiles_pic .icon_text{
+  width: 75%;
+  vertical-align: top;
+}
 
 
 

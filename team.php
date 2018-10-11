@@ -69,13 +69,122 @@
                       <h2 class="fsElementTitle">Meet the Team</h2>
                     </header>
                     <div class="fsElementContent">
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Bharat Kapoor, Director and Founder</span></strong></p>
-                      <p>Bharat founded Your Kids ‘R’ Our Kids in 2002. He has grown YKROK to 35 centres Pan India with operations spread across 12 cities. Bharat grew up in the United States in Dallas, TX from the age of 12. His education from high school to university is in the US. Bharat attended Southern Methodist University for his undergraduate for associates degree, and The University of Texas B.S program in 1991. Graduated from the Harvard Business School, Boston, USA, General Management Program MBA in 1996. He is the father of two teenage children. </p>
-                      <p>Bharat has extensive work site child care centres experience, mostly focused on corporate needs assessments and development of new child care centers. Bharat has worked with numerous clients in the development and implementation of strategies to meet their employees' dependent care needs and has planned, developed and operated child care centres for over 200 corporate clients like IBM, Accenture, Bharat Petroleum, Wipro, HPE, Mylan, Flipkart, TVS Sundaram Clayton. These child care centers are located onsite or near the companies' work locations. In addition to center development, Bharat has initiated many programs for clients in the field of backup care, including mildly ill care, temporary or emergency care, and after school. </p>
-                      <p>He is currently serves on the leadership team where Early childhood leaders and practitioners from 80 nations discuss the delivery of quality services to young children in diverse settings at the World Forum on Early Care and Education.  He has presented keynotes and seminars to policy makers, executives, and non-profit professionals worldwide.  Bharat can be contacted to create, and implement a variety of educational child care programs in the private sector.</p>
-                      <p>Bharat leads the company's global growth strategy and oversees operations Pan India.. </p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Suman Kapoor, Chief Executive Officer</span></strong></p>
-                      <p>Suman, chairman, co-founded YKROK in 2002 with her husband, Bharat. During the past sixteen years, she has planned, designed, constructed and implemented Child Care facilities at forty different locations, and have graduated over a 4,000 kids to formal schools. She is a graduate from New York University in Early childhood Education. </p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Key Managerial Persons (KMPs)</span></strong></p>
+                      <div class="spl_icons profiles_pic">
+                        <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/bharat picture .jpg" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Bharat Kapoor, Director, Head of Corporate Business Development</span></strong></p>
+                              <p>Bharat founded Your Kids ‘R’ Our Kids in 2002. He has grown YKROK to 35 centres Pan India with operations spread across 12 cities. Bharat grew up in the United States in Dallas, TX from the age of 12. His education from high school to university is in the US. Bharat attended Southern Methodist University for his undergraduate for associates degree, and The University of Texas B.S program in 1991. Graduated from the Harvard Business School, Boston, USA, General Management Program in 1996. He is the father of two teenage children. Bharat leads the company's growth strategy and oversees client relations Pan India.</p>
+                            </div>
+                        </div>
+                        <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/suman 2 IMG_1438.jpg" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Suman Kapoor, Director, Head of Operations</span></strong></p>
+                              <p>Suman, chairman, co-founded YKROK in 2002. During the past sixteen years, she has planned, designed, constructed and implemented Child Care facilities at forty different locations, and have graduated over a 4,000 kids to formal schools. She is a graduate from New York University in Early childhood Education. Suman oversees operations Pan India. </p>
+                            </div>
+                        </div>
+                        <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/Deepak Kaushik picture.jpg" alt="">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Deepak Kaushik, CFO</span></strong></p>
+                              <p>Deepak has been associated with YKROK since April 2017. Along with his team, he is responsible for the entire Finance Process, corporate finance, setting up of robust internal controls, financial accounting, reporting and compliance.</p>
+                            </div>
+                        </div>
+                        <div class="cont_sple_row">
+                            <div class="icon_cvr">
+                              <img src="images/amit bhargava.jpg" alt="" style="width: 100%;">
+                            </div>
+                            <div class="icon_text">
+                              <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Amit Kumar Bhargava, HR Head</span></strong></p>
+                              <p>Amit and his team is responsible for the entire End-to-End HR Solutions including statutory compliances, recruitment, engagement and assessment. Amit joined YKROK in July 2018.</p>
+                            </div>
+                        </div>
+                      </div>
+                      
+
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Key Staff </span></strong></p>
+
+                      <ul>
+                        <li>Queen Victoria, Manager, CRM</li>
+<li>Noor Asma, Manager, Quality Audit</li>
+<li>Nidhi Mehta, Manager, HR</li>
+<li>Jyothi, Infant / Toddler R&D, Manager</li>
+
+<li>Nandan, Facility Manager (Fire and Safety)</li>
+
+<li>Shweta Shah, Nutritionist</li>
+
+<li>Merchant, Senior Project Manager</li>
+
+<li>Padmanabhan Ananth, Legal</li>
+
+<li>Deenal R, Centre Operations</li>
+
+<li>Durga Siveprasad, Centre Operations</li>
+
+<li>Kavita Devi, Centre Operations</li>
+
+<li>Sheeba Furtado, Staff Nurse</li>
+
+<li>Smitha CS, Centre Operations</li>
+
+<li>Tony Mathew, District Operations Manager</li>
+
+<li>Sudip Bhattacharya, District Operations Manager</li>
+
+<li>Stella Mary, Staff Nurse</li>
+
+<li>Priscella, Staff Nurse</li>
+
+<li>Valar Mathi, Staff Nurse</li>
+
+<li>Inuchetia, Staff Nurse</li>
+
+<li>Rini Lakra, Staff Nurse</li>
+
+<li>Siny Joseph, Staff Nurse</li>
+
+<li>Nisha Sachdev, Staff Nurse</li>
+
+<li>Binodini Chowdhury, Staff Nurse</li>
+
+<li>Jeevitha MS, Centre Operations</li>
+
+<li>Divya Sharma, Centre Operations</li>
+
+<li>Nitya Lakshmi, Centre Operations</li>
+
+<li>Sofia K, Centre Operations</li>
+
+<li>Sujatha, Centre Operations</li>
+
+<li>Martina, Centre Operations</li>
+
+<li>Knagavalli, Centre Operations</li>
+
+<li>Vidya Sivaraman, Centre Operations</li>
+
+<li>Ruchi Arora, Finance Manager</li>
+
+<li>Divya Bharati, Manager, Accounts</li>
+<li>Veerendra Kali, Executive, Accounts</li>
+<li>Anand, Digital Campaigns</li>
+                      </ul>
+
+
+
+
+
+
+
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Leadership team
 </span></strong></p>
 <p>Collectively, the leadership team is accountable for the development, supervision and management of the YKROK programme for children, teachers and parents. 

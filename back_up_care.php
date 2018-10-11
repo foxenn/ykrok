@@ -67,10 +67,37 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Back-Up Care and Emergency Care Services</h2>
+                      <h2 class="fsElementTitle">Emergency Back-up Child Care for Employees </h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
+                        <p>Your Kids ‘R’ Our Kids Emergency Back Up Care programs provide employees with a safety net for those days when regular arrangements fall through. Back-up care supplements, rather than replaces, normal care arrangements and is a comforting emergency alternative when you need it the most. Your Kids ‘R’ Our Kids programs offer emergency back-up care for ages 3 years and above, and children with special needs. 
+Your Kids ‘R’ Our Kids Emergency Back Up Care programs are provided most often through employers who sponsor care for their employees with dependent care needs. We also provide emergency back-up care to the community at certain centres if space is available.</p>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Registration and Enrollment Procedures for Emergency/Back-up Care.</span></strong>
+                        </p>
+                        <ul>
+                          <li>All families in need of emergency/back-up care will pre-register children week prior or one day before to the date the services are needed</li>
+                          <li>A schedule of anticipated time needed for service should be submitted at this time.</li>
+                          <li>Each child will be expected to have an updated medical history and current physical examination on file.</li>
+                          <li>An appointment should be made to visit the center for orientation and familiarization with the center’s policies and procedures as well as an introduction to the staff prior to using the emergency/back-up care.</li>
+                          
+
+                        </ul>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Hours of Operation: 8:00 am - 19:30 pm</span></strong>
+                        </p>
+                        <ul>
+                          <li>2 main meal and 2 snacks (AM/PM)</li>
+                          <li>Age-appropriate daily activity schedule accommodating all children’s developmental and academic needs.</li>
+                        </ul>
+                        <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Payment for Emergency / Back-Up Care
+</span></strong>
+                        </p>
+                        <ul>
+                          <li>There will be a daily rate for one to four (1-4) days of service and monthly rate for five (5) or more days.</li>
+                        </ul>
                       </div>
                     </div>
                   </div>

@@ -72,9 +72,15 @@
                     <div class="fsElementContent">
                       <div class="WordSection1">
                         <p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Convenient hours complement your child's daily schedule and elementary school closings, as well as transportation to and from school.</span></strong>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Convenient hours complement your child's daily schedule and elementary school closings, as well as pick up from the Bus Drop.</span></strong>
                         </p>
-                        <p>YKROK Afternoon Boarding and After School Program provides the perfect combination of recreational and educational activities for a well-balanced out-of-school experience. Children end each day excited about the broad range of engaging, hands-on activities that allow them to develop their interests and skills, as well as having the opportunity to spend time on homework so that they can enjoy more quality time at home.</p>
+                        <p>School-age children are enrolled in Your Kids "R" Our Kids Center that offers after-school care, back-up care for school holidays and school closing days, and summer day camp programs for children up to age 12. School-age children in child care need the opportunity to live and learn in a relaxed, "un-school like" setting.</p>
+                        <p>Schools OUT recognizes the growing physical, intellectual, and social competence of school-age children. Eager to explore the social world and discover how the adult world works, three-to twelve-year-olds thrive on challenges, friendships, clubs, and responsibility. They want to make things, build things, act out new dramatic possibilities, explore computers and books, learn art/crafts, dance, pottery and most important, not be treated like "little kids." They want to discover who they are and pursue their interests. Schools OUT reinforces their drive to learn with new challenges and opportunities to get out into the world.</p>
+                        <p>After-school programs offer a relaxed, balanced program with time to play and learn with friends, finish homework, and let off steam. The Summer Day Camp programs, Our World/Our Backyard, offers a wealth of enrichment activities such as sports, field trips – from karate to micro-soccer – and computer explorations.</p>
+                        <p>You could not have been more pleased with YKROK food experience.</p>
+                        <p>Schools OUT teachers are there alongside the children, facilitating, guiding, and illustrating that learning does not have to take on the tone and texture of a school day. First and foremost, Schools OUT is fun.</p>
+                        <p>We welcome you and your family and look forward to the opportunity to show you why the Your Kids “R” Our Kids Center is a truly special place.</p>
+                        <!-- <p>YKROK Afternoon Boarding and After School Program provides the perfect combination of recreational and educational activities for a well-balanced out-of-school experience. Children end each day excited about the broad range of engaging, hands-on activities that allow them to develop their interests and skills, as well as having the opportunity to spend time on homework so that they can enjoy more quality time at home.</p>
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">The Afternoon Boarding incorporates</span></strong>
                         </p>
@@ -84,7 +90,7 @@
                           <li>Homework/Quiet Time</li>
                           <li>Project Time</li>
                           <li>Literature Circle Time</li>
-                        </ul>
+                        </ul> -->
                       </div>
                     </div>
                   </div>

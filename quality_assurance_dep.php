@@ -71,6 +71,20 @@
                         </p>
                         <p>YKROK developed the Quality Assurance program to monitor health and safety policies and procedures, curriculum guidelines and program standards. Well-trained operations representatives review each centre several times a year. These comprehensive reviews are unannounced and supplement the corporate tie up visits.</p>
                         <p>
+                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Cleanliness Standards</span></strong>
+                        </p>
+                        <p>To ensure our environment is safe, we employ a variety of methods to keep kids healthy.</p>
+                        <ul>
+                          <li>Disinfecting classrooms, equipment and toys happens throughout each day</li>
+                          <li>Our Operations Managers are on-site. That means there’s personal pride involved in each centre. With active, involved centre heads and operations, the highest standards continue to be upheld.</li>
+                          <li>All meals and snacks are prepared in a commercial-grade kitchen away from classrooms.</li>
+                          <li>Nutrition prepared balanced meals are served in our kid-sized classrooms, so children can eat in a place prepared specifically for mealtime.</li>
+                          <li> Rooms are equipped with checklists so teachers can ensure each room is clean and tidy.</li>
+                          <li>All locations have a pantry room for efficient cleanliness and proper storage of cleaning products.</li>
+                          <li>We’re serious about washing hands and offer child-size sinks! We teach proper hand washing with soap and warm water, making cleanliness an everyday habit!</li>
+                          <li>We wear gloves to prevent germs. We use precaution and wear disposable gloves to impede the spread of germs.</li>
+                        </ul>
+                        <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Provide Food, Water and Hygiene Lab Tests</span></strong>
                         </p>
                         <p>Every quarter our lab technicians collect samples across centres for quality control purposes. </p>

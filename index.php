@@ -42,7 +42,7 @@
                         <div class="fsElementContent">
                           <a href="index.php">Your Kids Are Our Kids</a>
                           <div class="comp_name">
-                            <p>Your Kids 'R' Our Kids</p>
+                            <p>Valuing Families Since 2002</p>
                             <!-- <p class="comp_punch">
                               <span>Corporate Day Care for Early Childhood Development</span>
                               </p> -->
@@ -57,7 +57,7 @@
                         <div class="fsElementContent">
                           <p></p>
                           <h3>
-                            <p><span style="font-size: 20px;">Our Rewards</span></p>
+                            <p><span style="font-size: 20px;">OUR AWARDS</span></p>
                           </h3>
                           <div class="awards_home">
                             <ul>

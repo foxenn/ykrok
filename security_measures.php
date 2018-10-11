@@ -67,11 +67,15 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
+                        <p><b>Half Walls</b> – The centres utilizes half walls for our classrooms for a multitude of reasons. First, they provide the <b>best view possible</b> of ongoing child care. Secondly, they’re <b>cleaner and safer</b> and leave no question of who is caring for your children. Half walls promote an open environment, where teachers and children are in constant contact with one another. Any activity in a Kids ‘R’ Kids classroom is easily visible through these glass walls ensuring the utmost safety and security of everyone. Your child can also observe the teacher and activities in the next room – making her transition to the next class easier.</p>
                         <p>Security is an important issue for all parents. As Your Kids ‘R’ Our Kids continues to keep your child safe and secure, here are some behind-the-scenes aspects you’ll want to know:</p>
                         <p><b>Electronic Security –</b> Our facilities include a secure coded entry so only staff and families with the code can access the entrance. This means unauthorised visitors are never a risk to your child’s safety.</p>
                         <p><b>Hiring Process –</b> Teachers are given extensive background and police checks, and many of our corporate tie ups require medical screening as well.</p>
                         <p><b>Front Desk –</b> Our front desk is always staffed our watchful eyes focus on safety first, and we monitor any guests who may drop in for a visit.</p>
                         <p><b>Security Cameras –</b> Every childcare classroom has security cameras for front desk monitoring. The owner and staff easily observe classroom activities throughout the day. You can watch your child through a secure, password-protected internet site. How awesome to know you have no worries while your child is getting cared for and learning at Your Kids 'R' Our Kids!</p>
+                        <p>Watching Over Little Ones – Receive a primary caregiver that collaborates with families to ensure a close relationship and consistent care</p>
+                        <p>Sleeping Safety – During naps, the lights are never turned off. To ensure nap time safety, children in cribs are always under visual contact and listened to. Children sleep on their backs with age appropriate bedding.</p>
+                        <p>Toys and Playgrounds – Toys are checked rigorously for broken or lose parts, monitored for choking hazards and disinfected according to a regular schedule.</p>
                       </div>
                     </div>
                     
