@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -67,7 +67,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">After School Activity Centre<br>3- 12 Years</h2>
+                      <h2 class="fsElementTitle">After School Activity Centre<br>3 - 8 Years</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">

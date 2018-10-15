@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -112,6 +112,7 @@
 </li>
                         </ul>
                       </div>
+                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p>
                     </div>
                   </div>
                 </div>

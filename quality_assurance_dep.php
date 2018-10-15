@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -46,7 +46,7 @@
                   <div class="fsElementContent">
                     <nav>
                       <ul class="fsNavLevel1">
-                        <li><a href="security_measures.php">Security Measures</a></li>
+                        <li><a href="security_measures.php">Security & Safety</a></li>
                         <li class="fsNavCurrentPage"><a href="quality_assurance_dep.php">Quality Assurance Department </a></li>
                         <li><a href="support_staff.php">Support Staff</a></li>
                       </ul>
@@ -66,9 +66,7 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
-                        <p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 20px;">All Your Kids ‘R’ Our Kids Are Committed To Ensuring The Safety And Security Of The Children And Teachers.</span></strong>
-                        </p>
+                        
                         <p>YKROK developed the Quality Assurance program to monitor health and safety policies and procedures, curriculum guidelines and program standards. Well-trained operations representatives review each centre several times a year. These comprehensive reviews are unannounced and supplement the corporate tie up visits.</p>
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Cleanliness Standards</span></strong>

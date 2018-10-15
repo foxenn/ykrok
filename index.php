@@ -62,12 +62,11 @@
                           <div class="awards_home">
                             <ul>
                               <li>Most famous corporate day care brand for 2018 </li>
-                              <li>Best partner award from several corporate tie ups </li>
                               <li>IIM Bangalore award for Innovation </li>
-                              <li>Nasscom award for best childcare services </li>
+                              <li>IBM wins Nasscom award for best childcare service</li>
                               <li>Corporate client satisfaction scores topped 99% </li>
-                              <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</li>
                               <li>Red carpet workplace trophies for 37 best childcare staff</li>
+                              <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project.</li>
                             </ul>
                           </div>
                           <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
@@ -331,7 +330,7 @@
                               <span class="day">Preschool Program & Day Care </span>
                             </div>
                             <div class="calendar-image" style="background-image: url(images/577967956-612x612.jpg)"></div>
-                            <div class="calendarTitle red_bg">2.6 - 3 Years
+                            <div class="calendarTitle red_bg">2 - 3 Years
                             </div>
                           </a>
                         </div>
@@ -373,7 +372,7 @@
                             </div>
                             <div class="calendar-image" style="background-image: url(images/172481897-612x612.jpg)"></div>
                             <!-- <div class="calendar-image" style="background-image: url(images/p14.jpg)"></div> -->
-                            <div class="calendarTitle red_bg">3 - 12 Years
+                            <div class="calendarTitle red_bg">3 - 8 Years
                             </div>
                           </a>
                         </div>
@@ -539,7 +538,7 @@
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
                           <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Our centre operations have been recognized for having standards that exceed the minimum requirements of most states and countries.</p>
+                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -562,10 +561,27 @@
                   <br>
                   <section class="fsElement fsContainer homepage-events" id="fsEl_1331" data-use-new="true" style="padding-bottom: 25px;">
                     <header>
-                      <h2 class="fsElementTitle">YKROK Education is more than just ABC's and 123's. 
-Learn More About Our Approach</h2>
+                      <h2 class="fsElementTitle">YKROK Education is more than just ABC's and 123's. </h2>
                     </header>
                     <div class="faci_icons_cvr">
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/cutlery.png" alt="">
+                        </div>
+                        <p>Eating Meals</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/toilet.png" alt="">
+                        </div>
+                        <p>Toilet Training</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/brushing-teeth.png" alt="">
+                        </div>
+                        <p>Tooth Brusing</p>
+                      </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/museum.png" alt="">
@@ -609,18 +625,8 @@ Learn More About Our Approach</h2>
                         <p>Art Adventure</p>
                       </div> -->
                       
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/brushing-teeth.png" alt="">
-                        </div>
-                        <p>Tooth Brusing</p>
-                      </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/cutlery.png" alt="">
-                        </div>
-                        <p>Eating Meals</p>
-                      </div>
+                      
+                      
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/flag.png" alt="">
@@ -658,12 +664,7 @@ Learn More About Our Approach</h2>
                         <p>Circle Time</p>
                       </div> -->
                       
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/toilet.png" alt="">
-                        </div>
-                        <p>Toilet Training</p>
-                      </div>
+                      
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/watering-can.png" alt="">

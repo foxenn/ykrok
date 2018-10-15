@@ -30,7 +30,7 @@
                         <div class="fsElement fsContent" id="fsEl_1275" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <a href="parent_pack.pdf" target="_blank" data-page-name="Contact Us">Admission FAQ's</a>
+                                <a href="parent_pack.pdf" target="_blank" data-page-name="Contact Us">Admission FAQ'<span style="text-transform: lowercase;">s</span></a>
                             </div>
 
                         </div>
@@ -54,8 +54,8 @@
                                 </nav>
                             </div>
                             <footer>
-                                <div class="fsElementFooterContent">
-                                    <div id="google_translate_element"></div>
+                                <div class="fsElementFooterContent" style="text-align: right;">
+                                    <div>Your Kids 'R' Our Kids App's</div>
                                 </div>
                             </footer>
 
@@ -64,11 +64,12 @@
 
                             <div class="fsElementContent">
                                 <ul>
-                                    <li>Get in touch:</li>
-                                    <li>Registered Office:</li>
+                                    <li style="font-size: 16px;">Registered Office:</li>
+                                    <li>Your Kids 'R" Our Kids (I) Educational Pvt Ltd.</li>
                                     <li>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramamgala</li>
-                                    <li>Contact: <a href="tel:+919740206633">+91 974 020 6633</a> / <a href="tel:+918040837999">+91 819 729 6254</a></li>
+                                    <li>Contact: <a href="tel:+919740206633">+91 804 083 7999</a> / <a href="tel:+918040837999">+91 819 729 6254</a></li>
                                     <li>E-mail ID: <a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in</a></li>
+                                    <li>CIN: U80301KA2008PTC054453</li>
                                     <li><a href="contact-us.php">Contact</a> - <a href="https://goo.gl/maps/6LEsR1x54hw" target="_blank">Location Map</a></li>
                                 </ul>
 
@@ -78,7 +79,7 @@
                         <div class="fsElement fsNavigation fsList nav-utility-footer" id="fsEl_3837" data-use-new="true">
 
                         <div class="fsElementContent">
-                            <nav><ul class="fsNavLevel1"><li><a href="our-centers.php">View Centers</a></li></ul></nav>
+                            <nav><ul class="fsNavLevel1" style="visibility: hidden;"><li><a href="our-centers.php">View Centers</a></li></ul></nav>
                         </div>
 
 
@@ -86,8 +87,7 @@
                         <div class="fsElement fsContent lower-copyright" id="fsEl_1268" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <p>2018 Your Kids Are Our Kids. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Security & Brands</span></a></p>
-
+                                <p>2019 Your Kids Are Our Kids®. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Security & Brands</span></a></p>
                             </div>
 
                         </div>

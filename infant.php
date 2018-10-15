@@ -16,7 +16,7 @@
               <div class="fsElementContent">
                 <a href="index.php"></a>
                 <div class="comp_name">
-                  <p>Your Kids 'R' Our Kids</p>
+                  <p>Valuing Families Since 2002</p>
                 </div>
               </div>
             </div>
@@ -104,38 +104,39 @@
                     <p>It can be difficult to leave your infant in someone else's care and be confident that your child gets the same care and stimulation you would give him/her.YKROK infant program will put your mind  infant has an individualized learning program according to his/her needs.</p>
                     
                     <ul>
-                      <li>Registered nurses and caregivers manage the infants </li>
-                      <li>During "needs something" time staff provide one on one quality attention for the child by meeting basic needs such as feeding, diapering, attachment, napping and communication </li>
+                      <li>Registered nurses and caregivers manage the infants. </li>
+                      <li>During "needs something" time staff provide one on one quality attention for the child by meeting basic needs such as feeding, diapering, attachment, napping and communication. </li>
                       <li>During "needs nothing" time staff will join the child with 4 other infants to explore and experience the environment full of toys and activities.</li>
-                      <li>We do not establish a formulated schedule; instead our care providers follow the children’s’ schedules </li>
-                      <li>We have a “no shoe policy" in our infant rooms to keep the environment as clean as possible </li>
-                      <li>Children regularly experience the indoor play areas, and outdoors on car rides or on a blanket on the lawn </li>
+                      <li>We do not establish a formulated schedule; instead our care providers follow the children’s’ schedules. </li>
+                      <li>We have a “no shoe policy" in our infant rooms to keep the environment as clean as possible. </li>
+                      <li>Children regularly experience the indoor play areas, and outdoors on car rides or on a blanket on the lawn. </li>
                     </ul>
                     <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Key benefits available at the infant day care: </span></strong></p>
                     <ul>
-                      <li>Age appropriate non toxic toys from high end brands </li>
-                      <li>Separate nap area with individualized cribs for each infant </li>
-                      <li>Air conditioned rooms</li>
-                      <li>Cctv camera / live video link</li>
-                      <li>All women staff</li>
-                      <li>Meals</li>
-                      <li>Doctor on call </li>
-                      <li>Background screened staff </li>
-                      <li>First aid and cpr trained staff </li>
-                      <li>Child abuse and neglect education </li>
-                      <li>Growth activities for healthy development </li>
-                      <li>Infant milestones monitored </li>
-                      <li>International methods of supervision of infants </li>
-                      <li>Health promotion and protection policies </li>
-                      <li>Safe sleep practices and sids risk reduction </li>
-                      <li>Hygiene diaper changing procedures </li>
-                      <li>Thorough cleaning, sanitizing, and disinfecting </li>
-                      <li>Staff trained on preventing shaken baby syndrome </li>
-                      <li>Inclusion/exclusion/dismissal of sick infants </li>
-                      <li>Safety covers and shock protection devices for electrical outlets </li>
-                      <li>First aid and emergency supplies available </li>
-                      <li>Written plan and trained nurses for handling urgent medical care </li>
-                      <li>Sign-in/sign-out system authorized persons to pick up child </li>
+                      <li>Age appropriate non toxic toys from high end brands. </li>
+                      <li>Separate nap area with individualized cribs for each infant. </li>
+                      <li>Air conditioned rooms.</li>
+                      <li>CCTV camera / live video link.</li>
+                      <li>All women staff.</li>
+                      <li>Meals.</li>
+                      <li>Make Doctor and ambulance on call.</li>
+                      <li>Background screened staff. </li>
+                      <li>First aid and CPR trained staff. </li>
+                      <li>Child abuse and neglect education. </li>
+                      <li>Growth activities for healthy development. </li>
+                      <li>Infant milestones monitored. </li>
+                      <li>International methods of supervision of infants. </li>
+                      <li>Health promotion and protection policies. </li>
+                      <li>Safe sleep practices and sids risk reduction. </li>
+                      <li>Hygiene diaper changing procedures. </li>
+                      <li>Thorough cleaning, sanitizing, and disinfecting. </li>
+                      <li>Staff trained on preventing shaken baby syndrome. </li>
+                      <li>Inclusion/exclusion/dismissal of sick infants. </li>
+                      <li>Safety covers and shock protection devices for electrical outlets. </li>
+                      <li>First aid and emergency supplies available. </li>
+                      <li>Written plan and trained nurses for handling urgent medical care. </li>
+                      <li>Sign-in/sign-out system authorized persons to pick up child. </li>
+                      <li>Air conditioner rooms in some centers.</li>
                     </ul>
                   </div>
                 </div>

@@ -6948,12 +6948,15 @@ body:not(.fsComposeMode) .faci_icon p{
   vertical-align: top;
 }
 
+@media only screen and (min-width: 1025px){
+.icon_cvr.scroll_tx{
+  float: left;
+}
+.icon_text.scroll_tx{
+  display: inline;
+}
 
-
-
-
-
-
+}
 
 
 

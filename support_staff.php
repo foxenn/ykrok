@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -46,7 +46,7 @@
                   <div class="fsElementContent">
                     <nav>
                       <ul class="fsNavLevel1">
-                        <li><a href="security_measures.php">Security Measures</a></li>
+                        <li><a href="security_measures.php">Security & Safety</a></li>
                         <li><a href="quality_assurance_dep.php">Quality Assurance Department </a></li>
                         <li class="fsNavCurrentPage"><a href="support_staff.php">Support Staff</a></li>
                       </ul>

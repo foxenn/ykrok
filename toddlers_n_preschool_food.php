@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>

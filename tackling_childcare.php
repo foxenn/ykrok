@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -67,7 +67,7 @@
                     <div class="fsElementContent">
                       <div class="WordSection1">
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">First-Hand Insights how other Companies have tackled childcare</span></strong></p>
-                        <p>Your Kids ‘R’ Our Kids draws on 12 tie ups of employers who provide childcare-related benefits to their employees. The companies are located in different parts of India; some are located in rural areas, others in metropolitan areas – and in a cross-section of industries.</p>
+                        <p>Your Kids ‘R’ Our Kids draws on 200 tie ups of employers who provide childcare-related benefits to their employees. The companies are located in different parts of India; some are located in rural areas, others in metropolitan areas – and in a cross-section of industries.</p>
                       </div>
                     </div>
                     <div class="fsElementContent">
@@ -82,6 +82,10 @@
                           <li>Investments are needed to build capacity and skills Our corporate tie up companies profiled rely on Your Kids ‘R’ Our Kids services. As the demand for childcare increases, significant investments in quality childcare provisions will become necessary.</li>
                         </ul>
                       </div>
+                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</span></strong></p>
+
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">IBM wins Nasscom award for best childcare service</span></strong></p>
                       <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
                         <div class="fsMediaGalleryObject" data-objectid="306" style="width: 400px;">
                             <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">

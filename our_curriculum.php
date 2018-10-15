@@ -16,11 +16,11 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/onee.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/oryiqw.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -84,7 +84,7 @@
                             </a>
                         </div>
                       </div>
-                        <p>To support learning through play, the Learning Program includes the following:</p>
+                        <p><b>To support learning through play, the Learning Program includes the following:</b></p>
                         <ul>
                           <li>Fun, hands-on activities that allow children to learn through experience</li>
                           <li>Lesson plans that the Curriculum Department develops for the teachers execution but adapts to the children’s developmental needs</li>
@@ -116,7 +116,13 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/ypcsd.jpeg" alt="">
+                        <img src="images/occsdc.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/pcsnsc.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/pcsnd.png" alt="">
                       </div>
                     </div>
                   </div>

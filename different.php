@@ -16,11 +16,11 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/onee.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/ovsvd.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -71,7 +71,7 @@
                     </header>
                     <div class="fsElementContent">
                       <!-- <p>Your Kids ‘R’ Our Kids offers a variety of unique features and advantages that set us apart from traditional childcare or daycare and mark us as an industry leader in corporate childcare education.</p> -->
-                      <p>Parental involvement, active home-school collaboration and networking have become platforms for supporting children in their early years development and promoting family interests in raising happy, healthy children at ykrok.</p>
+                      <p>Parental involvement, active home-school collaboration and networking have become platforms for supporting children in their early years development and promoting family interests in raising happy, healthy children at YKROK.</p>
                     </div>
                     <div class="fsElementContent">
                       <div class="WordSection1">
@@ -85,7 +85,7 @@
 </p>
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Parents support group
  </span></strong></p>
-                        <p>We believe when a child joins ykrok, his/her whole family becomes a part of our community. every year, we provide opportunities for parents to participate in our centre events, projects, and parent whatsapp groups. to facilitate and co-ordinate these, a special group known as the parent support group (<a href="mailto:psg@ykrok">psg@ykrok</a>) was formed. 
+                        <p>We believe when a child joins YKROK, his/her whole family becomes a part of our community. every year, we provide opportunities for parents to participate in our centre events, projects, and parent whatsapp groups. to facilitate and co-ordinate these, a special group known as the parent support group (<a href="mailto:psg@ykrok">psg@ykrok</a>) was formed. 
 </p>
                       </div>
                     </div>
@@ -106,10 +106,7 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/11960042_874072362668561_7828517571392352056_n.jpg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/13516688_1015295231879606_4969491206554307028_n.jpg" alt="">
+                        <img src="images/ouiyy.png" alt="">
                       </div>
                       <!-- <div class="side_img_cvr">
                         <img src="images/11951965_860852777323853_289592766440107734_n.jpg" alt="">

@@ -16,11 +16,11 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/onee.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/pjcdcs.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -66,7 +66,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Steam (Science, technology, engineering, arts and mathematics)</h2>
+                      <h2 class="fsElementTitle">STREAM (Science, technology, engineering, arts and mathematics)</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
@@ -91,13 +91,7 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/ycadm.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/ycdsalc.jpeg" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/ypcsd.jpeg" alt="">
+                        <img src="images/pbkbkbb.png" alt="">
                       </div>
                     </div>
                   </div>

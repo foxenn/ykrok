@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -66,7 +66,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Premier of the Exclusive Brain Development Curriculum</h2>
+                      <h2 class="fsElementTitle">Learning Library</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
@@ -110,11 +110,7 @@ The Learning Library has been specially created and designed by our in-house and
 These captivating books with colourful pictures are easy to follow, involve parents and showcase the child's work to instil pride in him/her for the work he/she does. 
 With these beautiful books, learning by doing is a lot of fun.
 </p>
-<p>
-                          <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Personalised for every child
 
-</span></strong>
-                        </p>
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Learning designed by educational experts
 

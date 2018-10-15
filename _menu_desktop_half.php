@@ -68,7 +68,7 @@
             </div>
           </li>
           <li class="fsNavParentPage">
-            <a href="education_for_parents.php">Nutrition and Food </a>
+            <a href="education_for_parents.php">Meal Time</a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
                 <li><a href="education_for_parents.php">Education for Parents</a></li>
@@ -83,7 +83,7 @@
             <a href="security_measures.php">Facilities </a>
             <div class="fsNavPageInfo">
               <ul class="fsNavLevel2">
-                <li><a href="security_measures.php">Security Measures</a></li>
+                <li><a href="security_measures.php">Security & Safety</a></li>
                 <li><a href="quality_assurance_dep.php">Quality Assurance Department </a></li>
                 <li><a href="support_staff.php">Support Staff</a></li>
               </ul>

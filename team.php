@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -72,10 +72,10 @@
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Key Managerial Persons (KMPs)</span></strong></p>
                       <div class="spl_icons profiles_pic">
                         <div class="cont_sple_row">
-                            <div class="icon_cvr">
+                            <div class="icon_cvr scroll_tx" style="">
                               <img src="images/bharat picture .jpg" alt="">
                             </div>
-                            <div class="icon_text">
+                            <div class="icon_text scroll_tx" style="">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Bharat Kapoor, Director, Head of Corporate Business Development</span></strong></p>
                               <p>Bharat founded Your Kids ‘R’ Our Kids in 2002. He has grown YKROK to 35 centres Pan India with operations spread across 12 cities. Bharat grew up in the United States in Dallas, TX from the age of 12. His education from high school to university is in the US. Bharat attended Southern Methodist University for his undergraduate for associates degree, and The University of Texas B.S program in 1991. Graduated from the Harvard Business School, Boston, USA, General Management Program in 1996. He is the father of two teenage children. Bharat leads the company's growth strategy and oversees client relations Pan India.</p>
                             </div>
@@ -99,10 +99,10 @@
                             </div>
                         </div>
                         <div class="cont_sple_row">
-                            <div class="icon_cvr">
+                            <div class="icon_cvr scroll_tx">
                               <img src="images/amit bhargava.jpg" alt="" style="width: 100%;">
                             </div>
-                            <div class="icon_text">
+                            <div class="icon_text scroll_tx">
                               <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Amit Kumar Bhargava, HR Head</span></strong></p>
                               <p>Amit and his team is responsible for the entire End-to-End HR Solutions including statutory compliances, recruitment, engagement and assessment. Amit joined YKROK in July 2018.</p>
                             </div>
@@ -208,7 +208,7 @@
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Company Privately Owned And Operated With 16+ Years Experience</span></strong>
                         </p>
-                        <p>All centres are licensed. Consumer choice awards winner. Centre Heads and Operation Managers are on-site to ensure availability to staff and parents.</p>
+                        <p>All centres are licensed. Red corpet award winner. Centre Heads and Operation Managers are on-site to ensure availability to staff and parents.</p>
                       </div>
                     </div>
                   </div>

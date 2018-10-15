@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -63,6 +63,7 @@
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
                       <h2 class="fsElementTitle">Onsite And Near Site Exclusive Company Childcare Center </h2>
+                      <h2 class="fsElementTitle">Best partner award from several corporate tie ups</h2>
                     </header>
                     <div class="fsElementContent">
                       <!-- <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
@@ -125,6 +126,10 @@
                         <li>Contracts are executed between your company and YKROK, the company recommends YKROK to its employees and enjoys certain additional privileges as compared to the community clients. </li>
                         <li>There are many ways to enter into corporate tie up contracts: Limited Financial Guarantor; Subsidized for full or part fees; Minimum Guarantee; Reserved Seats; Reimbursement to employees</li>
                       </ul>
+                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p>
+
+                      
+
                     </div>
                     <!--  <header>
                       <h2 class="fsElementTitle">Corporate Programs</h2>

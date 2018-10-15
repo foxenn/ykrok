@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -178,34 +178,34 @@
 
                         <p><strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">key benefits available at the toddler day care:  </span></strong></p>
                         <ul>
-                          <li>separation of toddlers from older children</li>
-                          <li>toddlers always accompanied to the washrooms with the attendant </li>
-                          <li>lots of interactions with toddlers. communication in native language</li>
-                          <li>spacious rooms offering 50 sq / child with activities to support learning </li>
-                          <li>encouraging self-feeding by toddlers</li>
-                          <li>toddler program is not about baby sitting </li>
-                          <li>age appropriate written daily / weekly and monthly activities plan</li>
-                          <li>new child settling in phase</li>
-                          <li>toilet trainings</li>
-                          <li>toddler group has a head and assistant tteachers will develop positive relations with parents and toddlers </li>
-                          <li>parent visits anytime with an open door policy</li>
-                          <li>good selection of age appropriate activities to support learning </li>
-                          <li>health, safety and nutrition awareness to toddlers</li>
-                          <li>excellent parent to parent communications</li>
-                          <li>in house nurse responsible for implementing a medical emergency plan</li>
-                          <li>fully stocked first aid box</li>
-                          <li>nutritional planning for individual toddler </li>
-                          <li>child health records examined frequently</li>
-                          <li>nap time can be individualized</li>
-                          <li>diapering and hand washing done throughout the day </li>
-                          <li>inclusion/ exclusion of toddler from the centre for illness</li>
-                          <li>caring for ill toddlers </li>
-                          <li>control of communicable diseases and sids</li>
-                          <li>care for toddlers with food allergies</li>
-                          <li>designated walkways, drop-off and pick-up points</li>
-                          <li>guardrails & handrails</li>
-                          <li>interior temperature of room</li>
-                          <li>attendance of toddlers with head lice</li>
+                          <li>separation of toddlers from older children.</li>
+                          <li>toddlers always accompanied to the washrooms with the attendant. </li>
+                          <li>Lots of interactions with toddlers. Communication in native language.</li>
+                          <li>spacious rooms offering 50 sq / child with activities to support learning. </li>
+                          <li>encouraging self-feeding by toddlers.</li>
+                          <li>toddler program is not about baby sitting. </li>
+                          <li>age appropriate written daily / weekly and monthly activities plan.</li>
+                          <li>new child settling in phase.</li>
+                          <li>toilet trainings.</li>
+                          <li>toddler group has a head and assistant teachers will develop positive relations with parents and toddlers. </li>
+                          <li>parent visits anytime with an open door policy.</li>
+                          <li>good selection of age appropriate activities to support learning. </li>
+                          <li>health, safety and nutrition awareness to toddlers.</li>
+                          <li>excellent parent to parent communications.</li>
+                          <li>in house nurse responsible for implementing a medical emergency plan.</li>
+                          <li>fully stocked first aid box.</li>
+                          <li>nutritional planning for individual toddler. </li>
+                          <li>child health records examined frequently.</li>
+                          <li>nap time can be individualized.</li>
+                          <li>diapering and hand washing done throughout the day. </li>
+                          <li>inclusion/ exclusion of toddler from the centre for illness.</li>
+                          <li>caring for ill toddlers. </li>
+                          <li>control of communicable diseases and sids.</li>
+                          <li>care for toddlers with food allergies.</li>
+                          <li>designated walkways, drop-off and pick-up points.</li>
+                          <li>guardrails & handrails.</li>
+                          <li>interior temperature of room.</li>
+                          <li>attendance of toddlers with head lice.</li>
                         </ul>
                       </div>
                     </div>

@@ -16,7 +16,7 @@
                   <div class="fsElementContent">
                     <a href="index.php"></a>
                     <div class="comp_name">
-                      <p>Your Kids 'R' Our Kids</p>
+                      <p>Valuing Families Since 2002</p>
                     </div>
                   </div>
                 </div>
@@ -70,14 +70,14 @@
                     <div class="fsElementContent">
                       <p>Your Kids ‘R’ Our Kids is a leading provider of early education and care for the corporate market, operating 35 Day Care centres, with a capacity to serve 3,500 children and over 200 corporate tie ups.</p>
                       <p>We offer an integrated childcare strategy where there is no “one size fits all” approach to childcare solutions, and we work with companies of all sizes and industries to provide all options for tacking childcare.</p>
-                      <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 12 years of age.</p>
+                      <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 8 years of age.</p>
                       <div class="WordSection1">
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Our corporate tie up solutions include:</span></strong></p>
                         <ul>
                           <li>Subsidies</li>
-                          <li>Reserved spaces in multiple childcare centres</li>
+                          <li>Resever sapce in multiple YKROK Child care center</li>
                           <li>On-site crèche</li>
-                          <li>Partnerships with other companies Pan India </li>
+                          <li>Pan India </li>
                           <li>Extended hours</li>
                           <li>Vacation Camps</li>
                           <li>Back-up care</li>
@@ -85,11 +85,11 @@
                         </ul>
                       </div>
                       <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
-                      <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups</p>
+                      <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups.</p>
                       <ul>
                         <li>Infant and Toddler Programs (ages 3 –24 months)</li>
-                        <li>Play School, Nursery and Kindergarten programs (ages 2 –6 years)</li>
-                        <li>After School care with an enrichment program (ages 3 -12 years)</li>
+                        <li>Play School, Nursery and Kindergarten programs (ages 2 – 6 years)</li>
+                        <li>After School care with an enrichment program (ages 3 - 8 years)</li>
                         <li>Emergency Backup care for 1 day or a few days</li>
                         <li>8AM-7:30PM –Full Day Extended Timings</li>
                         <li>8AM-5:30PM-Full Day Timings</li>
@@ -113,19 +113,13 @@
                     <div class="fsElementContent">
                       
                       <div class="side_img_cvr">
-                        <img src="images/11921703_860860247323106_3696746663453193518_n.jpg" alt="">
+                        <img src="images/ocac.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/11947664_860860337323097_1053765070222258722_n.jpg" alt="">
+                        <img src="images/ocacae.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/daasasa.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/wefwefwf.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
-                        <img src="images/fsdferf.png" alt="">
+                        <img src="images/ocsac.png" alt="">
                       </div>
                     </div>
                   </div>
