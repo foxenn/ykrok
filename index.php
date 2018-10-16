@@ -615,7 +615,7 @@
                         <div class="icon_faci_cvr">
                           <img src="images/meditation.png" alt="">
                         </div>
-                        <p>Games & yoga</p>
+                        <p>Games & Yoga</p>
                       </div>
                       <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">

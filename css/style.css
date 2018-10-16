@@ -6976,10 +6976,17 @@ body:not(.fsComposeMode) .faci_icon p{
   clear: both;
 }
 
+.sec_brands{
+  display: inline-block;
+  position: absolute;
+  right: 0px;
+  bottom: -20px;
+  font-family: "Myriad W01 Regular";
+}
 
-
-
-
+.sec_brands p{
+  font-size: 13px!important;
+}
 
 
 

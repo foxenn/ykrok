@@ -50,7 +50,7 @@
                                         <li><a href="https://www.facebook.com/yourkidsrourkids/" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
                                         <li><a href="https://www.linkedin.com/company/33285103" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="https://www.instagram.com/ykrok_official/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="https://www.instagram.com/ykrok_official/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UCRTDObv3jjm1sj6-Saa5DBQ?view_as=subscriber" target="_blank"><i class="fa fa-youtube"></i></a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -66,12 +66,12 @@
                             <div class="fsElementContent">
                                 <ul>
                                     <li style="font-size: 16px;">Registered Office:</li>
-                                    <li>Your Kids 'R" Our Kids (I) Educational Private Limited.</li>
-                                    <li>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramangala</li>
+                                    <li>Your Kids 'R" Our Kids (India) Education Private Limited</li>
+                                    <li>Pragati Mansions, 2nd Floor, 1st A Cross, 5th A block, Koramangala</li>
                                     <li>Contact: <a href="tel:+919740206633">+91 804 083 7999</a> / <a href="tel:+918040837999">+91 819 729 6254</a></li>
                                     <li>E-mail ID: <a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in</a></li>
                                     <li>CIN: U80301KA2008PTC054453</li>
-                                    <li><a href="contact-us.php">Contact</a> - <a href="https://goo.gl/maps/6LEsR1x54hw" target="_blank">Location Map</a></li>
+                                    <li><a href="https://goo.gl/maps/6LEsR1x54hw" target="_blank">Location Map</a></li>
                                 </ul>
 
                             </div>
@@ -88,9 +88,13 @@
                         <div class="fsElement fsContent lower-copyright" id="fsEl_1268" data-use-new="true">
 
                             <div class="fsElementContent">
-                                <p>2019 Your Kids 'R' Our Kids®. All Rights Reserved <a href="privacy.php"><span style="color: rgb(255, 255, 255);">Security & Brands</span></a></p>
+                                <p>2019 Your Kids 'R' Our Kids®. All Rights Reserved </p>
                             </div>
 
+                        </div>
+
+                        <div class="sec_brands">
+                            <p><a href="privacy.php"><span style="color: rgb(255, 255, 255);">Security & Brands</span></a></p>
                         </div>
 
                     </div>
@@ -103,6 +107,6 @@
 
         <div id="fsPoweredByFinalsite" role="complementary">
             <div style="padding-left: 20px;">
-                <a href="https://nikhilb.co.in" title="Designed By Nikhil B - Web Developer" target="_blank">Creative Directors: Nikhil B</a>
+                <a href="https://nikhilb.co.in" title="Designed By Nikhil B - Web Developer" target="_blank">Creative Direction: Nikhil B</a>
             </div>
         </div>
