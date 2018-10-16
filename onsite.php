@@ -63,9 +63,10 @@
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
                       <h2 class="fsElementTitle">Onsite And Near Site Exclusive Company Childcare Center </h2>
-                      <h2 class="fsElementTitle">Best partner award from several corporate tie ups</h2>
+                      
                     </header>
                     <div class="fsElementContent">
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Best partner award from several corporate tie ups </span></strong></p>
                       <!-- <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
                         <div class="fsMediaGalleryObject" data-objectid="306">
                             <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
@@ -115,9 +116,6 @@
                         <li>Mix of children across different economic and social strata </li>
                       </ul>
                     </div>
-                    <header>
-                      <h2 class="fsElementTitle"> Near-site-company Child Care Center with our Existing Centres </h2>
-                    </header>
                     <div class="fsElementContent">
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">How Does It Work?</span></strong></p>
                       <ul>
@@ -126,7 +124,9 @@
                         <li>Contracts are executed between your company and YKROK, the company recommends YKROK to its employees and enjoys certain additional privileges as compared to the community clients. </li>
                         <li>There are many ways to enter into corporate tie up contracts: Limited Financial Guarantor; Subsidized for full or part fees; Minimum Guarantee; Reserved Seats; Reimbursement to employees</li>
                       </ul>
-                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Corporate Enquiry:</span></strong></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">If you are looking for a corporate daycare partnership?</span></strong></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">You can also reach out to Mr. Bharat Kapoor at 9740 266 633 / bharatkapoor@ykrok.in</span></strong></p>
 
                       
 

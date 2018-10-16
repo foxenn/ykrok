@@ -66,6 +66,34 @@
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision Under development?</span></strong></p> 
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision in the Early planning stage?</span></strong></p> 
+                        <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Is your Crèche facility provision yet to consider?</span></strong></p> 
+                        <p>For your organisation, YKROK can help you review, explore, develop and/or plan for your crèche facility provision in the following ways: </p>
+                        <ul>
+                          <li>Guidance on the characteristics of high quality care (health and safety practices, child-to-staff ratio, facility design and staff training)
+                          </li>
+                          <li>Government guidelines on setting up a crèche
+                          </li>
+                          <li>Guidance on how to finance a crèche
+                          </li>
+                          <li>Guidance on how YKROK has operated crèches with a near-site partnership in shared centres and an on-site crèche 
+                          </li>
+                          <li>A process for providing payment or subsidies to the crèche
+                          </li>
+                          <li>Photographs of existing crèches across YKROK sites 
+                          </li>
+                          <li>Best practices for assessing workforce demand for a crèche
+                          </li>
+                          <li>Best practices for projecting workforce future crèche demand
+                          </li>
+                          <li>Information on liability
+                          </li>
+                          <li>Information on how compliance to the Mandate will be measured and monitored
+                          </li>
+                          <li>Information on the implication of non-compliance to the Mandate
+                          </li>
+                        </ul>
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">First-Hand Insights how other Companies have tackled childcare</span></strong></p>
                         <p>Your Kids ‘R’ Our Kids draws on 200 tie ups of employers who provide childcare-related benefits to their employees. The companies are located in different parts of India; some are located in rural areas, others in metropolitan areas – and in a cross-section of industries.</p>
                       </div>
@@ -82,19 +110,30 @@
                           <li>Investments are needed to build capacity and skills Our corporate tie up companies profiled rely on Your Kids ‘R’ Our Kids services. As the demand for childcare increases, significant investments in quality childcare provisions will become necessary.</li>
                         </ul>
                       </div>
-                      <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</span></strong></p>
 
+                      
+                      <!-- <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></p> -->
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Only Day Care in India to be highlighted in the World Bank Tackling Childcare project</span></strong></p>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">IBM wins Nasscom award for best childcare service</span></strong></p>
                       <div class="fsMediaGallery fsMediaPlaylist" data-dialog-show-description="false" data-dialog-show-title="true" data-playlistid="89" data-mediatype="1">
-                        <div class="fsMediaGalleryObject" data-objectid="306" style="width: 400px;">
-                            <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
-                                <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');height: 332px;">
-                                    <button class="fsMediaPlayOverlay" aria-label="Play"></button>
-                                </div>
-                            </a>
+                        <div class="fsMediaGalleryObject" data-objectid="306" style="width: 200px;">
+                          <a href="images/Certificate-page-010.jpg" aria-label="2017 Rose Assembly_289" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                              <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/Certificate-page-010.jpg');height: 200px;">
+                                  <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                              </div>
+                          </a>
+                        </div>
+                        <div class="fsMediaGalleryObject" data-objectid="306" style="width: 200px;">
+                          <a href="images/zyofe.png" aria-label="" data-lightbox="fsMediaGalleryPlaylist_89" data-title="Your Kids 'R' Our Kids">
+                              <div class="fsCroppedImage fsMediaGalleryThumbnail" style="background-image: url('images/zyofe.png');height: 200px;">
+                                  <button class="fsMediaPlayOverlay" aria-label="Play"></button>
+                              </div>
+                          </a>
                         </div>
                       </div>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Corporate Enquiry:</span></strong></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">If you are looking for a corporate daycare partnership?</span></strong></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">You can also reach out to Mr. Bharat Kapoor at 9740 266 633 / bharatkapoor@ykrok.in</span></strong></p>
                     </div>
                   </div>
                 </div>
@@ -107,10 +146,10 @@
                         <img src="images/tnklsdc.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/tvdfvdmv.png" alt="">
+                        <img src="images/zuoiw.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/tmsd.png" alt="">
+                        <img src="images/zhsfsa.png" alt="">
                       </div>
                     </div>
                   </div>

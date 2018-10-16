@@ -114,10 +114,10 @@
                         <img src="images/qqqq.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/sd.png" alt="">
+                        <img src="images/sqsqs.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/sqsqs.png" alt="">
+                        <img src="images/qyoi.png" alt="">
                       </div>
                     </div>
                   </div>

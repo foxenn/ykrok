@@ -52,7 +52,7 @@
                         <li><a href="our_curriculum.php">International Accreditation</a></li>
                         <li class="fsNavCurrentPage"><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Learning Library</a></li>
-                        <li><a href="quality.php">Quality Assurance</a></li>
+                        <li><a href="quality.php">Corporate Audits</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -66,7 +66,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">STREAM (Science, technology, engineering, arts and mathematics)</h2>
+                      <h2 class="fsElementTitle">STEAM (Science, technology, engineering, arts and mathematics)</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">

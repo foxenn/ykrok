@@ -157,6 +157,12 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
+                        <img src="images/xgkdfw.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/xniovwe.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
                         <img src="images/rnklnds.png" alt="">
                       </div>
                       <div class="side_img_cvr">
@@ -165,6 +171,7 @@
                       <div class="side_img_cvr">
                         <img src="images/rvvmsd.png" alt="">
                       </div>
+
                     </div>
                   </div>
                 </div>

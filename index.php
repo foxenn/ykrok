@@ -83,7 +83,7 @@
                         <div class="fsElementContent">
                           <h2>FIND A CENTRE <br>NEAR YOU</h2>
                           <h2 class="call_me">Call: 819 729 6254 / <br> 804 083 7999</h2>
-                          <p>We'd love to meet you!</p>
+                          <h2>Book A TOUR</h2>
                         </div>
                         <footer>
                           <div class="fsElementFooterContent">
@@ -368,7 +368,7 @@
                           <a class="fsCalendarEventLink" data-occur-id="5433" href="after_school.php" tabindex="0">
                             <span class="top-arrow"></span>
                             <div class="calendar-date">
-                              <span class="day">After School </span>
+                              <span class="day">After School Care</span>
                             </div>
                             <div class="calendar-image" style="background-image: url(images/172481897-612x612.jpg)"></div>
                             <!-- <div class="calendar-image" style="background-image: url(images/p14.jpg)"></div> -->
@@ -580,13 +580,13 @@
                         <div class="icon_faci_cvr">
                           <img src="images/brushing-teeth.png" alt="">
                         </div>
-                        <p>Tooth Brusing</p>
+                        <p>Tooth Brushing</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
-                          <img src="images/museum.png" alt="">
+                          <img src="images/molecule.png" alt="">
                         </div>
-                        <p>Piazza</p>
+                        <p>Science</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
@@ -629,9 +629,9 @@
                       
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
-                          <img src="images/flag.png" alt="">
+                          <img src="images/relaxing.png" alt="">
                         </div>
-                        <p>Discovery Center</p>
+                        <p>Nap Time</p>
                       </div>
                       <!-- <div class="faci_icon">
                         <div class="icon_faci_cvr">
@@ -663,13 +663,11 @@
                         </div>
                         <p>Circle Time</p>
                       </div> -->
-                      
-                      
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
-                          <img src="images/watering-can.png" alt="">
+                          <img src="images/tube.png" alt="">
                         </div>
-                        <p>Front Yard</p>
+                        <p>Motor Skills</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">

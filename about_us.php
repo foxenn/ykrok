@@ -51,7 +51,7 @@
                         <li><a href="our_curriculum.php">International Accreditation</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Learning Library</a></li>
-                        <li><a href="quality.php">Quality Assurance</a></li>
+                        <li><a href="quality.php">Corporate Audits</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -69,13 +69,14 @@
                     </header>
                     <div class="fsElementContent">
                       <p>Your Kids ‘R’ Our Kids is a leading provider of early education and care for the corporate market, operating 35 Day Care centres, with a capacity to serve 3,500 children and over 200 corporate tie ups.</p>
+                      <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
                       <p>We offer an integrated childcare strategy where there is no “one size fits all” approach to childcare solutions, and we work with companies of all sizes and industries to provide all options for tacking childcare.</p>
                       <p>We offer regular, intermittent, at nonstandard hours childcare for children ages 3 months to 8 years of age.</p>
                       <div class="WordSection1">
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Our corporate tie up solutions include:</span></strong></p>
                         <ul>
                           <li>Subsidies</li>
-                          <li>Resever sapce in multiple YKROK Child care center</li>
+                          <li>Reserve space in multiple YKROK Child care center</li>
                           <li>On-site crèche</li>
                           <li>Pan India </li>
                           <li>Extended hours</li>
@@ -84,7 +85,7 @@
                           <li>Flexible working</li>
                         </ul>
                       </div>
-                      <p>With Pan India capabilities, the company is Privately Owned and Operated with 16+ Years Experience. With a Strong Name Recognition with being the First Company to Start Corporate Child Care Centres in India, it has developed a proven and advanced Child Care Operating System.</p>
+                      
                       <p>Your Kids ‘R’ Our Kids partners with corporate’s to provide Child Daycare services with different program options for various age groups.</p>
                       <ul>
                         <li>Infant and Toddler Programs (ages 3 –24 months)</li>

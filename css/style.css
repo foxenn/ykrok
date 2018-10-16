@@ -6959,10 +6959,22 @@ body:not(.fsComposeMode) .faci_icon p{
 }
 
 
+@media only screen and (min-width: 1025px){
+.team_imd_row{
+  width: 100%;
+  margin: 0px;
+}
 
+.team_imd_row li{
+  display: inline-block;
+  width: 49%;
+  float: left;
+}
+}
 
-
-
+.clear{
+  clear: both;
+}
 
 
 

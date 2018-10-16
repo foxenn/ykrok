@@ -207,6 +207,9 @@
                       <div class="side_img_cvr">
                         <img src="images/caea.png" alt="">
                       </div>
+                      <div class="side_img_cvr">
+                        <img src="images/nalasa.png" alt="">
+                      </div>
                     </div>
                   </div>
                 </div>

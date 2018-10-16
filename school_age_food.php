@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/twoo.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/mcassc.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -124,7 +124,7 @@
                           </tbody>
                         </table>
                       </div>
-                      <div class="singleimgcontent">
+                      <!-- <div class="singleimgcontent">
                         <div class="side_img_cvr">
                           <img src="images/dw.png" alt="">
                         </div>
@@ -140,7 +140,7 @@
                         <div class="side_img_cvr">
                           <img src="images/qq.png" alt="">
                         </div>
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
@@ -161,9 +161,7 @@
                       <div class="side_img_cvr">
                         <img src="images/dsa.png" alt="">
                       </div>
-                      <div class="side_img_cvr">
-                        <img src="images/dsas.png" alt="">
-                      </div>
+                      
                     </div>
                   </div>
                 </div>

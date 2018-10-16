@@ -101,7 +101,7 @@
                         <li>We have a “No Shoe Policy" in our Infant rooms to keep the environment as clean as possible Children regularly experience the outdoors on car rides or on a blanket on the lawn.</li>
                       </ul> -->
                     <p>Starting at 3 months,your baby's first year of life is an amazing time, filled with discovery and enormous growth. It's no secret that what your child learns early in his/her life will be critical to have success in school, relationships and life.</p>
-                    <p>It can be difficult to leave your infant in someone else's care and be confident that your child gets the same care and stimulation you would give him/her.YKROK infant program will put your mind  infant has an individualized learning program according to his/her needs.</p>
+                    <p>It can be difficult to leave your infant in someone else's care and be confident that your child gets the same care and stimulation you would give him/her. YKROK infant program will put your mind  infant has an individualized learning program according to his/her needs.</p>
                     
                     <ul>
                       <li>Registered nurses and caregivers manage the infants. </li>
@@ -115,7 +115,7 @@
                     <ul>
                       <li>Age appropriate non toxic toys from high end brands. </li>
                       <li>Separate nap area with individualized cribs for each infant. </li>
-                      <li>Air conditioned rooms.</li>
+                      <li>Air conditioned rooms in some centres.</li>
                       <li>CCTV camera / live video link.</li>
                       <li>All women staff.</li>
                       <li>Meals.</li>

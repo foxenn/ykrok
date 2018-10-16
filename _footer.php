@@ -50,6 +50,7 @@
                                         <li><a href="https://www.facebook.com/yourkidsrourkids/" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
                                         <li><a href="https://www.linkedin.com/company/33285103" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a href="https://www.instagram.com/ykrok_official/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://www.instagram.com/ykrok_official/" target="_blank"><i class="fa fa-youtube"></i></a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -66,7 +67,7 @@
                                 <ul>
                                     <li style="font-size: 16px;">Registered Office:</li>
                                     <li>Your Kids 'R" Our Kids (I) Educational Pvt Ltd.</li>
-                                    <li>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramamgala</li>
+                                    <li>Pragati mansions, 2nd floor, 1st a Cross, 5th a block, Koramangala</li>
                                     <li>Contact: <a href="tel:+919740206633">+91 804 083 7999</a> / <a href="tel:+918040837999">+91 819 729 6254</a></li>
                                     <li>E-mail ID: <a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in</a></li>
                                     <li>CIN: U80301KA2008PTC054453</li>
@@ -102,6 +103,6 @@
 
         <div id="fsPoweredByFinalsite" role="complementary">
             <div>
-                <a href="https://nikhilb.co.in" title="Designed By Nikhil B - Web Developer" target="_blank">Coded by Nikhil B</a>
+                <a href="https://nikhilb.co.in" title="Designed By Nikhil B - Web Developer" target="_blank">Creative Directors: Nikhil B</a>
             </div>
         </div>

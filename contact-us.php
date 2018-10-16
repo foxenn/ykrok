@@ -96,6 +96,7 @@
                         <li>Please send your RFP to either  </li>
                         <li><a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></li>
                       </ul> -->
+                    
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Enrolments: <a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a> <a href="tel:08040837999">08040837999 /</a>  <a href="tel:8197296254"> 8197296254 </a></span></strong></p>
 
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Corporate Tie Ups: <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> </span></strong></p>

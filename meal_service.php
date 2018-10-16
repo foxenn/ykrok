@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/twoo.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/nfjwei.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -75,29 +75,7 @@
                         <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">PROHIBITED USES OF FOOD</span></strong></p>
                         <p>Teacher/assistant teacher/nurses will encourage, but not force, children to eat. Teacher/assistant teacher/nurses will not use food as a reward or punishment.</p>
                       </div>
-                      <div class="singleimgcontent">
-                        <div class="side_img_cvr">
-                          <img src="images/dsa.png" alt="">
-                        </div>
-                        <div class="side_img_cvr">
-                          <img src="images/dsas.png" alt="">
-                        </div>
-                        <div class="side_img_cvr">
-                          <img src="images/dw.png" alt="">
-                        </div>
-                        <div class="side_img_cvr">
-                          <img src="images/dwdq.png" alt="">
-                        </div>
-                        <div class="side_img_cvr">
-                          <img src="images/eqq.png" alt="">
-                        </div>
-                        <!-- <div class="side_img_cvr">
-                          <img src="images/ewqq.png" alt="">
-                        </div> -->
-                        <div class="side_img_cvr">
-                          <img src="images/qq.png" alt="">
-                        </div>
-                      </div>
+                      
                     </div>
                   </div>
                 </div>

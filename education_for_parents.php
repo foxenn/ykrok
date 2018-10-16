@@ -124,9 +124,6 @@
                         <img src="images/dsa.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/dsas.png" alt="">
-                      </div>
-                      <div class="side_img_cvr">
                         <img src="images/dw.png" alt="">
                       </div>
                       <div class="side_img_cvr">

@@ -20,7 +20,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/onee.jpg');">
+                <div class="fsElement fsContent header-multimedia-holder" id="fsEl_1966" data-use-new="true" data-manual-resource-scaling="true" style="background-image: url('images/cblsnvd.jpg');">
                   <div class="fsElementContent">
                   </div>
                 </div>
@@ -52,7 +52,7 @@
                         <li><a href="our_curriculum.php">International Accreditation</a></li>
                         <li><a href="steam.php">STEAM & Literacy</a></li>
                         <li><a href="brain_development.php">Learning Library</a></li>
-                        <li class="fsNavCurrentPage"><a href="quality.php">Quality Assurance</a></li>
+                        <li class="fsNavCurrentPage"><a href="quality.php">Corporate Audits</a></li>
                       </ul>
                     </nav>
                   </div>
@@ -105,10 +105,13 @@
                   <div class="fsElement fsContent" id="fsEl_1531" data-use-new="true">
                     <div class="fsElementContent">
                       <div class="side_img_cvr">
-                        <img src="images/ewq.png" alt="">
+                        <img src="images/cljnsfs.png" alt="">
                       </div>
                       <div class="side_img_cvr">
-                        <img src="images/wewdas.png" alt="">
+                        <img src="images/cjhdqwd.png" alt="">
+                      </div>
+                      <div class="side_img_cvr">
+                        <img src="images/cjbfqln.png" alt="">
                       </div>
                     </div>
                   </div>
