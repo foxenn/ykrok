@@ -56,7 +56,7 @@
                             </div>
                             <footer>
                                 <div class="fsElementFooterContent" style="text-align: right;">
-                                    <div>Your Kids 'R' Our Kids App's</div>
+                                    <div>Connect with Your Kids 'R' Our Kids</div>
                                 </div>
                             </footer>
 

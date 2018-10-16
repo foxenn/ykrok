@@ -64,7 +64,7 @@
                 <div class=" fsDiv fsStyleTwoThirds fsStyleAutoclear" id="fsEl_1154">
                   <div class="fsElement fsContent" id="fsEl_1155" data-use-new="true">
                     <header>
-                      <h2 class="fsElementTitle">Educations for parents</h2>
+                      <h2 class="fsElementTitle">Education for parents</h2>
                     </header>
                     <div class="fsElementContent">
                       <div class="WordSection1">

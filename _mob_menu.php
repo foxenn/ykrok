@@ -10,7 +10,7 @@
             <li><a href="education_for_parents.php">Meal Time</a></li>
             <li><a href="security_measures.php">Facilties</a></li>
             <li><a href="tackling_childcare.php">Corporate Tie-Ups</a></li>
-            <li><a href="contact-us.php">Contact Us</a></li>
+            <li><a href="contact-us.php">Family Support</a></li>
           </ul>
         </nav>
       </div>

@@ -130,7 +130,7 @@
                     <p>
                       <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">Company Privately Owned And Operated With 16+ Years Experience</span></strong>
                     </p>
-                    <p>All centres are licensed. Red corpet award winner. Centre Heads and Operation Managers are on-site to ensure availability to staff and parents.</p>
+                    <p>All centres are licensed. Red carpet workplace trophies for 37 best childcare staff.  Centre Heads and Operation Managers are on-site to ensure availability to staff and parents.</p>
                   <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Key Staff </span></strong></p>
                   <ul class="team_imd_row">
                     <li>Queen Victoria, Manager, CRM</li>

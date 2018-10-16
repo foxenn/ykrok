@@ -538,7 +538,7 @@
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
                           <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum (IPC) to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
+                          <p>YKROK is authorized by the International Pre School Curriculum to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -584,7 +584,7 @@
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
-                          <img src="images/molecule.png" alt="">
+                          <img src="images/microscope.png" alt="">
                         </div>
                         <p>Science</p>
                       </div>
@@ -598,19 +598,19 @@
                         <div class="icon_faci_cvr">
                           <img src="images/equalizer.png" alt="">
                         </div>
-                        <p>Music & Dance Studio</p>
+                        <p>Music & Dance</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/dinosaur.png" alt="">
                         </div>
-                        <p>Children’s museum</p>
+                        <p>Children’s Museum</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/chef.png" alt="">
                         </div>
-                        <p>Little chef’s lab</p>
+                        <p>Little Chef’s Lab</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
@@ -643,7 +643,7 @@
                         <div class="icon_faci_cvr">
                           <img src="images/monitor.png" alt="">
                         </div>
-                        <p>Computer Center</p>
+                        <p>Technology</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
