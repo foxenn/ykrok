@@ -72,7 +72,9 @@
                       </p>
                       <p>Contact <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></p> -->
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Registered Office</span></strong></p>
-                      <p>Your Kids ‘R’ Our Kids (India) Education Private Limited  Pragati Mansion, Number 12, 2nd Floor 1st A Cross, 5th A Block Koramangala Bangalore, KA 560095</p>
+                      <p>Your Kids ‘R’ Our Kids (India) Education Private Limited  </p>
+                      <p>Pragati Mansion, Number 12, 2nd Floor 1st A Cross, 5th A Block Koramangala </p>
+                      <p>Bangalore, Karnataka 560095</p>
                     </div>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1944.300970627267!2d77.6213682!3d12.9332863!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15cb04e24b25%3A0xfb239ec4aa82035c!2sYour+Kids+&#39;R&#39;+Our+Kids!5e0!3m2!1sen!2sin!4v1539195813477" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     <!-- <header>

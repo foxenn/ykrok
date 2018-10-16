@@ -2059,7 +2059,7 @@ body:not(.fsComposeMode) #fsFooter {
   body:not(.fsComposeMode) #fsFooter .lower-copyright #fsPoweredByFinalsite {
     position: absolute;
     bottom: 0px;
-    right: calc(50% - 120px);
+    right: calc(50% - 200px);
     width: auto;
     transform: translateX(-50%); }
     @media (max-width: 899px) {

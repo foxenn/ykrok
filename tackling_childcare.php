@@ -132,8 +132,7 @@
                         </div>
                       </div>
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">Corporate Enquiry:</span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">If you are looking for a corporate daycare partnership?</span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">You can also reach out to Mr. Bharat Kapoor at 9740 266 633 / bharatkapoor@ykrok.in</span></strong></p>
+                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Mr. Bharat Kapoor at 9740 206 633 / bharatkapoor@ykrok.in</span></strong></p>
                     </div>
                   </div>
                 </div>

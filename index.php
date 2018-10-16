@@ -61,12 +61,11 @@
                           </h3>
                           <div class="awards_home">
                             <ul>
-                              <li>Most famous corporate day care brand for 2018 </li>
+                              <li>Most famous corporate day care brand </li>
                               <li>IIM Bangalore award for Innovation </li>
-                              <li>IBM wins Nasscom award for best childcare services</li>
-                              <li>Corporate client satisfaction scores topped 99% </li>
+                              <li>IBM YKROK Partnership wins NASSCOM award</li>
+                              <li>Parent consumer choice award </li>
                               <li>Red carpet workplace trophies for 37 best childcare staff</li>
-                              <!-- <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project.</li> -->
                             </ul>
                           </div>
                           <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
