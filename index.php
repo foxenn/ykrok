@@ -49,7 +49,7 @@
                           </div>
                         </div>
                       </div>
-                      <div class="fsElement fsContent editable-image top" id="fsEl_1337" data-use-new="true" style="background-image: url('images/530159879.jpg');">
+                      <div class="fsElement fsContent editable-image top" id="fsEl_1337" data-use-new="true" style="background-image: url('images/ucnlasac.jpg');">
                         <div class="fsElementContent">
                         </div>
                       </div>
@@ -63,10 +63,10 @@
                             <ul>
                               <li>Most famous corporate day care brand for 2018 </li>
                               <li>IIM Bangalore award for Innovation </li>
-                              <li>IBM wins Nasscom award for best childcare service</li>
+                              <li>IBM wins Nasscom award for best childcare services</li>
                               <li>Corporate client satisfaction scores topped 99% </li>
                               <li>Red carpet workplace trophies for 37 best childcare staff</li>
-                              <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project.</li>
+                              <!-- <li>Only Day Care in India to be highlighted in the World Bank Tackling Childcare project.</li> -->
                             </ul>
                           </div>
                           <!-- <p><a href="about_us.php" data-page-name="Guiding Principles"><span class="fs_style_27">Find out more</span></a></p> -->
@@ -82,7 +82,7 @@
                         </header>
                         <div class="fsElementContent">
                           <h2>FIND A CENTRE <br>NEAR YOU</h2>
-                          <h2 class="call_me">Call: 819 729 6254 / <br> 804 083 7999</h2>
+                          <h2 class="call_me">Call: 819 729 6254 <br> (080)4 083 7999</h2>
                           <h2>Book A TOUR</h2>
                         </div>
                         <footer>
@@ -538,7 +538,7 @@
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
                           <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures Operations. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
+                          <p>YKROK is authorized by the International Pre School Curriculum to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -586,7 +586,7 @@
                         <div class="icon_faci_cvr">
                           <img src="images/microscope.png" alt="">
                         </div>
-                        <p>Science</p>
+                        <p>Discovery</p>
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
