@@ -79,7 +79,7 @@
                         <p><b>Watching Over Little Ones</b> – Receive a primary caregiver that collaborates with families to ensure a close relationship and consistent care</p>
                         <p><b>Sleeping Safety</b> – During naps, the lights are never turned off. To ensure nap time safety, children in cribs are always under visual contact and listened to. Children sleep on their backs with age appropriate bedding.</p>
                         <p><b>Toys and Playgrounds</b> – Toys are checked rigorously for broken or lose parts, monitored for choking hazards and disinfected according to a regular schedule.</p>
-                        <p><b>Security Gaurds</b> - All centres have a guard to ensure the security of the whole property of the Day Care, it's children, parents, staff, and Visitors. Children will leave the centre with parents or authorized people only. The guards also conduct mock fire drills on a monthly basis. </p>
+                        <p><b>Security Guards</b> - All centres have a guard to ensure the security of the whole property of the Day Care, it's children, parents, staff, and Visitors. Children will leave the centre with parents or authorized people only. The guards also conduct mock fire drills on a monthly basis. </p>
                       </div>
                     </div>
                     

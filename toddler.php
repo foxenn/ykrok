@@ -48,12 +48,12 @@
                       <ul class="fsNavLevel1">
                         <li><a href="infant.php">Infant Daycare</a></li>
                         <li class="fsNavCurrentPage"><a href="toddler.php">Toddler Daycare</a></li>
-                        <li><a href="preschool.php">Preschool Program</a></li>
+                        <li><a href="preschool.php">Pre School Program</a></li>
                         <li><a href="nursery.php">Nursery Program</a></li>
                         <li><a href="kindergarden.php">Kindergarten</a></li>
-                        <li><a href="after_school.php">After School</a></li>
-                        <li><a href="back_up_care.php">Back-Up Care and Emergency Care</a></li>
-                        <li><a href="holiday_camp.php">Summer Camps & Care During School Holidays</a></li>
+                        <li><a href="after_school.php">After School Care</a></li>
+                      <li><a href="back_up_care.php">School Holidays Care</a></li>
+                      <li><a href="holiday_camp.php">Summer Camp</a></li>
                       </ul>
                     </nav>
                   </div>

@@ -94,7 +94,7 @@
                       </ul>
                     </div>
                     <header>
-                      <h2 class="fsElementTitle">Near-site-company Child Care Center  </h2>
+                      <h2 class="fsElementTitle">Near-Site-Company Child Care Center Shared With Other Companies </h2>
                     </header>
                     <div class="fsElementContent">
                       <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 20px;">How Does It Work?</span></strong></p>

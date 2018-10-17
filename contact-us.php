@@ -98,19 +98,48 @@
                         <li>Please send your RFP to either  </li>
                         <li><a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> Or <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></li>
                       </ul> -->
-                    
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Enrolments: <a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a> <a href="tel:08040837999">08040837999 /</a>  <a href="tel:8197296254"> 8197296254 </a></span></strong></p>
 
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Corporate Tie Ups: <a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a> </span></strong></p>
-
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;">Operations: <a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a> </span></strong></p>
-
-
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Customer Service: <a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in </a></span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Nutritionist: <a href="mailto:nutritionist@ykrok.in">nutritionist@ykrok.in</a></span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Curriculum: <a href="mailto:curriculumcoordinator@ykrok.in">curriculumcoordinator@ykrok.in</a></span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Admissions: <a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a></span></strong></p>
-                      <p><strong style="color: rgb(192, 80, 77);"><span style="font-size: 18px;"> Invoices: <a href="mailto:admission@ykrok.in">admission@ykrok.in</a></span></strong></p>
+                      <table id="contact_us_table">
+                        <tbody>
+                          <tr>
+                            <td>
+                              Enrolments:
+                            </td>
+                            <td>
+                              <a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a> <a href="tel:08040837999">08040837999 /</a>  <a href="tel:8197296254"> 8197296254 </a>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td>Corporate Tie Ups:</td>
+                            <td><a href="mailto:bharatkapoor@ykrok.in">bharatkapoor@ykrok.in</a></td>
+                          </tr>
+                          <tr>
+                            <td>Operations:</td>
+                            <td><a href="mailto:sumankapoor@ykrok.in">sumankapoor@ykrok.in</a></td>
+                          </tr>
+                          <tr>
+                            <td>Customer Service: </td>
+                            <td><a href="mailto:customerservice@ykrok.in">customerservice@ykrok.in </a></td>
+                          </tr>
+                          <tr>
+                            <td>Nutritionist:</td>
+                            <td><a href="mailto:nutritionist@ykrok.in">nutritionist@ykrok.in</a></td>
+                          </tr>
+                          <tr>
+                            <td>Curriculum:</td>
+                            <td><a href="mailto:curriculumcoordinator@ykrok.in">curriculumcoordinator@ykrok.in</a></td>
+                          </tr>
+                          <tr>
+                            <td>Admissions:</td>
+                            <td><a href="mailto:counseling@ykrok.in">counseling@ykrok.in</a></td>
+                          </tr>
+                          <tr>
+                            <td>Invoices:</td>
+                            <td><a href="mailto:admission@ykrok.in">admission@ykrok.in</a></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                  
                     </div>
                   </div>
                 </div>

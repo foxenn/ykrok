@@ -6882,63 +6882,7 @@ body:not(.fsComposeMode) .faci_icon p{
     padding-top: 5px;
     position: relative;
 }
-@media only screen and (max-width: 1400px){
-  .prog_box {
-    margin-right: 15px;
-    margin-bottom: 15px;
-  }
-}
-@media only screen and (max-width: 480px){
-  body:not(.fsComposeMode) .home-multimedia-grid .editable-image.bottom,
-  body:not(.fsComposeMode) .homepage-events .calendar-item span.top-arrow{
-    display: none;
-  }
-  .home-multimedia-grid .grid-quicklink > header .fsElementHeaderContent,
-  body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink:after{
-    top: 194px;
-  }
-  body:not(.fsComposeMode) .homepage-news header h2,
-  body:not(.fsComposeMode) .homepage-events header h2,
-  .testimonial-text h1{
-    font-size: 19px;
-    line-height: 28px;
-    letter-spacing: 2px;
-  }
-  .prog_box{
-    width: 100%;
-    float: none;
-    margin-right: 0px;
-  }
-  body:not(.fsComposeMode) .homepage-events .calendar-item{
-    float: none;
-  }
-  body:not(.fsComposeMode) .homepage-events{
-    height: auto;
-  }
-  .faci_icon{
-    width: 33%;
-  }
-  body:not(.fsComposeMode) #fsFooter .contact-details{
-    margin: 0px 0px 20px 0px;
-  }
-  .nav-utility-footer,
-  body:not(.fsComposeMode) #fsFooter .lower-copyright p{
-    text-align: center;
-  }
-  body:not(.fsComposeMode) #fsFooter #fsPoweredByFinalsite{
-    position: static!important;
-    transform: none!important;
-  }
-  .inner-logo-multimedia{
-    display: none;
-  }
-  .spl_icons .icon_cvr{
-    width: 40%;
-  }
-  .spl_icons .icon_text{
-    width: auto;
-  }
-}
+
 
 .spl_icons.profiles_pic .icon_cvr{
   width: 21%;
@@ -6949,12 +6893,12 @@ body:not(.fsComposeMode) .faci_icon p{
 }
 
 @media only screen and (min-width: 1025px){
-.icon_cvr.scroll_tx{
-  float: left;
-}
-.icon_text.scroll_tx{
-  display: inline;
-}
+  .icon_cvr.scroll_tx{
+    float: left;
+  }
+  .icon_text.scroll_tx{
+    display: inline;
+  }
 
 }
 
@@ -6989,5 +6933,115 @@ body:not(.fsComposeMode) .faci_icon p{
 }
 
 
+#contact_us_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#contact_us_table td, #contact_us_table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-weight: bold;
+    font-size: 18px;  
+}
+
+#contact_us_table tr td:first-child{
+    color: rgb(192, 80, 77);
+}
+#contact_us_table tr td:last-child{
+  
+}
+#contact_us_table tr:nth-child(even){background-color: #f2f2f2;}
 
 
+#contact_us_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+@media only screen and (max-width: 1400px){
+  .prog_box {
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 480px){
+  body:not(.fsComposeMode) .home-multimedia-grid .editable-image.bottom,
+  body:not(.fsComposeMode) .homepage-events .calendar-item span.top-arrow{
+    display: none;
+  }
+  .home-multimedia-grid .grid-quicklink > header .fsElementHeaderContent,
+  body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink:after{
+    top: 194px;
+  }
+  body:not(.fsComposeMode) .homepage-news header h2,
+  body:not(.fsComposeMode) .homepage-events header h2,
+  .testimonial-text h1{
+    font-size: 19px;
+    line-height: 28px;
+    letter-spacing: 2px;
+  }
+  .prog_box{
+    width: 100%;
+    float: none;
+    margin-right: 0px;
+  }
+  body:not(.fsComposeMode) .homepage-events .calendar-item{
+    float: none;
+  }
+  body:not(.fsComposeMode) .homepage-events{
+    height: auto;
+  }
+  .faci_icon{
+    width: 49%;
+  }
+  body:not(.fsComposeMode) #fsFooter .contact-details{
+    margin: 0px 0px 20px 0px;
+  }
+  .nav-utility-footer,
+  body:not(.fsComposeMode) #fsFooter .lower-copyright p{
+    text-align: center;
+  }
+  body:not(.fsComposeMode) #fsFooter #fsPoweredByFinalsite{
+    position: static!important;
+    transform: none!important;
+  }
+  .inner-logo-multimedia{
+    display: none;
+  }
+  .spl_icons .icon_cvr{
+    width: 40%;
+  }
+  .spl_icons .icon_text{
+    width: auto;
+  }
+
+  body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink > .fsElementContent h2{
+        font-size: 21px;
+        line-height: 27px;
+        margin-bottom: 7px;
+  }
+  body:not(.fsComposeMode) .home-multimedia-grid .grid-quicklink > .fsElementContent h2.call_me{
+    font-size: 18px;
+  }
+  .socio_connect{
+    text-align: center!important;
+  }
+  .sec_brands{
+    display: none;
+  }
+  .spl_icons.profiles_pic .icon_cvr{
+    width: auto;
+  }
+  .spl_icons.profiles_pic .icon_text{
+    width: auto;
+  }
+
+
+
+}
