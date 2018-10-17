@@ -5884,7 +5884,7 @@ body:not(.fsComposeMode) .homepage-events {
         top: 50%;
         transform: translate3d(-50%, -50%, 0);
         content: "";
-        background: url("https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/calendar-chevron.svg") no-repeat center;
+        background: url("") no-repeat center;
         background-size: cover;
         width: 11px;
         height: 19px; }
@@ -6351,15 +6351,6 @@ body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li {
     display: inline-block;
     margin-left: 15px;
 }
-/*body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="facebook"] {
-    background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/facebook.png) center center / cover no-repeat;
-}
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="linkedin"] {
-    background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/linkedin.png) center center / cover no-repeat;
-}
-body:not(.fsComposeMode) #fsFooter .footer-socials nav ul li [href*="youtube"] {
-    background: url(https://www.mentonegirls.vic.edu.au/uploaded/themes/default_17/images/youtube.png) center center / cover no-repeat;
-}*/
 .prog_box{
   width: 31.33%;
   float: left;
