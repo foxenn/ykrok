@@ -72,6 +72,8 @@
                         <p>
                           <strong style="color: rgb(192, 80, 77); text-transform: capitalize;"><span style="font-size: 18px;">The team is a fantastic group of experienced and well trained staff headed by Mr. Nandan since 2010.</span></strong>
                         </p>
+                        <p>In addition to our Education and Quality Assurance Departments, Your Kids ‘R’ Our Kids Corporate Headquarters provides many other areas of support, which benefit each local centre and the families they serve.</p>
+                        <p>From equipping new facilities with the tools they need to succeed, to housing supplemental supplies for year-round availability, our Administrative Staff are valued as knowledgeable child care service professionals and are available to add the extra support each school deserves.</p>
                         <p>The Support team provides Day Care that they like to call “guilt free”. They inform parents that If your child can’t be in your care, we know that he/she is at the next best place – YKROK! The team takes full responsibility for:</p>
                         <ul>
                           <li>Conducting fire evacuation drills with total staff trained and 100% centre coverage</li>

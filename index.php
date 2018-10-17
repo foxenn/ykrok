@@ -537,7 +537,7 @@
                       <div class="fsElement fsContent testimonial-text" id="fsEl_1306" data-use-new="true">
                         <div class="fsElementContent">
                           <h1>TRULY DIFFERENTIATED RECOGNITION</h1>
-                          <p>YKROK is authorized by the International Pre School Curriculum to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. <br>Deloitte & Touché, the world leader in consultancy, has developed the Standard Operating Procedures for daycare Operations.</p>
+                          <p>YKROK is authorized by the International Pre School Curriculum to provide the international early childhood education programme. This accreditation is given to day care centres that share a common philosophy—a commitment to high quality, challenging, international education that we believe is important for our children. <br>Deloitte & Touché has exclusively developed the Standard Operating Procedures and Policies giving loads of benefits for managing the centres, ensuring parent confidence, and reducing work stress with staff.</p>
                           <!-- <div class="owl-carousel owl-carousel-testimonial owl-theme">
                             <div class="item">
                                 
@@ -583,6 +583,54 @@
                       </div>
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
+                          <img src="images/relaxing.png" alt="">
+                        </div>
+                        <p>Nap Time</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/meditation.png" alt="">
+                        </div>
+                        <p>Games & Yoga</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/tube.png" alt="">
+                        </div>
+                        <p>Motor Skills</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/chef.png" alt="">
+                        </div>
+                        <p>Little Chef’s Lab</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/dinosaur.png" alt="">
+                        </div>
+                        <p>Children’s Museum</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/calculator.png" alt="">
+                        </div>
+                        <p>Math-Manipulatives</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/reading.png" alt="">
+                        </div>
+                        <p>Book Nook</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
+                          <img src="images/equalizer.png" alt="">
+                        </div>
+                        <p>Music & Dance</p>
+                      </div>
+                      <div class="faci_icon">
+                        <div class="icon_faci_cvr">
                           <img src="images/microscope.png" alt="">
                         </div>
                         <p>Discovery</p>
@@ -593,87 +641,19 @@
                         </div>
                         <p>Art Adventure</p>
                       </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/equalizer.png" alt="">
-                        </div>
-                        <p>Music & Dance</p>
-                      </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/dinosaur.png" alt="">
-                        </div>
-                        <p>Children’s Museum</p>
-                      </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/chef.png" alt="">
-                        </div>
-                        <p>Little Chef’s Lab</p>
-                      </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/meditation.png" alt="">
-                        </div>
-                        <p>Games & Yoga</p>
-                      </div>
-                      <!-- <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/painting.png" alt="">
-                        </div>
-                        <p>Art Adventure</p>
-                      </div> -->
                       
                       
                       
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/relaxing.png" alt="">
-                        </div>
-                        <p>Nap Time</p>
-                      </div>
-                      <!-- <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/grow-up.png" alt="">
-                        </div>
-                        <p>Grow and Play</p>
-                      </div> -->
+                      
                       <div class="faci_icon">
                         <div class="icon_faci_cvr">
                           <img src="images/monitor.png" alt="">
                         </div>
                         <p>Technology</p>
                       </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/reading.png" alt="">
-                        </div>
-                        <p>Book Nook</p>
-                      </div>
-                      <!-- <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/theater.png" alt="">
-                        </div>
-                        <p>Dramatic Play</p>
-                      </div> -->
-                      <!-- <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/tic-tac-toe.png" alt="">
-                        </div>
-                        <p>Circle Time</p>
-                      </div> -->
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/tube.png" alt="">
-                        </div>
-                        <p>Motor Skills</p>
-                      </div>
-                      <div class="faci_icon">
-                        <div class="icon_faci_cvr">
-                          <img src="images/calculator.png" alt="">
-                        </div>
-                        <p>Math-Manipulatives</p>
-                      </div>
+                      
+                      
+                      
                     </div>
                       
                   </section>

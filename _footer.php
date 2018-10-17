@@ -65,7 +65,7 @@
 
                             <div class="fsElementContent">
                                 <ul>
-                                    <li style="font-size: 16px;">Registered Office:</li>
+                                    <li style="font-size: 16px;margin-bottom: 10px">Registered Office:</li>
                                     <li>Your Kids 'R' Our Kids (India) Education Private Limited</li>
                                     <li>Pragati Mansions, 2nd Floor, 1st A Cross, 5th A Block, Koramangala</li>
                                     <li>Contact: <a href="tel:+919740206633">+91 804 083 7999</a> / <a href="tel:+918040837999">+91 819 729 6254</a></li>
