@@ -8,7 +8,7 @@
             <li><a href="about_us.php">Why Choose Us</a></li>
             <li><a href="infant.php">Our Services</a></li>
             <li><a href="education_for_parents.php">Meal Time</a></li>
-            <li><a href="security_measures.php">Facilties</a></li>
+            <li><a href="security_measures.php">Facilities</a></li>
             <li><a href="tackling_childcare.php">Corporate Tie-Ups</a></li>
             <li><a href="contact-us.php">Family Support</a></li>
           </ul>
